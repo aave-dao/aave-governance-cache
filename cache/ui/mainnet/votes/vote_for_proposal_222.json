@@ -1,0 +1,324 @@
+{
+  "votes": [
+    {
+      "proposalId": 222,
+      "address": "0x4b2c289a9a475554ed8791844b2E0d03924F8358",
+      "support": true,
+      "votingPower": 0.3184310962041807,
+      "transactionHash": "0xa6beda9f8951e28ed9c6e5022eddd23367b810407b3f0e708bdf48609688afb8",
+      "blockNumber": 66016666,
+      "chainId": 137,
+      "ensName": null
+    },
+    {
+      "proposalId": 222,
+      "address": "0xECD02810Db92Ff027ea1b0850d46BdA963676D74",
+      "support": true,
+      "votingPower": 0.17549892304312856,
+      "transactionHash": "0xa2b842e1023b37f95c63b681af0be4bb4ec8acf030789394dc5489fb6b3bb835",
+      "blockNumber": 66013795,
+      "chainId": 137,
+      "ensName": "hashigo.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0xB7A6fB0bAFfb7438637AfDe7907f033CB82bd61D",
+      "support": true,
+      "votingPower": 16.786471949369954,
+      "transactionHash": "0x73ea34bd5fd68a87cd9cf178c34db029e52aa6cf9b47490696dd42e103851deb",
+      "blockNumber": 65983567,
+      "chainId": 137,
+      "ensName": null
+    },
+    {
+      "proposalId": 222,
+      "address": "0xb35659cbac913D5E4119F2Af47fD490A45e2c826",
+      "support": true,
+      "votingPower": 130.80901559,
+      "transactionHash": "0xe4913031161f438204c20404b40bf5ba02d7764ab1d6d019298e84bbd224c5e7",
+      "blockNumber": 65980993,
+      "chainId": 137,
+      "ensName": "eventhorizoncommunity.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0x1855f41B8A86e701E33199DE7C25d3e3830698ba",
+      "support": true,
+      "votingPower": 3000.00036274,
+      "transactionHash": "0x23de3345e61e989235282bcb7390c2d12f063720354970d81195cfbcc8de79e7",
+      "blockNumber": 65979616,
+      "chainId": 137,
+      "ensName": "0xkeyrock.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0xE4594A66d9507fFc0d4335CC240BD61C1173E666",
+      "support": true,
+      "votingPower": 5,
+      "transactionHash": "0xd9c46f723b27d020af811bd76da0a367f0b9b04dd94cc6091e601973cbc248bf",
+      "blockNumber": 65969429,
+      "chainId": 137,
+      "ensName": "hkustblockchain.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0x55D455497369879195AF6B322B9166cc93Ba57bd",
+      "support": true,
+      "votingPower": 3.78004004,
+      "transactionHash": "0x0b981f6fdd82cf0592ab0fbfeff829f79fe34532233fec83c29bd80eb03d991f",
+      "blockNumber": 65965816,
+      "chainId": 137,
+      "ensName": null
+    },
+    {
+      "proposalId": 222,
+      "address": "0x274829C52bba894d62A4931b46B76cFE0606Ac26",
+      "support": true,
+      "votingPower": 16.14625203945484,
+      "transactionHash": "0x7efe66c67bf6898c808f6a44db742b5967a06b8d582a61bf36a023fb95397411",
+      "blockNumber": 65964148,
+      "chainId": 137,
+      "ensName": "dapriddle.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0xB83Ad7D7EFE3fc000a6344c73B3E4407A734d1A8",
+      "support": true,
+      "votingPower": 74.3229959841519,
+      "transactionHash": "0xc70563f4febb85ac9ca80b2496e28a52c45e2a3b8d0781c9345080d245d29865",
+      "blockNumber": 65962441,
+      "chainId": 137,
+      "ensName": null
+    },
+    {
+      "proposalId": 222,
+      "address": "0x8b37a5Af68D315cf5A64097D96621F64b5502a22",
+      "support": true,
+      "votingPower": 122271.34811863,
+      "transactionHash": "0xd14d725dbb278333496290f6100b9b642a56b38d52eb2d86c19a1a673c61a186",
+      "blockNumber": 65962309,
+      "chainId": 137,
+      "ensName": "aretagov.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0xa3E2330e4fA9BB23d7EAAa3628b2C1906EeAD200",
+      "support": true,
+      "votingPower": 601.8452775466553,
+      "transactionHash": "0x227adb9f38af939774643070b6b12f9f393415e62857a49ef1214d57b5d719b9",
+      "blockNumber": 65955050,
+      "chainId": 137,
+      "ensName": "radstrom.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0x6EEDE9b939E8F9816D3bB88D5ADaCA90a21191D3",
+      "support": true,
+      "votingPower": 117.04334192014078,
+      "transactionHash": "0x151318600911bd2a6935ecb1b59b54557eb3ab336bd646987a0f73e0e520bab9",
+      "blockNumber": 65948522,
+      "chainId": 137,
+      "ensName": null
+    },
+    {
+      "proposalId": 222,
+      "address": "0x6276Ac03090f2BB8bE680178343aC368F713b4E8",
+      "support": true,
+      "votingPower": 2.008811769918498,
+      "transactionHash": "0x35ece163be2fd7791676f99264f1b98fbe2675c6df718c1505fab8a5db8d2a9a",
+      "blockNumber": 65948438,
+      "chainId": 137,
+      "ensName": "bricef.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0x2F2F665974261C4129b1DC6c359BD259CD66f78A",
+      "support": true,
+      "votingPower": 2,
+      "transactionHash": "0x45c0090f85090c51e34daa7602412e85ac29634b9cfce40848f519528dbd5477",
+      "blockNumber": 65947493,
+      "chainId": 137,
+      "ensName": "0htjit.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0x74a2E6A985B33454D39A0b333F51c3315CafC125",
+      "support": true,
+      "votingPower": 1.025256899410228,
+      "transactionHash": "0x528de941614903f4d8c732495a188adbb91c4f4d17a03cd4d40655eb2acefb2e",
+      "blockNumber": 65947354,
+      "chainId": 137,
+      "ensName": "azami.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0x8787FC2De4De95c53e5E3a4e5459247D9773ea52",
+      "support": true,
+      "votingPower": 24230.22041214,
+      "transactionHash": "0x783d5cff5e04aa5876a52165b79ad3b6e0aefe8c7cf842e5825ecba4e4bf3b08",
+      "blockNumber": 65945181,
+      "chainId": 137,
+      "ensName": "governance.karpatkey.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0x3DDC7d25c7a1dc381443e491Bbf1Caa8928A05B0",
+      "support": true,
+      "votingPower": 30001.690473940096,
+      "transactionHash": "0x7b815e9a29ed4e52ecb97540d64b2588c72b5ac7920a246822ffa1af9cbe8f31",
+      "blockNumber": 65944588,
+      "chainId": 137,
+      "ensName": "ignasdefi.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0x8bC8b4E4921101BcC56ec084b906069b73de7276",
+      "support": true,
+      "votingPower": 1.1568958164237513,
+      "transactionHash": "0xa6a4ecabbd88562baf572de4f38e4cc6dc687a1041650b05ab4e7fd64896c489",
+      "blockNumber": 65939761,
+      "chainId": 137,
+      "ensName": "yuiyui.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0x08651EeE3b78254653062BA89035b8F8AdF924CE",
+      "support": true,
+      "votingPower": 389.88392338,
+      "transactionHash": "0x4abdb14431019309a950ea3673c280d5224780a2501659ca96c887502c416856",
+      "blockNumber": 65937064,
+      "chainId": 137,
+      "ensName": "saucyblock.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0x1bc371d79c5D3DaD6a9C2CE7EF7251C3A956527b",
+      "support": true,
+      "votingPower": 55.63667056243568,
+      "transactionHash": "0x59a67bbe4dc2174042a0c39d569dd664d2769aaa0d5841ae7b6e19c49a625a41",
+      "blockNumber": 65934651,
+      "chainId": 137,
+      "ensName": null
+    },
+    {
+      "proposalId": 222,
+      "address": "0x2bA0fCC894522DF700060a6015f7e96537B18412",
+      "support": true,
+      "votingPower": 1.081294541310279,
+      "transactionHash": "0x553c01a7c8cc00ea2142babbe22e4582ce9081d294e8e972d95a141fee11b2a6",
+      "blockNumber": 65933146,
+      "chainId": 137,
+      "ensName": "tsuinosora.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0xc724e609D9A3968013eF8Ce0Bf2CB48971A9b01D",
+      "support": true,
+      "votingPower": 1.0346044303626591,
+      "transactionHash": "0x0943adeaf84cf36c38a2dcc92379112df5d8999eebf156a5ba14547a358e9861",
+      "blockNumber": 65932349,
+      "chainId": 137,
+      "ensName": "yonagi.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0xd059aae740e03e52122f08F538c13E9322A70028",
+      "support": true,
+      "votingPower": 5.2043807726586495,
+      "transactionHash": "0x8c71a209652cb0c3b15c6469a1713a9c045f5630c605ae6bc274a6b0cec90638",
+      "blockNumber": 65927543,
+      "chainId": 137,
+      "ensName": "huitailang.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0x8659D0BB123Da6D16D9394C7838BA286c2207d0E",
+      "support": true,
+      "votingPower": 152842.18703798,
+      "transactionHash": "0x50278ade4602979b1c3ef734b723bb87278db95962abbf13a9958e1efc2c70b9",
+      "blockNumber": 65926070,
+      "chainId": 137,
+      "ensName": "ezr3al.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0xf13C2AE4ef24e9010EC7A5b56EA1F6aFa9B36Dd3",
+      "support": true,
+      "votingPower": 104.32721097977053,
+      "transactionHash": "0xb5856e02f5bd1feec648d188c93c78b28b08d1df38749d07f7d4f630595f881c",
+      "blockNumber": 65919685,
+      "chainId": 137,
+      "ensName": "lveiga.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0x57ab7ee15cE5ECacB1aB84EE42D5A9d0d8112922",
+      "support": true,
+      "votingPower": 389330.54323205515,
+      "transactionHash": "0x333867c96663b5df741faea448e19c308047a9219b833c752e48aa512c2b39cf",
+      "blockNumber": 65919416,
+      "chainId": 137,
+      "ensName": "aci.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0x29bCCe0253c52780452103BcF09C60d848bDD91d",
+      "support": true,
+      "votingPower": 0.006804636268359115,
+      "transactionHash": "0xbb5aa8b91d4a63b6db97e59be9576a1cfd443da7dcbbd8426fa10083540f709f",
+      "blockNumber": 65917572,
+      "chainId": 137,
+      "ensName": "kumaruhon.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0xB933AEe47C438f22DE0747D57fc239FE37878Dd1",
+      "support": true,
+      "votingPower": 39433.00165889,
+      "transactionHash": "0x119156dfb89ec6d5e0db7eee06c4d6ee99fc84501f4188e6cecac4e8f782d1a4",
+      "blockNumber": 65916648,
+      "chainId": 137,
+      "ensName": "wintermutegovernance.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0xb16C8A090797DD2F20b1dAb3A5b5e243257D4AA2",
+      "support": true,
+      "votingPower": 8.201969768883687,
+      "transactionHash": "0xc091b010a73c1183eeb7aa43f0de1a635506c72cb39b549408eb2f95c78158d7",
+      "blockNumber": 65913978,
+      "chainId": 137,
+      "ensName": null
+    },
+    {
+      "proposalId": 222,
+      "address": "0x17bB6b65B7B5BD3651782CCF2e01c2c9c34ea0Fb",
+      "support": false,
+      "votingPower": 1772.4489160660487,
+      "transactionHash": "0xbb1f0e55a3bf1d05dd364dadde9fda71fefba8c23ee078c03d620b23019425c9",
+      "blockNumber": 65912380,
+      "chainId": 137,
+      "ensName": "yonder.eth"
+    },
+    {
+      "proposalId": 222,
+      "address": "0x35Cb06AfF4fBE190164C971e0194AC1622211B78",
+      "support": true,
+      "votingPower": 51.05681795413397,
+      "transactionHash": "0xbbcd0a654c9d2c78774f715c3b1489262a17db40f3165e9513159c78bc76a754",
+      "blockNumber": 65912274,
+      "chainId": 137,
+      "ensName": null
+    },
+    {
+      "proposalId": 222,
+      "address": "0xECC2a9240268BC7a26386ecB49E1Befca2706AC9",
+      "support": true,
+      "votingPower": 43644.71044657,
+      "transactionHash": "0x7930d1faff58fc36c79673fee7e4c23e1474e25ee226ecf96fedcc2dce46dc3a",
+      "blockNumber": 65911519,
+      "chainId": 137,
+      "ensName": "stablelab.eth"
+    }
+  ]
+}

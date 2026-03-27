@@ -1,0 +1,31 @@
+{
+  "name": "aave-governance-cache",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "yarn@1.22.22",
+  "description": "Cache system for Aave Governance V3",
+  "scripts": {
+    "cache:update": "VERBOSE=true tsx src/scripts/update-cache.ts",
+    "cache:parse": "VERBOSE=true tsx src/scripts/parse-cache.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@aave-dao/aave-address-book": "^4.47.10",
+    "@bgd-labs/js-utils": "^1.4.8",
+    "@bgd-labs/toolbox": "^0.2.21",
+    "abitype": "^1.0.8",
+    "bignumber.js": "^9.1.2",
+    "bs58": "^6.0.0",
+    "dayjs": "^1.11.12",
+    "dotenv": "^16.4.7",
+    "gray-matter": "^4.0.3",
+    "prettier": "^3.8.1",
+    "prettier-plugin-solidity": "^1.4.3",
+    "tsx": "^4.19.2",
+    "viem": "2.46.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.5.4"
+  }
+}

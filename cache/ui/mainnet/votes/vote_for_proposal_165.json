@@ -1,0 +1,74 @@
+{
+  "votes": [
+    {
+      "proposalId": 165,
+      "address": "0x08651EeE3b78254653062BA89035b8F8AdF924CE",
+      "support": true,
+      "votingPower": 21850.82814868,
+      "transactionHash": "0x04723365ecebe15bfa2d46948c053dd8033d278aba2f0038711a6a40a8d470bf",
+      "blockNumber": 61882969,
+      "chainId": 137,
+      "ensName": "saucyblock.eth"
+    },
+    {
+      "proposalId": 165,
+      "address": "0x7dbf3792c0bB891976fDa0aaD9a33957df8D1ab5",
+      "support": true,
+      "votingPower": 138.35504190578592,
+      "transactionHash": "0x31dd00ffdfdf78ab9a49b65eabeb844e846ba4a19f09b2c11b37ec81c8df4aae",
+      "blockNumber": 61873020,
+      "chainId": 137,
+      "ensName": null
+    },
+    {
+      "proposalId": 165,
+      "address": "0xB933AEe47C438f22DE0747D57fc239FE37878Dd1",
+      "support": true,
+      "votingPower": 44729.32662211,
+      "transactionHash": "0x5d28ccca6fd7ecf082210c8c73444687be096c3a279fd35946aa70622ceda426",
+      "blockNumber": 61872866,
+      "chainId": 137,
+      "ensName": "wintermutegovernance.eth"
+    },
+    {
+      "proposalId": 165,
+      "address": "0x2cc1ADE245020FC5AAE66Ad443e1F66e01c54Df1",
+      "support": true,
+      "votingPower": 46561.13344892,
+      "transactionHash": "0xf3b1c843e405423383b0b2f60b00da13a3de081ec7c48aaea36e9416593b5cb6",
+      "blockNumber": 61866003,
+      "chainId": 137,
+      "ensName": "tokenlogic.eth"
+    },
+    {
+      "proposalId": 165,
+      "address": "0xECC2a9240268BC7a26386ecB49E1Befca2706AC9",
+      "support": true,
+      "votingPower": 39979.87308092,
+      "transactionHash": "0x7f93c97f04bbe90037beff9f8c3b4b80dd6e85794db572919dcfe100c3a14c30",
+      "blockNumber": 61857457,
+      "chainId": 137,
+      "ensName": "stablelab.eth"
+    },
+    {
+      "proposalId": 165,
+      "address": "0x5ab7814d88D48F47065b4361a15215Fab177Bc9f",
+      "support": true,
+      "votingPower": 10.352587,
+      "transactionHash": "0xb9df258fa25079322370f34e105fa47c2ec749c6559fe2dedfd718f4bb76869a",
+      "blockNumber": 61857376,
+      "chainId": 137,
+      "ensName": null
+    },
+    {
+      "proposalId": 165,
+      "address": "0x000000C77ab4952aa5C43EE8047bca9cA7265B3D",
+      "support": true,
+      "votingPower": 36.383638130453775,
+      "transactionHash": "0x330e633951695be16f6bcd874e506fc35ae0c6a21ff1747f8c84adedb7c9dd51",
+      "blockNumber": 61855857,
+      "chainId": 137,
+      "ensName": null
+    }
+  ]
+}

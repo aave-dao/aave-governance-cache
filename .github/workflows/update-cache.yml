@@ -1,0 +1,88 @@
+name: Update cache
+# This action checks if there's new finished proposals every 3h
+# If new finished proposal data is found the cache will be warmed up & pushed
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}
+  cancel-in-progress: true
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 */3 * * *
+
+jobs:
+  cache-updates:
+    strategy:
+      matrix:
+        # Only mainnet for now
+        network: [mainnet]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check RPC configuration
+        env:
+          ALCHEMY_API_KEY: ${{ secrets.ALCHEMY_API_KEY }}
+          RPC_MAINNET: ${{ secrets.RPC_MAINNET }}
+        run: |
+          if [ -z "$ALCHEMY_API_KEY" ] && [ -z "$RPC_MAINNET" ]; then
+            echo "No RPC configuration found. Set ALCHEMY_API_KEY or RPC_* secrets to enable cache updates."
+            exit 1
+          fi
+
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version-file: '.nvmrc'
+          cache: 'yarn'
+
+      - name: Packages install
+        shell: sh
+        run: corepack yarn --frozen-lockfile --prefer-offline
+
+      - name: Typecheck
+        shell: sh
+        run: corepack yarn typecheck
+
+      - name: Update cache
+        shell: sh
+        run: corepack yarn cache:update
+        env:
+          ALCHEMY_API_KEY: ${{ secrets.ALCHEMY_API_KEY }}
+          CORE_NETWORK: ${{ matrix.network }}
+          RPC_POLYGON: ${{ secrets.RPC_POLYGON }}
+          RPC_OPTIMISM: ${{ secrets.RPC_OPTIMISM }}
+          RPC_MAINNET: ${{ secrets.RPC_MAINNET }}
+          RPC_BASE: ${{ secrets.RPC_BASE }}
+          RPC_ARBITRUM: ${{ secrets.RPC_ARBITRUM }}
+          RPC_ZKEVM: ${{ secrets.RPC_ZKEVM }}
+          RPC_ZKSYNC: ${{ secrets.RPC_ZKSYNC }}
+          RPC_XLAYER: ${{ secrets.RPC_XLAYER }}
+          IPFS_GATEWAY: ${{ secrets.IPFS_GATEWAY }}
+
+      - name: Parse cache to separate files
+        shell: sh
+        run: corepack yarn cache:parse
+        env:
+          ALCHEMY_API_KEY: ${{ secrets.ALCHEMY_API_KEY }}
+          CORE_NETWORK: ${{ matrix.network }}
+          RPC_POLYGON: ${{ secrets.RPC_POLYGON }}
+          RPC_OPTIMISM: ${{ secrets.RPC_OPTIMISM }}
+          RPC_MAINNET: ${{ secrets.RPC_MAINNET }}
+          RPC_BASE: ${{ secrets.RPC_BASE }}
+          RPC_ARBITRUM: ${{ secrets.RPC_ARBITRUM }}
+          RPC_ZKEVM: ${{ secrets.RPC_ZKEVM }}
+          RPC_ZKSYNC: ${{ secrets.RPC_ZKSYNC }}
+          RPC_XLAYER: ${{ secrets.RPC_XLAYER }}
+          IPFS_GATEWAY: ${{ secrets.IPFS_GATEWAY }}
+
+      - name: Commit and push cache updates
+        run: |
+          if [[ -z $(git status -s) ]]; then
+            echo "tree is clean"
+          else
+            git config --global user.name 'Cache update'
+            git config --global user.email 'cache-bot@bgd.com'
+            git add cache/
+            git commit -m "chore: automated cache update"
+            git pull --rebase
+            git push
+          fi

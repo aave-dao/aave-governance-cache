@@ -1,0 +1,3131 @@
+{
+  "data": {
+    "0xf71fc92e2949ccF6A5Fd369a0b402ba80Bc61E02": {
+      "0": {
+        "proposalId": 0,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf92585de2ff0761e3d86d0e3253d2f49b2a916ef63784834f5e7230efb1bd194",
+        "status": 2,
+        "title": "Aave Pool update"
+      },
+      "6": {
+        "proposalId": 6,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb33d9ebd247cdfb3e2dee839f082a113b74b4c849c90aa6212531741b6c2b82d",
+        "status": 2,
+        "title": "Aave v3 BNB Activation"
+      },
+      "10": {
+        "proposalId": 10,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7aecf9ccc292c69084e164b3eaf105de4cfa18e19d3ec749d55cec850c805a13",
+        "status": 2,
+        "title": "Request for Bounty Payout - January 2024"
+      },
+      "12": {
+        "proposalId": 12,
+        "proposalStatus": 4,
+        "ipfsHash": "0x589222e8d46e0cabcbf3d7cc79e9f1d60771dfaaa07d0966815a7b35320451b7",
+        "status": 2,
+        "title": "Register a.DI Ethereum -> Scroll adapter"
+      },
+      "15": {
+        "proposalId": 15,
+        "proposalStatus": 4,
+        "ipfsHash": "0x8436f643b0e21810e207abe3d975fa647a4e0748a49ee9761a79366886b71789",
+        "status": 2,
+        "title": "Aave V1 Deprecation"
+      },
+      "20": {
+        "proposalId": 20,
+        "proposalStatus": 4,
+        "ipfsHash": "0xaec2b0f6a12587f140399c85050f710c50e593beac66fad4d5ea17d0901847f8",
+        "status": 2,
+        "title": "Aave v3 Scroll Activation"
+      },
+      "21": {
+        "proposalId": 21,
+        "proposalStatus": 4,
+        "ipfsHash": "0x15ad1b6f904ccd31e1419f0440efa53d9f4f723074f1566109fbff1255945a9d",
+        "status": 2,
+        "title": "stkABPT Balancer V2 migration"
+      },
+      "22": {
+        "proposalId": 22,
+        "proposalStatus": 4,
+        "ipfsHash": "0xfbdf952d057c250d16c9f04e17f628b605bf72e348704da5809fbaf9bbafe684",
+        "status": 2,
+        "title": "Migration of remaining Gov v2 permissions & DAO's Paraswap positive slippage"
+      },
+      "27": {
+        "proposalId": 27,
+        "proposalStatus": 4,
+        "ipfsHash": "0xd0152546a8ca4884b82b7f7c9f97a2ae601361efebb52cfd3ff71d345c2c7c68",
+        "status": 2,
+        "title": "Retroactive Bug Bounty Pre-Immunefi"
+      },
+      "36": {
+        "proposalId": 36,
+        "proposalStatus": 4,
+        "ipfsHash": "0xaab715c2dcc34b8c5a9cd408f6b42c1d3b319c857885f3fc5d9083874f53ef95",
+        "status": 2,
+        "title": "Stable Rate Bug Bounty"
+      },
+      "37": {
+        "proposalId": 37,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa451c9a2426267673fd125702c99581683426ca5ff1a003b07a3cd129ed30470",
+        "status": 2,
+        "title": "Aave V1 Deprecation Phase 2"
+      },
+      "51": {
+        "proposalId": 51,
+        "proposalStatus": 4,
+        "ipfsHash": "0x79e8c356e4702464805f27c70515d01da6f5d38e3659d4ebe345aafb5b517484",
+        "status": 2,
+        "title": "Set Price Cap Adapters (CAPO)"
+      },
+      "53": {
+        "proposalId": 53,
+        "proposalStatus": 4,
+        "ipfsHash": "0x2343307e9056837bfd3567bebd4774a67802e74bd097574cdb85e93a294407a2",
+        "status": 2,
+        "title": "v3 Periphery maintenance"
+      },
+      "56": {
+        "proposalId": 56,
+        "proposalStatus": 4,
+        "ipfsHash": "0xfd641d22acacbcc09b476a08bb21c127dfc6d53b511bc7dc022135387159e3fd",
+        "status": 2,
+        "title": "Update a.DI implementation and CCIP adapters"
+      },
+      "59": {
+        "proposalId": 59,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa90b3bf86207fa4b298c36eb83cc9b617ec9308a0663eda73605f09319a5bc2b",
+        "status": 2,
+        "title": "Aave BGD Phase 3"
+      },
+      "70": {
+        "proposalId": 70,
+        "proposalStatus": 4,
+        "ipfsHash": "0xe49d4ab826f1db54eda94e9d5ff536cb80d09ea4f0d6d36829f2626c95cac5f1",
+        "status": 2,
+        "title": "Native bridge adapters update"
+      },
+      "72": {
+        "proposalId": 72,
+        "proposalStatus": 4,
+        "ipfsHash": "0xaa46d2cf629d68cc84bcc83156b2fd8e54819c5e848c229c7e62d1f6212886cc",
+        "status": 2,
+        "title": "Upgrade AMPL implementation"
+      },
+      "75": {
+        "proposalId": 75,
+        "proposalStatus": 4,
+        "ipfsHash": "0x33032b8a57db207e3f6ba5a964f6a438ef6e9a17219ba93b0a51b3ddc69e5ca5",
+        "status": 2,
+        "title": "Interim aAMPL distribution"
+      },
+      "82": {
+        "proposalId": 82,
+        "proposalStatus": 4,
+        "ipfsHash": "0x4886864ed1dc6cb220f17cd372697218cbb5c2ada41e63d6a1f7664168d59052",
+        "status": 2,
+        "title": "Set Price Cap Adapters for Aave V2"
+      },
+      "83": {
+        "proposalId": 83,
+        "proposalStatus": 4,
+        "ipfsHash": "0x309c9f0c885674230940e60b2a8e6fba9a226483d9117ba916ef72d4e3bd013f",
+        "status": 2,
+        "title": "LayerZero bridge adapter update to V2"
+      },
+      "86": {
+        "proposalId": 86,
+        "proposalStatus": 4,
+        "ipfsHash": "0xe8e62cf3cb3fc0fc5686ce63c64f16e14d4bfb58053d74189540f66a607bbea5",
+        "status": 2,
+        "title": "V2 Stable Debt Offboarding"
+      },
+      "92": {
+        "proposalId": 92,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb1cc692a9f2bed0923862de7ff7e603805f38b1b9da844a9977db9dec966b93e",
+        "status": 2,
+        "title": "Hyperlane bridge adapter update to V3"
+      },
+      "93": {
+        "proposalId": 93,
+        "proposalStatus": 4,
+        "ipfsHash": "0x0d7d6e71a610c1f6373cb8e8fb09b7a8f2741bf0264f1175358b1b1ec0062839",
+        "status": 2,
+        "title": "aAMPL Second Distribution"
+      },
+      "97": {
+        "proposalId": 97,
+        "proposalStatus": 4,
+        "ipfsHash": "0x831cacf552f39414ff3d30503666872f3e76d4bfdab01f3893a856496060b0ee",
+        "status": 2,
+        "title": "Aave v3.1 Cantina competition"
+      },
+      "98": {
+        "proposalId": 98,
+        "proposalStatus": 4,
+        "ipfsHash": "0x01f7e5f64c1d7265381681d7090612d3da8fda9ef37b0db36c9e15e119d3a0c7",
+        "status": 2,
+        "title": "Aave V1 Deprecation Phase 3"
+      },
+      "109": {
+        "proposalId": 109,
+        "proposalStatus": 4,
+        "ipfsHash": "0x9d541c10fa619ee3f02e1e8712c710f47e60f126a1476d7df2c73b50afda4248",
+        "status": 2,
+        "title": "Migrate Robots to Chainlink Automation v2"
+      },
+      "128": {
+        "proposalId": 128,
+        "proposalStatus": 4,
+        "ipfsHash": "0xbc7f448d432e8e43bca5e0738c59aeb796c1f7e7e3c000ad46e39b9e77ccac92",
+        "status": 2,
+        "title": "Request for Bounty Payout - June 2024"
+      },
+      "132": {
+        "proposalId": 132,
+        "proposalStatus": 4,
+        "ipfsHash": "0x392c2cdfd6c2f57a7be73b170d472b4b8e6c662cb941451b449a0b2988ab3d57",
+        "status": 2,
+        "title": "Aave v3.1 upgrade"
+      },
+      "143": {
+        "proposalId": 143,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6301c2925cb10d90827d617324d06358335f468b733daa23401b62f2cb1f1d4d",
+        "status": 2,
+        "title": "ADI Shuffle Update"
+      },
+      "148": {
+        "proposalId": 148,
+        "proposalStatus": 4,
+        "ipfsHash": "0x66685f33f6f383548a450f539300fea0566272b9e63ce7438a011914f10475ce",
+        "status": 2,
+        "title": "a.DI ZkSync path activation"
+      },
+      "149": {
+        "proposalId": 149,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6829dc471963cda9a2184fef9531967e9e095312995926148144a9555c3a72fd",
+        "status": 2,
+        "title": "Update PoR Executor V3 Robot"
+      },
+      "153": {
+        "proposalId": 153,
+        "proposalStatus": 4,
+        "ipfsHash": "0x8688fbcdbef567e630198b664e826823dc48b4da2db2935ef827664a25dfce42",
+        "status": 2,
+        "title": "Aave v3 zkSync Activation"
+      },
+      "166": {
+        "proposalId": 166,
+        "proposalStatus": 4,
+        "ipfsHash": "0x93d05154849d2134ec4599cfc4e9da9755b3a47d30d9db27d2f2ea2a1b3d98b6",
+        "status": 2,
+        "title": "Aave v3 zkSync Activation"
+      },
+      "178": {
+        "proposalId": 178,
+        "proposalStatus": 4,
+        "ipfsHash": "0x2e51e731f54ed0b5a0e3133b6f0de76c24ddf43e74c2c60ede057326ef7ae2d7",
+        "status": 2,
+        "title": "Upgrade all Aave instances to 3.2"
+      },
+      "182": {
+        "proposalId": 182,
+        "proposalStatus": 4,
+        "ipfsHash": "0xeaee8d7ba5887bceebc3d403a4f28035e4fb33312effe067d5e291d0cb1a2963",
+        "status": 2,
+        "title": "3.2 patch for legacy periphery"
+      },
+      "184": {
+        "proposalId": 184,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb39e261d5441ad39505291b12cb76a6a03790ff18395b62738e01e3ef0fb3c66",
+        "status": 2,
+        "title": "Update legacy guardian"
+      },
+      "193": {
+        "proposalId": 193,
+        "proposalStatus": 4,
+        "ipfsHash": "0x0b70648bec071bb3647ec46eebafe02991bc0ff0b0b335ece55cb273b6aadbce",
+        "status": 2,
+        "title": "Aave BGD Phase 4"
+      },
+      "197": {
+        "proposalId": 197,
+        "proposalStatus": 4,
+        "ipfsHash": "0x2f41406557b0fc69c256916c066a77c57434fa77ccab3cfe56c8db6a4f306c01",
+        "status": 2,
+        "title": "Aave Generalized Risk Stewards (AGRS) activation"
+      },
+      "200": {
+        "proposalId": 200,
+        "proposalStatus": 4,
+        "ipfsHash": "0xe47e9b75f60408381485d14ff71ce9c855d7a75acc525c01c231a2ec4a130834",
+        "status": 2,
+        "title": "Automated (Edge) AGRS Activation"
+      },
+      "218": {
+        "proposalId": 218,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6dc4e7ef879555ef1532a33e3701152049ab6850b5dfc7d0c8507bf5f02b8b8d",
+        "status": 2,
+        "title": "a.DI Linea path activation"
+      },
+      "228": {
+        "proposalId": 228,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf4899816147eb97bdf4630a9ad1bec2c1266e612094e0a744a9bc264c304945c",
+        "status": 2,
+        "title": "Aave v3.3 Sherlock contest funding"
+      },
+      "232": {
+        "proposalId": 232,
+        "proposalStatus": 4,
+        "ipfsHash": "0xbc14f660e06dbdd5c1780aa5c818ca5cf4b7c3558253ecaed8069f303987576d",
+        "status": 2,
+        "title": "a.DI Celo path activation"
+      },
+      "237": {
+        "proposalId": 237,
+        "proposalStatus": 6,
+        "ipfsHash": "0xa79bea5c305b0e5fb9a32e403c0d647db3278e46a0f302f94b0f172cb6060e98",
+        "status": 3,
+        "title": "Collector upgrade"
+      },
+      "239": {
+        "proposalId": 239,
+        "proposalStatus": 4,
+        "ipfsHash": "0x2e01049c4230c97d5d79d717a2753584e0bf3624c2364ef19ba32f14189cc0c1",
+        "status": 2,
+        "title": "Collector upgrade"
+      },
+      "245": {
+        "proposalId": 245,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa6934c5bd7d57c2bff6c7f996ebc6723ab4c6cba58e2c1ce82e18220ad75a560",
+        "status": 2,
+        "title": "Aave v3 Linea Activation"
+      },
+      "248": {
+        "proposalId": 248,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1b4eb9f586cbb44071b16526737d779953b1a53b057db65987aa9f084674a953",
+        "status": 2,
+        "title": "Request for Bounty Payout - Feb 2025"
+      },
+      "249": {
+        "proposalId": 249,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf0b7b7dd28d63e71f7b4f65a4eeb0058d06ac5911098554fc1d2dbe507d64f78",
+        "status": 2,
+        "title": "a.DI Sonic path activation"
+      },
+      "252": {
+        "proposalId": 252,
+        "proposalStatus": 4,
+        "ipfsHash": "0x13c4f9441574b90e2210e9ca94a8632ba9d997eca6af66283932d3131d642894",
+        "status": 2,
+        "title": "Upgrade Aave instances to v3.3"
+      },
+      "253": {
+        "proposalId": 253,
+        "proposalStatus": 4,
+        "ipfsHash": "0x3a9e0990b0c828e0af7b602f29273c4166a628d8b2249896fac69c12cc8f7b5a",
+        "status": 2,
+        "title": "Caps Risk Oracle Activation on Arbitrum"
+      },
+      "257": {
+        "proposalId": 257,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf6582bfdcba3fe0dea34d09d59afa65489e2e683345e0d3812c0975ebfc3d75a",
+        "status": 2,
+        "title": "Aave V3.3 Sonic Activation"
+      },
+      "268": {
+        "proposalId": 268,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa04d3af3553db0dbc63ed3222f861663c121236b3ab279d8f75daba42bc0703b",
+        "status": 2,
+        "title": "Recreate wrstETH eMode on Base"
+      },
+      "269": {
+        "proposalId": 269,
+        "proposalStatus": 4,
+        "ipfsHash": "0x96ec601543fb7a40dfd26d454be6e041651a761593d8498c4e347c2e8cc4e6f2",
+        "status": 2,
+        "title": "Aave V3.3 Celo Activation"
+      },
+      "270": {
+        "proposalId": 270,
+        "proposalStatus": 4,
+        "ipfsHash": "0x4043001b72316afa6b6728772941bfa08f127b66c1c006316a3f20510b6738ab",
+        "status": 2,
+        "title": "Clinic steward activation"
+      },
+      "272": {
+        "proposalId": 272,
+        "proposalStatus": 3,
+        "ipfsHash": "0xc5e038044cd09bdb8aa05b27a480f3fcb0971932bb709b6ffcca8cfe4728c0d3",
+        "status": 2,
+        "title": "Gov v3 VotingMachine / VotingPortal maintenance"
+      },
+      "273": {
+        "proposalId": 273,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc5e038044cd09bdb8aa05b27a480f3fcb0971932bb709b6ffcca8cfe4728c0d3",
+        "status": 2,
+        "title": "Gov v3 VotingMachine / VotingPortal maintenance"
+      },
+      "274": {
+        "proposalId": 274,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7942e73da2e2f7ece53e45370cdd9a9d8129a4eb7739959d2edb4828a7f95722",
+        "status": 2,
+        "title": "Enable SVR V1 on Aave V3 Ethereum"
+      },
+      "290": {
+        "proposalId": 290,
+        "proposalStatus": 4,
+        "ipfsHash": "0x65a2b1557732fc00eeee947ab9bbbe3b3adfa3da7ff0a5e7203cd748c18b7fe6",
+        "status": 2,
+        "title": "Request for Bounty Payout - March 2025"
+      },
+      "291": {
+        "proposalId": 291,
+        "proposalStatus": 4,
+        "ipfsHash": "0x2976c79737ef0a16930cab6eea90bf53c157fe01d9a3a904f435f266a4dddcf5",
+        "status": 2,
+        "title": "Removal of legacy VotingPortals from Governance v3"
+      },
+      "292": {
+        "proposalId": 292,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc4e57d0da88a6f7eb1a42d455d65adb6785158fd3152466c9e65203c5ce9c30d",
+        "status": 2,
+        "title": "Caps Risk Oracle Activation on Base, Avalanche"
+      },
+      "294": {
+        "proposalId": 294,
+        "proposalStatus": 4,
+        "ipfsHash": "0x843f8e79d8b8a8d16f67b3b612386459ec256ed0118f0452c9f8f75b39c929c0",
+        "status": 2,
+        "title": "Mantle a.DI path activation"
+      },
+      "302": {
+        "proposalId": 302,
+        "proposalStatus": 4,
+        "ipfsHash": "0x510feeec05cecc90e051a33a8b0f78808b39971199da61d4f50dc8ced6cf74aa",
+        "status": 2,
+        "title": "Aave BGD Phase 5"
+      },
+      "308": {
+        "proposalId": 308,
+        "proposalStatus": 4,
+        "ipfsHash": "0x03c2b1edc00d815c2ab96d2072d73620c011f691b028660f83e1cf969fef258f",
+        "status": 2,
+        "title": "Extend SVR V1 to more reserves"
+      },
+      "309": {
+        "proposalId": 309,
+        "proposalStatus": 6,
+        "ipfsHash": "0xde635f0d662264f561dbd690f3a80a4b52d03c80758cba4dc9c958316422e325",
+        "status": 3,
+        "title": "Soneium aDI path activation"
+      },
+      "312": {
+        "proposalId": 312,
+        "proposalStatus": 4,
+        "ipfsHash": "0xde635f0d662264f561dbd690f3a80a4b52d03c80758cba4dc9c958316422e325",
+        "status": 2,
+        "title": "Soneium aDI path activation"
+      },
+      "313": {
+        "proposalId": 313,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1bd0bf584240ed9572b23d3547b891fadefd0909a1c79bf5ba08aa370c71bc61",
+        "status": 2,
+        "title": "Configuration maintenance"
+      },
+      "316": {
+        "proposalId": 316,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf77f1206b8b2ae21cd110abe44848a6280efe3584d6d9e4e3bef84c7a9d15095",
+        "status": 2,
+        "title": "CAPO Adapter Maintenance Update"
+      },
+      "319": {
+        "proposalId": 319,
+        "proposalStatus": 4,
+        "ipfsHash": "0x44f824083cacc5f681288b9868340d1a3164fa238efbd4f442003cb0ca6d0962",
+        "status": 2,
+        "title": "Aave V3.3 Soneium Activation"
+      },
+      "320": {
+        "proposalId": 320,
+        "proposalStatus": 4,
+        "ipfsHash": "0xddf05486e23c698eca87a9c111489f0a1af313021c6bacaa0dedc2982566e6dd",
+        "status": 2,
+        "title": "Aave Umbrella Activation"
+      },
+      "330": {
+        "proposalId": 330,
+        "proposalStatus": 4,
+        "ipfsHash": "0xbf3732c30fd9456b77d74fac07d4fe0ce84374d712e58f5338d16a9f2dea994c",
+        "status": 2,
+        "title": "Enable additional SVR oracles"
+      },
+      "332": {
+        "proposalId": 332,
+        "proposalStatus": 4,
+        "ipfsHash": "0x90c865128c6c5162d7bf4d957fcf33a10a5da36ac6eef6a142299b8df2c2b7cc",
+        "status": 2,
+        "title": "Discount Rate Risk Oracle Activation and update manual AGRS"
+      },
+      "333": {
+        "proposalId": 333,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7b1181d262f200903779ee948722340d1c9ecd57c7aa82fb7139ad4317c97de7",
+        "status": 2,
+        "title": "Aave v2 non-Ethereum pools next deprecation steps"
+      },
+      "334": {
+        "proposalId": 334,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7915e4e3667981f3a6a34695c8693fdc455f26d128c67e52e18ef56d09ad941d",
+        "status": 2,
+        "title": "Upgrade Aave instances to v3.4"
+      },
+      "340": {
+        "proposalId": 340,
+        "proposalStatus": 4,
+        "ipfsHash": "0xd6840c447d1b8e455e7fe70d188d497cd1f4de37dfe6535d4720f9723cad0977",
+        "status": 2,
+        "title": "Robot Maintenance"
+      },
+      "348": {
+        "proposalId": 348,
+        "proposalStatus": 4,
+        "ipfsHash": "0x70764c71c536a84acb96dd6e6e612eca166c29a0982fadd2ecb9d8cd6dca6c02",
+        "status": 2,
+        "title": "Fire drill proposal Avalanche VotingMachine"
+      },
+      "351": {
+        "proposalId": 351,
+        "proposalStatus": 4,
+        "ipfsHash": "0xdd7635ee3afea99731d9a8b630170cdbaaf669103fbcb3e15a3da2603c955966",
+        "status": 2,
+        "title": "Caps Risk Oracle Activation on Optimism, BNB, Gnosis, Polygon"
+      },
+      "353": {
+        "proposalId": 353,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1c5a061ddf7d39473fd4fdc8fe6c4fc06285473f1db404335c1a5b392d1d9beb",
+        "status": 2,
+        "title": "Upgrade Aave instances to v3.5"
+      },
+      "356": {
+        "proposalId": 356,
+        "proposalStatus": 4,
+        "ipfsHash": "0x361fd829d6100e5b21e9a4d13a8c507a765324d3b40ae20a7733109f840c7df3",
+        "status": 2,
+        "title": "Fire drill proposal Ethereum VotingMachine"
+      },
+      "357": {
+        "proposalId": 357,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7329a0af8ab3047c6147120a143571c78519feb346a649c930baa3814adaeeb5",
+        "status": 2,
+        "title": "LBTC and eBTC Price Feeds Update"
+      },
+      "362": {
+        "proposalId": 362,
+        "proposalStatus": 4,
+        "ipfsHash": "0x20bb1e0d65a57197ff4c69c2b8057149f5e50302ff01f58851e5d3ea1c7bf937",
+        "status": 2,
+        "title": "Ink aDI path activation"
+      },
+      "369": {
+        "proposalId": 369,
+        "proposalStatus": 4,
+        "ipfsHash": "0x2415ac8bb2cbbe7b2392920e31e897221652da9d68ea3028fca8ef9473098243",
+        "status": 2,
+        "title": "GHO Facilitator Replacement"
+      },
+      "373": {
+        "proposalId": 373,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1582c62ea9232ca3ce28c23a8a2a75dc82a8b5962094b9cea8819588acb3b1ad",
+        "status": 2,
+        "title": "Request for Bounty Payout - August 2025"
+      },
+      "377": {
+        "proposalId": 377,
+        "proposalStatus": 4,
+        "ipfsHash": "0x9694aa29e59ff10b11cc465cf7abc214a98866daecad2792e869f67c99629c1c",
+        "status": 2,
+        "title": "Plasma aDI path activation"
+      },
+      "378": {
+        "proposalId": 378,
+        "proposalStatus": 4,
+        "ipfsHash": "0x81a22e1d8c05b3061c45954cc83c807553fed9fae55cb6e074edf8f8557f5f8b",
+        "status": 2,
+        "title": "Aave V2 deprecation"
+      },
+      "379": {
+        "proposalId": 379,
+        "proposalStatus": 4,
+        "ipfsHash": "0xeea5eeb6f990316bb0758ab78459c87bfb1c02f3b7a288781435c1d8223c0869",
+        "status": 2,
+        "title": "Aave V3.5 Plasma Activation"
+      },
+      "381": {
+        "proposalId": 381,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc15d0f4a7513053f07b25e237bd3f22b1a30b53100a4e31f06234fd9b533234e",
+        "status": 2,
+        "title": "Bob Network aDI path activation"
+      },
+      "387": {
+        "proposalId": 387,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1d0be03af9546300dafa1794f97d82abe6a84d8bfd47d535e2eb38751018598f",
+        "status": 2,
+        "title": "Claim Aave v2 stkAAVE rewards"
+      },
+      "388": {
+        "proposalId": 388,
+        "proposalStatus": 4,
+        "ipfsHash": "0x8ba8d0d6d7f33a1f6bb82536e7d00a6ee30d8b60f5f0e04457c507b8056e6249",
+        "status": 2,
+        "title": "Full Deprecation of DPI Across Aave Deployments"
+      },
+      "389": {
+        "proposalId": 389,
+        "proposalStatus": 4,
+        "ipfsHash": "0xd610f641b1273ce491e1ec810059062fcd5776548358d921c51c67b25b1fd1f4",
+        "status": 2,
+        "title": "Adopt The SEAL Safe Harbor Agreement"
+      },
+      "395": {
+        "proposalId": 395,
+        "proposalStatus": 4,
+        "ipfsHash": "0xd3bc49794f5a74d990ceeb6d30a88e3df1787ab9b8baf5db5c7b20f75051b515",
+        "status": 2,
+        "title": "Slope2 Risk Oracle Activation On Core Ethereum, Linea"
+      },
+      "404": {
+        "proposalId": 404,
+        "proposalStatus": 4,
+        "ipfsHash": "0x8255c95514402a834f32b4fa19e61250219f2c4e0b75bce3389f457234124f0d",
+        "status": 2,
+        "title": "Aave BGD Phase 6 & Project E agreement"
+      },
+      "422": {
+        "proposalId": 422,
+        "proposalStatus": 4,
+        "ipfsHash": "0x413ba4c68088e7a7f4c299a3897bd3f7f1a6d525dfd3cb344a45c318853113f0",
+        "status": 1,
+        "title": "X Layer network aDI path activation"
+      },
+      "429": {
+        "proposalId": 429,
+        "proposalStatus": 4,
+        "ipfsHash": "0xae1c2adc47d96ea7c9a5e3a6a68ec9e92c6e96ba1d146d97dffbbcb6f91a7b1f",
+        "status": 1,
+        "title": "Upgrade Aave instances to v3.6 Part 1"
+      },
+      "432": {
+        "proposalId": 432,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc8bf42a0cfd263e9ab0c78ab8a94141e26a40ad19b77636a2c9c163d1e05245e",
+        "status": 1,
+        "title": "AGRS (Risk Stewards) migration to Risk Agents"
+      },
+      "433": {
+        "proposalId": 433,
+        "proposalStatus": 2,
+        "ipfsHash": "0x39a6a154b425a4ab0f51aad675c6801cc1b31e8f26680628018c0f034545a9ed",
+        "status": 1,
+        "title": "Upgrade Aave instances to v3.6 Part 2"
+      },
+      "436": {
+        "proposalId": 436,
+        "proposalStatus": 4,
+        "ipfsHash": "0x482c113f23f3eb0363c03b787e826d1c1402b18f67234ab8ba6ea0f475a0b70a",
+        "status": 1,
+        "title": "Upgrade Aave instances to v3.6 Part 3"
+      },
+      "438": {
+        "proposalId": 438,
+        "proposalStatus": 4,
+        "ipfsHash": "0xee8234ef03e0fecc033a0eb8322ac88347aa49ccf5f0a73a4f642057fc0e4572",
+        "status": 1,
+        "title": "MegaEth aDI path activation"
+      },
+      "441": {
+        "proposalId": 441,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1f7d3d7e913674118ae445add980901d70da9828a7316457db043d51d58da0cd",
+        "status": 1,
+        "title": "MKR and USDtb oracle adjustments"
+      }
+    },
+    "0x57ab7ee15cE5ECacB1aB84EE42D5A9d0d8112922": {
+      "1": {
+        "proposalId": 1,
+        "proposalStatus": 4,
+        "ipfsHash": "0x552721cffc5278357af7de0861cbf8a493488c64ec112cf573b9a33623602b90",
+        "status": 2,
+        "title": "Polygon V2 Reserve Factor Updates"
+      },
+      "2": {
+        "proposalId": 2,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7daf1c990ca47b29e121845efc40ac7e4384b70536f2dee46dd06d4e03920d4c",
+        "status": 2,
+        "title": "Chaos Labs Risk Parameter Updates - WBTC.e on V2 and V3 Avalanche"
+      },
+      "3": {
+        "proposalId": 3,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa9b79871f27b840c5d04672f5b2ef16c753938cb80c6809087c1a47ad0fa2880",
+        "status": 2,
+        "title": "Stablecoin IR Curves Updates"
+      },
+      "4": {
+        "proposalId": 4,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6f9c36de2cb41a1fadfe2f679c47eba6ac4c735de8ee12d3fa5b0d2b6fc3e29e",
+        "status": 2,
+        "title": "V2 Deprecation Plan, 2024.01.02"
+      },
+      "5": {
+        "proposalId": 5,
+        "proposalStatus": 4,
+        "ipfsHash": "0x57dec17b5950c76b33917a2ff61784a85c796c9fc061e91d313b3fc8a23e6ecf",
+        "status": 2,
+        "title": "Aave Funding Updates (part 2)"
+      },
+      "7": {
+        "proposalId": 7,
+        "proposalStatus": 4,
+        "ipfsHash": "0xbaf47f585bee303606be09f9f9c4215875e8ab48df280c5cabebb94d722a5dd2",
+        "status": 2,
+        "title": "StkGHO Activation"
+      },
+      "9": {
+        "proposalId": 9,
+        "proposalStatus": 4,
+        "ipfsHash": "0x3dffd2f1b7a87a3f44ab31d0da89e5b64a6258468843c4599edd4527a4cd8c3a",
+        "status": 2,
+        "title": "Reserve Factor Updates (Jan 15, 2024)"
+      },
+      "11": {
+        "proposalId": 11,
+        "proposalStatus": 4,
+        "ipfsHash": "0x2fa324a635a80a4f64b8636199440b6ef8687135aa81ccf396570eb8aecc7bed",
+        "status": 2,
+        "title": "Update ETH EMode and WETH Risk Params on Aave v3 Ethereum, Optimism and Arbitrum"
+      },
+      "13": {
+        "proposalId": 13,
+        "proposalStatus": 4,
+        "ipfsHash": "0xfd47bc0dfa38b2b849cebb12d3090a8b58b8b3fbac7915e3e6bfe637c663bdc1",
+        "status": 2,
+        "title": "Harmonize USDT Risk Parameters on Aave V3 Markets"
+      },
+      "14": {
+        "proposalId": 14,
+        "proposalStatus": 4,
+        "ipfsHash": "0x36664a88ec779d778e529d1175762ae8b062bcedc553c07936e158255ad31700",
+        "status": 2,
+        "title": "Treasury Management - GSM Funding & RWA Strategy Preparations (Part 1), Frontier Staking as a Service"
+      },
+      "16": {
+        "proposalId": 16,
+        "proposalStatus": 4,
+        "ipfsHash": "0x48d14f1fd7d5156c549cb107041da3d1329c05d95bbabba7d57eecbd8beedc45",
+        "status": 2,
+        "title": "AMPL Interest Rate Updates on V2 Ethereum"
+      },
+      "17": {
+        "proposalId": 17,
+        "proposalStatus": 4,
+        "ipfsHash": "0xbacf3a4c8a68f5859cf7cd78c46e303f54d735fdf27c798b70e7597e7d246f13",
+        "status": 2,
+        "title": "Onboard fdUSD to Aave v3 on BNB chain"
+      },
+      "23": {
+        "proposalId": 23,
+        "proposalStatus": 4,
+        "ipfsHash": "0xd26c294080aa7bf96dc3f291b00ca4bf57586b3977724a90a4e7cf46ef98741c",
+        "status": 2,
+        "title": "V2 Ethereum LT Reductions"
+      },
+      "25": {
+        "proposalId": 25,
+        "proposalStatus": 4,
+        "ipfsHash": "0xe51a388c30d2cfac5e7e2a68d626cd21ea90e8b863e4e60dc31aa10725fc7a87",
+        "status": 2,
+        "title": "Add PYUSD to Aave v3 Ethereum Pool"
+      },
+      "28": {
+        "proposalId": 28,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6a98f5da75561ecd119ee401e6c7956b71d709ad0892461aef49692aa06fafc5",
+        "status": 2,
+        "title": "Chaos Labs Risk Parameter Updates - Increase Debt Ceiling for SNX and MKR on V3 Ethereum - 01.31.2024"
+      },
+      "29": {
+        "proposalId": 29,
+        "proposalStatus": 4,
+        "ipfsHash": "0x9312b025853064cf395dbf32add123bdd419b0216457d59fd3941db89890c814",
+        "status": 2,
+        "title": "Set Aave Chan Initiative as Emission Manager for fdUSD on BNB Chain Aave V3"
+      },
+      "30": {
+        "proposalId": 30,
+        "proposalStatus": 4,
+        "ipfsHash": "0x88e32b5864330954e2f464205f8103f1b4e4f263165339b78820ce5031524201",
+        "status": 2,
+        "title": "Reserve Factor Updates (February 15, 2024)"
+      },
+      "31": {
+        "proposalId": 31,
+        "proposalStatus": 6,
+        "ipfsHash": "0x88e32b5864330954e2f464205f8103f1b4e4f263165339b78820ce5031524201",
+        "status": 3,
+        "title": "Reserve Factor Updates (February 15, 2024)"
+      },
+      "32": {
+        "proposalId": 32,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa68d7be09ce1026a06a83089bfc3b6317f4926c2f710aa3961e0dd7acbff767d",
+        "status": 2,
+        "title": "MaticX Supply Cap Increase in Polygon V3"
+      },
+      "33": {
+        "proposalId": 33,
+        "proposalStatus": 4,
+        "ipfsHash": "0x56181ff7b11d3dca7c8a50c6cd63aed6a8367179f1a745060c1d146535a9180e",
+        "status": 2,
+        "title": "Orbit Program"
+      },
+      "34": {
+        "proposalId": 34,
+        "proposalStatus": 4,
+        "ipfsHash": "0x0417354ab498c7188216a1fde4689346703f3da13c3f19bb5917a11e2db70212",
+        "status": 2,
+        "title": "Aave Protocol Embassy"
+      },
+      "35": {
+        "proposalId": 35,
+        "proposalStatus": 4,
+        "ipfsHash": "0x9206b8d1ee912b328fccf81311e1b20ddff390d2351d6be27dadaa230584c29f",
+        "status": 2,
+        "title": "Treasury Management - GSM Funding & RWA Strategy Preparations (Part 2)"
+      },
+      "38": {
+        "proposalId": 38,
+        "proposalStatus": 6,
+        "ipfsHash": "0x447462045acf250a9edb3c52a52d4d5a39b3f47074752e14f02450ce72aa7d64",
+        "status": 3,
+        "title": "Cut Gauntlet Service Provider Stream"
+      },
+      "39": {
+        "proposalId": 39,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6f3e2a38b68d225055ea1f4d82ac73ef779d27eb11834fdbbfcd0a8652971289",
+        "status": 2,
+        "title": " Set Liquidity Observation Labs as Emission manager for wstETH on V3 markets"
+      },
+      "40": {
+        "proposalId": 40,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb0cb4e66131b2fde2206963b7e70e49d2366e41b54133861f0552538b1804b9c",
+        "status": 2,
+        "title": "GHO Borrow Rate Increase 2024-02-29"
+      },
+      "41": {
+        "proposalId": 41,
+        "proposalStatus": 4,
+        "ipfsHash": "0x65de3c96f0d171e2fa490c180d4aee2a7c057bd9a2e70f7549cdd201efdac409",
+        "status": 2,
+        "title": "Reserve Factor Updates (February 29, 2024)"
+      },
+      "42": {
+        "proposalId": 42,
+        "proposalStatus": 4,
+        "ipfsHash": "0xec3016442469c3ffdd667b301c35a50b0851b0bd2bff4f563a5a320e6abbdaca",
+        "status": 2,
+        "title": "Assign Emission Admin - Ethereum, Arbitrum and Optimism"
+      },
+      "43": {
+        "proposalId": 43,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb237c4f579095dc1830ff7ccdbfa69a30b0c1afa302d9ade1faa19f2684a0b7a",
+        "status": 2,
+        "title": "Merit Approvals"
+      },
+      "44": {
+        "proposalId": 44,
+        "proposalStatus": 4,
+        "ipfsHash": "0x4297b59c6e7926b8507d06c9541d975a7fad0f6e16bd28986262431a342b828e",
+        "status": 2,
+        "title": "Funding Update"
+      },
+      "45": {
+        "proposalId": 45,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6079957be200c574924e7da977bc296374ac89604d488a737c19684bf1a2cc45",
+        "status": 2,
+        "title": "Amend Safety Module Emissions"
+      },
+      "46": {
+        "proposalId": 46,
+        "proposalStatus": 6,
+        "ipfsHash": "0xef89c76c2e9d4112bbe6851449cf82d092e2175cf6017481b62708c3954f7a60",
+        "status": 3,
+        "title": "GHO Borrow Rate Increase"
+      },
+      "47": {
+        "proposalId": 47,
+        "proposalStatus": 3,
+        "ipfsHash": "0x8d80f7e09630024192366b533cc95274f37d3d3e0d3d004aa5eb7b637f1be113",
+        "status": 2,
+        "title": "Activation of A-C Prime Foundation"
+      },
+      "48": {
+        "proposalId": 48,
+        "proposalStatus": 4,
+        "ipfsHash": "0x925b92bc979665e02c8d91956e8c01dd9e5e4b9fbb3e2c5ab018b4a6a91e6d00",
+        "status": 2,
+        "title": "addFlashborrowers"
+      },
+      "49": {
+        "proposalId": 49,
+        "proposalStatus": 4,
+        "ipfsHash": "0xd0254523d65549ea7d020d91df2b7905a27da988ecc8263f2cf2709c2e369cc7",
+        "status": 2,
+        "title": "Ethereum v2 Reserve Factor Adjustment"
+      },
+      "50": {
+        "proposalId": 50,
+        "proposalStatus": 4,
+        "ipfsHash": "0xef89c76c2e9d4112bbe6851449cf82d092e2175cf6017481b62708c3954f7a60",
+        "status": 2,
+        "title": "GHO Borrow Rate Increase"
+      },
+      "52": {
+        "proposalId": 52,
+        "proposalStatus": 4,
+        "ipfsHash": "0x488049214c45263bdb7a736cb12a857d7e6f269ad6df8f76bf18361ea25ec921",
+        "status": 2,
+        "title": "Aave Liquidity Commitee Funding"
+      },
+      "54": {
+        "proposalId": 54,
+        "proposalStatus": 2,
+        "ipfsHash": "0x93db9bcb9bf20c545d86506c34eee6761adea4bab64bae39290f7466dbf3e56d",
+        "status": 2,
+        "title": "Reserve Factor Updates (March 13, 2024)"
+      },
+      "55": {
+        "proposalId": 55,
+        "proposalStatus": 4,
+        "ipfsHash": "0x58817985af9b5d3209b397088902ea3471b5afc3ebf5846b6dac029e75ac9fa0",
+        "status": 2,
+        "title": "stablecoin harmonization"
+      },
+      "57": {
+        "proposalId": 57,
+        "proposalStatus": 4,
+        "ipfsHash": "0x2fce141813b52ab4fc26fe0bc35cc4d219acd0985582aa993813b66515b7ae16",
+        "status": 2,
+        "title": "Ethereum v2 Reserve Factor Adjustment"
+      },
+      "58": {
+        "proposalId": 58,
+        "proposalStatus": 4,
+        "ipfsHash": "0xd2322f18fbffed420e8edd18efce2309c687820d8730b770b4111557e0850149",
+        "status": 2,
+        "title": "Remove ARB from Isolation Mode on Arbitrum"
+      },
+      "60": {
+        "proposalId": 60,
+        "proposalStatus": 4,
+        "ipfsHash": "0x2dc3e8cd412fd533a6a66a2042f519341ae0b3cc1ddf2a7f8f8103bde5f922d0",
+        "status": 2,
+        "title": "Contango FlashBorrower"
+      },
+      "61": {
+        "proposalId": 61,
+        "proposalStatus": 4,
+        "ipfsHash": "0x111fca5019e0bc411dc4bfa36167ad7d88c57c9ddbffb202fb1568e16dd06570",
+        "status": 2,
+        "title": "Activate Gho Stewards"
+      },
+      "62": {
+        "proposalId": 62,
+        "proposalStatus": 4,
+        "ipfsHash": "0xbe29a6873c3a4a326ac8b4d04132668a0dfc8f25e9b54c48576cbb0a3561019c",
+        "status": 2,
+        "title": "GHO Stewards + Borrow Rate Update"
+      },
+      "63": {
+        "proposalId": 63,
+        "proposalStatus": 4,
+        "ipfsHash": "0x701e50da130aa5a24c11341bd14d57ab58e61d3691d55bd2edc849c2be9b5170",
+        "status": 2,
+        "title": "Funding Update (Part B)"
+      },
+      "64": {
+        "proposalId": 64,
+        "proposalStatus": 4,
+        "ipfsHash": "0x06d204eae05f9299d21226c4e4a29f90e3c6cda4c22d3175cca85ce2e1c30f35",
+        "status": 2,
+        "title": "EURe Emissions Manager"
+      },
+      "65": {
+        "proposalId": 65,
+        "proposalStatus": 4,
+        "ipfsHash": "0xbb9f1bab4d67aa7d8f086735042c66e2d7e1ad2126479bc4e4ef1fab676947c5",
+        "status": 2,
+        "title": "Borrow Cap Reductions on Aave V3 Ethereum"
+      },
+      "66": {
+        "proposalId": 66,
+        "proposalStatus": 4,
+        "ipfsHash": "0x9b463155a5aa776cee76c0946a81646c5d254e65ca58771c66de8b1277bab767",
+        "status": 2,
+        "title": "TUSD and BUSD Aave V2 Rate Amendments"
+      },
+      "67": {
+        "proposalId": 67,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb90aa7421fe73a9719f117a9c18bae08621e7bc79723a076d833d1b24cdfd371",
+        "status": 2,
+        "title": "Update WETH IR on V3 Arbitrum and Optimism"
+      },
+      "68": {
+        "proposalId": 68,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa065b0072d967b744ef82f22ef4809258572148c1e31d9a0aef854f8fbdebb12",
+        "status": 2,
+        "title": "ReserveFactorUpdates"
+      },
+      "69": {
+        "proposalId": 69,
+        "proposalStatus": 4,
+        "ipfsHash": "0xd089b245419090b798da1f8495c44d346b1d08c2d8888c10af9bca40762ea763",
+        "status": 2,
+        "title": "StablecoinIRUpdates"
+      },
+      "71": {
+        "proposalId": 71,
+        "proposalStatus": 4,
+        "ipfsHash": "0x293815b30e809a40f094c7a6164a60bc5d306cc915455bbbfb1c083fd1161f1d",
+        "status": 2,
+        "title": "Generalized LT/LTV Reduction on Aave"
+      },
+      "73": {
+        "proposalId": 73,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf8fc52827b51bfa6db62842715fc2972fb32384c87d3e072a710ea02abe83962",
+        "status": 2,
+        "title": "Reserve Factor Updates"
+      },
+      "74": {
+        "proposalId": 74,
+        "proposalStatus": 4,
+        "ipfsHash": "0x227ef8b0f49775f64100ec697bc4e67b0739bd1ff08788b1f6b48a66e1d57bf7",
+        "status": 2,
+        "title": "weETH Onbaording"
+      },
+      "76": {
+        "proposalId": 76,
+        "proposalStatus": 4,
+        "ipfsHash": "0x78778591515790b337fcdcc2a02d49dc58e98cad614c33d61e1173bc6194729d",
+        "status": 2,
+        "title": "weETH Arbitrum onboarding"
+      },
+      "77": {
+        "proposalId": 77,
+        "proposalStatus": 4,
+        "ipfsHash": "0x326abb9504b2e2277440be16f89f9f12a17705e4e6a2e098562bf946ff779f1f",
+        "status": 2,
+        "title": "Mainnet PYUSD Emissions Admin"
+      },
+      "78": {
+        "proposalId": 78,
+        "proposalStatus": 4,
+        "ipfsHash": "0x4041602937f71b639d1eeb894e051c552152cf418d95ee4799a6ba893a6b0b13",
+        "status": 2,
+        "title": "Optimism susd Emission Admin"
+      },
+      "79": {
+        "proposalId": 79,
+        "proposalStatus": 4,
+        "ipfsHash": "0x066ee4d63e49489ac41c0950213f9b95edc9c0d8a1710ffdcc35d9ade4dc7495",
+        "status": 2,
+        "title": "Scroll wstETH Emission Manager"
+      },
+      "80": {
+        "proposalId": 80,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa39d09939ca597beebecad4455a0846a14e2e5af659fe3d8904bda4bc996cf40",
+        "status": 2,
+        "title": "Temporary Freeze of Long-Tail V2 Assets"
+      },
+      "81": {
+        "proposalId": 81,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf76a0f5f4db1f1718f9f0bc3116895eaa92b61020af1fc5059f27ee16f390500",
+        "status": 2,
+        "title": "Ethereum V2 LT Reductions "
+      },
+      "84": {
+        "proposalId": 84,
+        "proposalStatus": 4,
+        "ipfsHash": "0x0f8510f9117fbe8129a35eb4a72232ed483cb75a4650b7f81fedeafe17a24912",
+        "status": 2,
+        "title": "Risk Parameter Updates - OP on V3 Optimism"
+      },
+      "85": {
+        "proposalId": 85,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc3933570aa757db7e941c51b9bf486f0cf17bcb38c1b95a9293fde7f5118259c",
+        "status": 2,
+        "title": "Chaos Labs Engagement Amendment"
+      },
+      "87": {
+        "proposalId": 87,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf5dd9c4b10ba88e184eec2ae80e8ec338f0b11ad48a0ff920119fbf1592115a7",
+        "status": 2,
+        "title": "Risk Parameters for DAI Update"
+      },
+      "88": {
+        "proposalId": 88,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc2ad821ca730c8e92d1c83412d94fb4b6daf1482662eafc88b055659a10ac52a",
+        "status": 2,
+        "title": "Risk Parameter Updates GNO on V3 Gnosis"
+      },
+      "89": {
+        "proposalId": 89,
+        "proposalStatus": 4,
+        "ipfsHash": "0xdafd69363854d3410239f3b9e3fa36a0e977a413e55dcf4e4d21c615173a2890",
+        "status": 2,
+        "title": "Reserve Factor Updates"
+      },
+      "90": {
+        "proposalId": 90,
+        "proposalStatus": 4,
+        "ipfsHash": "0xe78fa71ec1e15432e74698a4e94c0120bef1b2817343e6d55296b3f53ef63386",
+        "status": 2,
+        "title": "Onboard Llamarisk as a Risk Provider"
+      },
+      "91": {
+        "proposalId": 91,
+        "proposalStatus": 4,
+        "ipfsHash": "0x633733ef9b80afd497fd1a25d848fbe91ef694fab798dbbc27617ca07407454c",
+        "status": 2,
+        "title": "stkGHO Incentives"
+      },
+      "94": {
+        "proposalId": 94,
+        "proposalStatus": 4,
+        "ipfsHash": "0xcded0cbbb1c8708cee734177abb444cdb8bdbaf9eb566188d7811de05f667a95",
+        "status": 2,
+        "title": "StablecoinIRUpdates"
+      },
+      "95": {
+        "proposalId": 95,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc486b689997f162ab5616ffb614eaffde14c8787bb06298b8100d3718267b255",
+        "status": 2,
+        "title": "Updating weETH Risk Parameters"
+      },
+      "96": {
+        "proposalId": 96,
+        "proposalStatus": 4,
+        "ipfsHash": "0xcd04c72e36d8208c2ade9752e9ffded55acde06b1d8152391721eb1b1ba1406c",
+        "status": 2,
+        "title": "Polygon V2 Reserve Factor Updates & Interest Rate Increases"
+      },
+      "99": {
+        "proposalId": 99,
+        "proposalStatus": 4,
+        "ipfsHash": "0x0a1a2e345c28bb360a2b0b5ac3ec2442cf5fc9f0b1721577af7b55182f0db21f",
+        "status": 2,
+        "title": "ACI Ad Astra"
+      },
+      "100": {
+        "proposalId": 100,
+        "proposalStatus": 4,
+        "ipfsHash": "0x662b22b8e2ddeeb5f0b9f85cc16f8dfb2e1c8fa5d0d2f646773e9709eb02dcff",
+        "status": 2,
+        "title": "Generalized LT/LTV Reductions on Aave V3 Step 2"
+      },
+      "101": {
+        "proposalId": 101,
+        "proposalStatus": 6,
+        "ipfsHash": "0x227ef8b0f49775f64100ec697bc4e67b0739bd1ff08788b1f6b48a66e1d57bf7",
+        "status": 3,
+        "title": "weETH Onbaording"
+      },
+      "102": {
+        "proposalId": 102,
+        "proposalStatus": 4,
+        "ipfsHash": "0x719cee2cd740d25f0ef3237ab7394bd92bc4e85b8c371fcf9006dd4b0a323d9a",
+        "status": 2,
+        "title": "Reserve Factor Upgrades"
+      },
+      "103": {
+        "proposalId": 103,
+        "proposalStatus": 4,
+        "ipfsHash": "0xd527226735a84a4847a5096a2d861759ee5a1c33cc9fc6971d13445ab40dcc86",
+        "status": 2,
+        "title": "April Finance Update"
+      },
+      "104": {
+        "proposalId": 104,
+        "proposalStatus": 4,
+        "ipfsHash": "0x543b2ccf5ce8d534cbbfd1ed90572a717c31eccd518762f65303820dda4d285d",
+        "status": 2,
+        "title": "osETH Onboarding"
+      },
+      "105": {
+        "proposalId": 105,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6c9644b3c657187c2d9d8632de3eaf2ab1d689f328d18d6bc83a65bed945d3d0",
+        "status": 2,
+        "title": "Chaos Labs Ethereum V2 LT Reductions"
+      },
+      "106": {
+        "proposalId": 106,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa66007518f76400be6e37151d23bfcd8fe9b6b6a72fe5eaa2fd60bdaa2a24b22",
+        "status": 2,
+        "title": "Deprecation of Small-cap Stablecoins on V2 Ethereum"
+      },
+      "107": {
+        "proposalId": 107,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7ae0c2025ef34dd6e9b64fe2febd4687d3a63bb83bc15a5aa7dd7756176a2404",
+        "status": 2,
+        "title": "SUSD risk parameters update"
+      },
+      "108": {
+        "proposalId": 108,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb34fab83149275adabf38be78dbf8f3def00751702a77efd9f6e1fdc901e8358",
+        "status": 2,
+        "title": "LT/LTV Reductions on Aave V2 Stablecoins"
+      },
+      "110": {
+        "proposalId": 110,
+        "proposalStatus": 4,
+        "ipfsHash": "0x54d65f6ae8620fe173a28130e99d96315d574c380f84b37665dbc9f69232fae1",
+        "status": 2,
+        "title": "weETH Aave V3 Base Onboarding"
+      },
+      "111": {
+        "proposalId": 111,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6020305b890026e953ce2ba1087cc9dabad7fbafc9ce23234904615e5696ea1e",
+        "status": 2,
+        "title": "Reserve Factor Upgrades"
+      },
+      "112": {
+        "proposalId": 112,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc1be7e70b05f3bcd2978bd67fff306ed55e4cecac3ac4b2bf66c334d9e8648e4",
+        "status": 2,
+        "title": "Orbit Program Renewal"
+      },
+      "113": {
+        "proposalId": 113,
+        "proposalStatus": 4,
+        "ipfsHash": "0x08e45bba0b43b052d9a0f7fe683addee20c3ce9100979540f8b24e10a74ce869",
+        "status": 2,
+        "title": "Onboard USDe Aave V3 Ethereum"
+      },
+      "114": {
+        "proposalId": 114,
+        "proposalStatus": 4,
+        "ipfsHash": "0x880874b26e761785fe82e63387b1c4eeb48375ed71d3333f245076b7fc636183",
+        "status": 2,
+        "title": "Chaos Labs Parameter Recommendations sUSD on V3 Optimism"
+      },
+      "115": {
+        "proposalId": 115,
+        "proposalStatus": 4,
+        "ipfsHash": "0xe3183b06212ae8d1c10b61a2f22d6aba7f4490ae909caafbe81d3d0daaff2086",
+        "status": 2,
+        "title": "April Finance Update Part B"
+      },
+      "116": {
+        "proposalId": 116,
+        "proposalStatus": 4,
+        "ipfsHash": "0x685d3dd3b1e9e81a3f9df5739b0a8d742c32c781eda70a75f3916c1ddd4b5920",
+        "status": 2,
+        "title": "Gho Steward Update"
+      },
+      "117": {
+        "proposalId": 117,
+        "proposalStatus": 4,
+        "ipfsHash": "0x802a4a10c5927a267eabe8f57cc85f6f240293399d08473ce283a4c960460a42",
+        "status": 2,
+        "title": " Adjusting Interest Rate Curve for weETH on Arbitrum"
+      },
+      "118": {
+        "proposalId": 118,
+        "proposalStatus": 4,
+        "ipfsHash": "0x0f87c9e8fca1a544a44d37f7d5d0b37d7fbf86f4d8b30695090b077b81bb7cb8",
+        "status": 2,
+        "title": "Chaos Labs Risk Parameter Updates AaveV3"
+      },
+      "119": {
+        "proposalId": 119,
+        "proposalStatus": 4,
+        "ipfsHash": "0x97c348f2ab5a533a551aeb5021bd4c3953fb85e37dbf2e8a5240c61052c04e39",
+        "status": 2,
+        "title": "Onboarding ETHx to Aave V3 Ethereum"
+      },
+      "121": {
+        "proposalId": 121,
+        "proposalStatus": 4,
+        "ipfsHash": "0xfdc35cc906ad3f5d5f2a051167e87d95abd104a7f30bf5910b5adb23f84e4df2",
+        "status": 2,
+        "title": "Optimize ETH-correlated asset parameters"
+      },
+      "122": {
+        "proposalId": 122,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc3fb70a23e9e6e2654fb3119fe3315859e590f3f9115ee56a3b22c68804da75d",
+        "status": 2,
+        "title": "Set ACI as Emission Manager for Aave Liquidity Mining programs"
+      },
+      "123": {
+        "proposalId": 123,
+        "proposalStatus": 4,
+        "ipfsHash": "0x3549dd6b5451ee288560662dbc7b89e97d647424b6606d253445087028d15ba5",
+        "status": 2,
+        "title": "Set ACI as Emission Manager on the Avalanche network"
+      },
+      "124": {
+        "proposalId": 124,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7a9bcb55c0be36e9cd5c7d4122380aedbf5ea6834c9838770f81439a0a502283",
+        "status": 2,
+        "title": "Onboard sUSDe to Aave V3 on Ethereum"
+      },
+      "127": {
+        "proposalId": 127,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb7bd5818e6432b2b781eb9d948784ba13fe0e1ba0b8dcc395d75f76c687575e7",
+        "status": 2,
+        "title": "Increase Bridged USDC Reserve Factor Across All Deployments"
+      },
+      "129": {
+        "proposalId": 129,
+        "proposalStatus": 4,
+        "ipfsHash": "0x67a32937b865a4946846cd9a264ce83992e74ca4b60d32263b5195d38214a747",
+        "status": 2,
+        "title": "Increase weETH Caps on Base"
+      },
+      "130": {
+        "proposalId": 130,
+        "proposalStatus": 4,
+        "ipfsHash": "0x2e8cee15c55cf4031ba0bc234478cfb0a9ced14e6b7d3967c32a9fbe0626178e",
+        "status": 2,
+        "title": "Stablecoin IR Curve Amendment"
+      },
+      "131": {
+        "proposalId": 131,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6bea4d8ce7ba6bf63552fcdfed79641f76ec8c9a09c482aef53ab997432ac9aa",
+        "status": 2,
+        "title": "Increase CCIP Facilitator Capacity"
+      },
+      "133": {
+        "proposalId": 133,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7b95ebeac91f0a0f3eef3670e0c9466086f270b56f662a5a0fec0457a0b5dab5",
+        "status": 2,
+        "title": "Lido Ethereum Instance Activation"
+      },
+      "134": {
+        "proposalId": 134,
+        "proposalStatus": 6,
+        "ipfsHash": "0x43227bcd83d88c7eb1142bc0999f0109a3dd1f0b4b4b12811df61715d9384a10",
+        "status": 3,
+        "title": "May Funding Update"
+      },
+      "135": {
+        "proposalId": 135,
+        "proposalStatus": 4,
+        "ipfsHash": "0x3acd9e8619c0ec0c78c5df5aa4d02aaf1ceeef9b3e5946b65e3cc471227a852c",
+        "status": 2,
+        "title": "Treasury Tooling Payment"
+      },
+      "137": {
+        "proposalId": 137,
+        "proposalStatus": 4,
+        "ipfsHash": "0x39d3766a07eaacdbbd38e2b759e37f02ff453180574b52efcaa25334c42177ee",
+        "status": 2,
+        "title": "wETH LTV0 Aave V3 Lido Instance "
+      },
+      "138": {
+        "proposalId": 138,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa8c3145a62879685b5569daf860b7d65dd1c9affc796c90c26498f95646b9a98",
+        "status": 2,
+        "title": "Risk Parameter Updates - sAVAX on Aave V3 Avalanche"
+      },
+      "139": {
+        "proposalId": 139,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf419f34373957ef660343043d18871e0d104ecc83709743658edeb1d44edd6f2",
+        "status": 2,
+        "title": "Onboard USDC.e on Gnosis"
+      },
+      "140": {
+        "proposalId": 140,
+        "proposalStatus": 4,
+        "ipfsHash": "0x653f4431fde3b935da775bcc2f0820d051c8f8342ee0cc707c1910c312d2bc66",
+        "status": 2,
+        "title": "Onboarding weETH to Aave V3 on Scroll"
+      },
+      "141": {
+        "proposalId": 141,
+        "proposalStatus": 4,
+        "ipfsHash": "0x0ff75897749a65a504bb7f953f0d8c1e6f3eda9434fdf2959ff78909d4358589",
+        "status": 2,
+        "title": "GHO Arbitrum Parameter Adjustments"
+      },
+      "142": {
+        "proposalId": 142,
+        "proposalStatus": 4,
+        "ipfsHash": "0x32dc0cd9bb6976c0f32ecbab0b7261298dd693f5fdf4fbfd8c9eba77718554a9",
+        "status": 2,
+        "title": "TokenLogic + karpatkey - Phase II"
+      },
+      "144": {
+        "proposalId": 144,
+        "proposalStatus": 4,
+        "ipfsHash": "0x3c38f5d5c0f5098b71caed9f45dd54ec34483bb66faea52736e79f445b9a96af",
+        "status": 2,
+        "title": "Risk Parameter Updates - Increase USDe Debt Ceiling on V3 Ethereum"
+      },
+      "145": {
+        "proposalId": 145,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6985386cb307aa45146c8e2e1ab70a8807267646fb45791184af1a64dc15e8a8",
+        "status": 2,
+        "title": "Reduce Reserve Factor on wstETH"
+      },
+      "146": {
+        "proposalId": 146,
+        "proposalStatus": 4,
+        "ipfsHash": "0x94033131f9158cfc102cbc37a63245c05b9c9c475bfe22b3ecdc288f1a637c4d",
+        "status": 2,
+        "title": "May Funding Update"
+      },
+      "147": {
+        "proposalId": 147,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb47359ccae9af33a6bf55f8e569f990130a806685bbe16e9a613f6ffda34513a",
+        "status": 2,
+        "title": "Reserve Factor Updates Mid July"
+      },
+      "150": {
+        "proposalId": 150,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1ccede5c2d46b05d034ed2c55dbb83dea3a9316df7de20fd6c365bf79bbfe413",
+        "status": 2,
+        "title": "Merit Base Incentives and Superfest Matching"
+      },
+      "151": {
+        "proposalId": 151,
+        "proposalStatus": 4,
+        "ipfsHash": "0x14648164c4d4c053dc982f0bcf4aed60ae802e0ec70b78afff085fe1075da455",
+        "status": 2,
+        "title": "GHO Borrow Rate Update"
+      },
+      "152": {
+        "proposalId": 152,
+        "proposalStatus": 4,
+        "ipfsHash": "0xcdd44ece79347739c5bd2c69e16f9ddd462f073aa4e0533342a3a3ec7c71d136",
+        "status": 2,
+        "title": "Enable Metis as Collateral on Metis Chain"
+      },
+      "154": {
+        "proposalId": 154,
+        "proposalStatus": 4,
+        "ipfsHash": "0x48eab28aa5a7cd08dfe029558f73df291c874e854620f8fef9a1be67fde48df4",
+        "status": 2,
+        "title": "Reserve Factor Updates August"
+      },
+      "155": {
+        "proposalId": 155,
+        "proposalStatus": 4,
+        "ipfsHash": "0xfe61618aec99c1250f1fe4e33b033c4893e7d44079f139f79f67fb676eedfb31",
+        "status": 2,
+        "title": "Increase WETH Optimal Ratio"
+      },
+      "156": {
+        "proposalId": 156,
+        "proposalStatus": 4,
+        "ipfsHash": "0xd46124e556c224e5e9a5b4d202548931ea58f9dee5bb517929166ce0f068813c",
+        "status": 2,
+        "title": "July Funding Update"
+      },
+      "157": {
+        "proposalId": 157,
+        "proposalStatus": 4,
+        "ipfsHash": "0x4fadf8fd69d0a3438ed48d6c69173bee13ab0789ef29bfd931c30adce38b8438",
+        "status": 2,
+        "title": "Aave v3 EtherFi Ethereum Activation"
+      },
+      "158": {
+        "proposalId": 158,
+        "proposalStatus": 4,
+        "ipfsHash": "0x4d73cb1489c07aabc0c173ea556658910d965d10cb97796937510dcd2250fdc5",
+        "status": 2,
+        "title": "Gho Borrow Rate Update August 2024"
+      },
+      "159": {
+        "proposalId": 159,
+        "proposalStatus": 2,
+        "ipfsHash": "0x576175a4657e2ce79f1c9c41b61ac28609466b7886f4d2c0cd25265fd052d0b3",
+        "status": 2,
+        "title": "Stablecoin IR Curve Amendment"
+      },
+      "160": {
+        "proposalId": 160,
+        "proposalStatus": 4,
+        "ipfsHash": "0xe77c05ca3ace3841039fbd4f73b81d8cbb98fde7e80724d0ae9d4f2f96f83348",
+        "status": 2,
+        "title": "Reserve Factor Updates Late August"
+      },
+      "161": {
+        "proposalId": 161,
+        "proposalStatus": 4,
+        "ipfsHash": "0xd11e1cdada4dcc3b4da302aefd45121753a2ef053a7f835157a3b3c831e07e05",
+        "status": 2,
+        "title": "Chaos Labs Risk Parameter Updates - Decrease Supply and Borrow Caps on Aave V3 "
+      },
+      "162": {
+        "proposalId": 162,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc272f529dc38017c4880f8af0ec5fc13ca3f6c5de9be35e457ff5862fce1183c",
+        "status": 2,
+        "title": "Orbit Program Renewal - Q3 2024"
+      },
+      "163": {
+        "proposalId": 163,
+        "proposalStatus": 4,
+        "ipfsHash": "0x04271f18d6488ac110ba7d0faa32b0c9dbb68828585a85a5f52c2da055dcf8c8",
+        "status": 2,
+        "title": "Harmonize weETH Parameters"
+      },
+      "164": {
+        "proposalId": 164,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb3c587d4f09e9f879cf2b793b127c927522a4cb3eeb04623241916ea9ff5dae5",
+        "status": 2,
+        "title": "wstETH Borrow Cap Reduction"
+      },
+      "165": {
+        "proposalId": 165,
+        "proposalStatus": 6,
+        "ipfsHash": "0xc72ab6b294d06516b1469324315f8e92e1bd78d61c250e9628f9d21b6ce62e6f",
+        "status": 3,
+        "title": "Onboard USDS and SUSDS Part I"
+      },
+      "167": {
+        "proposalId": 167,
+        "proposalStatus": 4,
+        "ipfsHash": "0x8f48e7201b581c5b1398cc1fc113ad7441e1c349cb80d29b84034a6dc039d2c6",
+        "status": 2,
+        "title": "Gho Borrow Rate Update September 2024"
+      },
+      "168": {
+        "proposalId": 168,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc6a9b3c0acd8996082cfea92cb8b8bd150f68425ad355909539311f710b8c40f",
+        "status": 2,
+        "title": "Onboard Tbtc"
+      },
+      "169": {
+        "proposalId": 169,
+        "proposalStatus": 4,
+        "ipfsHash": "0x81a5fdd7fab7ee5b45231af1b8934dea3a93ce530575bcce16dc7bb74691b6c7",
+        "status": 2,
+        "title": "Onboard CbBTC on Mainnet and Base"
+      },
+      "170": {
+        "proposalId": 170,
+        "proposalStatus": 4,
+        "ipfsHash": "0x9917a3e87db5eae531dfc2fa669caf3f75a5a22f450dd44e8fd7d445b66830a2",
+        "status": 2,
+        "title": "Reserve Factor Updates Late September"
+      },
+      "171": {
+        "proposalId": 171,
+        "proposalStatus": 4,
+        "ipfsHash": "0x243c4732500e528f9bd74a2f0a761c4b5ace944f6036e352634c7e2ba3e0fa25",
+        "status": 2,
+        "title": "Set ACI as Emission Manager for wstETH & tBTC"
+      },
+      "172": {
+        "proposalId": 172,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6844f45501f65809e0dc1db55cc86a1795e2636b6b64eb4af107d4b901af76e4",
+        "status": 2,
+        "title": "Chaos Labs Risk Parameter Updates - sAVAX LT/LTV Adjustment"
+      },
+      "173": {
+        "proposalId": 173,
+        "proposalStatus": 4,
+        "ipfsHash": "0x364d3500651a480d17b1727ae2585007be45b9a844219f88bb8ac8bbde1bfd39",
+        "status": 2,
+        "title": " Chaos Labs Risk Parameter Updates - LTV and LT Alignment"
+      },
+      "174": {
+        "proposalId": 174,
+        "proposalStatus": 4,
+        "ipfsHash": "0x30f32410de932d82dece0524b7dc1b731b7f140b43b7525715b839b7e4a35c4c",
+        "status": 2,
+        "title": "Update flashBorrowers"
+      },
+      "175": {
+        "proposalId": 175,
+        "proposalStatus": 4,
+        "ipfsHash": "0xe2efa3b07ac0333e5b8f6b57377a4ace8d43add290b780ac9924d6131ae797f7",
+        "status": 2,
+        "title": "Onboard USDS on Aave V3 Ethereum Main and Lido Instance"
+      },
+      "176": {
+        "proposalId": 176,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf293a5f6cd67782e7cf2e57e8f443c062f6faa34f0647581a9eb635c448d80d8",
+        "status": 2,
+        "title": "Set ACI as Emission Manager for USDS, aUSDS and awstETH"
+      },
+      "177": {
+        "proposalId": 177,
+        "proposalStatus": 4,
+        "ipfsHash": "0xdad5b7e0e98c8e85323902f8da177b99dd595302bebf9a69d40bbf0770072274",
+        "status": 2,
+        "title": "Onboard USDC to Aave V3 Lido Instance"
+      },
+      "179": {
+        "proposalId": 179,
+        "proposalStatus": 4,
+        "ipfsHash": "0x533f3e36e9407910de9501e672099ca132cf37410ac6f475f940b2c0536687aa",
+        "status": 2,
+        "title": "Aave Liquidity Committee Funding Phase IV"
+      },
+      "180": {
+        "proposalId": 180,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6c08584ec488b99df6c6ddb9bcc156779bd8517f4a7f8f5a68955eca6d63a329",
+        "status": 2,
+        "title": "May Funding Update Part B"
+      },
+      "181": {
+        "proposalId": 181,
+        "proposalStatus": 4,
+        "ipfsHash": "0x06d6d7686462a0dbd65c8e167cef8507412ebae762b3aef313568113a7766543",
+        "status": 2,
+        "title": "Increase cbBTC Supply Caps"
+      },
+      "183": {
+        "proposalId": 183,
+        "proposalStatus": 4,
+        "ipfsHash": "0x8ece2cc5d2a006f83bc7d5a1cc8b889842390f7bb96b40963e68d1143a5d27d6",
+        "status": 2,
+        "title": "Increase USDS Borrow Rate to Match Sky Savings Rate"
+      },
+      "185": {
+        "proposalId": 185,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf0812faba2ea8655fa8db894c5b06515dea31a90b702f7e606169a025648abdd",
+        "status": 2,
+        "title": "Renew LlamaRisk as Risk Service Provider"
+      },
+      "186": {
+        "proposalId": 186,
+        "proposalStatus": 4,
+        "ipfsHash": "0x70d848896b97f549376d1197f43a69c58246fec57b5314c76dc1749a5f1759b3",
+        "status": 2,
+        "title": "Chaos Labs <> Aave Risk Management Service Renewal"
+      },
+      "187": {
+        "proposalId": 187,
+        "proposalStatus": 6,
+        "ipfsHash": "0x70d848896b97f549376d1197f43a69c58246fec57b5314c76dc1749a5f1759b3",
+        "status": 3,
+        "title": "Chaos Labs <> Aave Risk Management Service Renewal"
+      },
+      "188": {
+        "proposalId": 188,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb772c95bee85b137bb8b63e62f70427ff7f937514eda46aa757d4053e65ba5e9",
+        "status": 2,
+        "title": "Reserve Factor Updates Mid October"
+      },
+      "189": {
+        "proposalId": 189,
+        "proposalStatus": 4,
+        "ipfsHash": "0x3a149264a56d0860bce568f8f75e4054bf24bfcbd73dc0d663bb0662528162ca",
+        "status": 2,
+        "title": "wstETH Slope1 & Uoptimal Update"
+      },
+      "190": {
+        "proposalId": 190,
+        "proposalStatus": 4,
+        "ipfsHash": "0x3d1fec3308264fb0c8fce54f95cd620d3b1d1578b5283f29935ef337069e3964",
+        "status": 2,
+        "title": "Aave <> Certora Continuous Security Services"
+      },
+      "191": {
+        "proposalId": 191,
+        "proposalStatus": 4,
+        "ipfsHash": "0x29e6523f02dbee892a4c9258f2b3b7992859c9ad758d5117813321e66c51486e",
+        "status": 2,
+        "title": "Onboard ezETH to Lido Instance"
+      },
+      "192": {
+        "proposalId": 192,
+        "proposalStatus": 4,
+        "ipfsHash": "0x3fda4736d4b519e9b9a6ef75799e21b68028c8f663914bc64b5fad98730a0b8c",
+        "status": 2,
+        "title": "Fix USDS Borrow Rate to Match Sky Savings Rate"
+      },
+      "194": {
+        "proposalId": 194,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1fc2a909781193c3e9bfe527e6c1f824547e279024ed1a8685d42dde32a7933d",
+        "status": 2,
+        "title": "stkGHO Incentives"
+      },
+      "195": {
+        "proposalId": 195,
+        "proposalStatus": 4,
+        "ipfsHash": "0xee18ffb7b418b0c4d36d9ffb0d5d8280c65e2d69df615af8c6aec49687e42716",
+        "status": 2,
+        "title": "Onboard wstETH to Aave V3 on BNB Chain"
+      },
+      "196": {
+        "proposalId": 196,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf537d68c6b1b19b3fc6dc6ed5b73e2479fb8daabac2e275ebb787012a353455d",
+        "status": 2,
+        "title": "GHO Steward v2 Upgrade"
+      },
+      "199": {
+        "proposalId": 199,
+        "proposalStatus": 4,
+        "ipfsHash": "0x315b3aa83bf146c7733f371552c641726508fc9cb061a159ecacadc0d4eacaa7",
+        "status": 2,
+        "title": "Safety Module stkAAVE - Re-enable Rewards"
+      },
+      "201": {
+        "proposalId": 201,
+        "proposalStatus": 4,
+        "ipfsHash": "0x60f540e34c1b586a245dc16025098ca382fde4d9cb104a8c04a39745f3a7ea81",
+        "status": 2,
+        "title": "PYUSD Reserve Configuration Update & Incentive Campaign"
+      },
+      "202": {
+        "proposalId": 202,
+        "proposalStatus": 4,
+        "ipfsHash": "0x26c178817d369782b4c7076cce3c4517265e104846a38c8ebd546d1474cd5c75",
+        "status": 2,
+        "title": "wstETH Reserve Borrow Rate Update - Main Instance"
+      },
+      "203": {
+        "proposalId": 203,
+        "proposalStatus": 6,
+        "ipfsHash": "0x26c178817d369782b4c7076cce3c4517265e104846a38c8ebd546d1474cd5c75",
+        "status": 3,
+        "title": "wstETH Reserve Borrow Rate Update - Main Instance"
+      },
+      "204": {
+        "proposalId": 204,
+        "proposalStatus": 4,
+        "ipfsHash": "0x5b478c28422082555bd734854921398123bb270ed0dc8349aa9c90521fa62a00",
+        "status": 2,
+        "title": "Onboard and Enable sUSDe liquid E-Mode on Aave v3 Mainnet and Lido Instances"
+      },
+      "205": {
+        "proposalId": 205,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf0d9f8887e02bf1657158543b7ff83be7be32aec78b1193364a4d4f8ead9d772",
+        "status": 2,
+        "title": "Onboard rsETH to Aave V3 Ethereum"
+      },
+      "206": {
+        "proposalId": 206,
+        "proposalStatus": 4,
+        "ipfsHash": "0x5be8af9a90310435783626b0cf4cee0ec70d4c83781a73cb4da14bcfe0ac063b",
+        "status": 2,
+        "title": "Enable sUSDe/USDT Liquid E-Mode on Core Instance"
+      },
+      "207": {
+        "proposalId": 207,
+        "proposalStatus": 4,
+        "ipfsHash": "0x979ccf480bc88243e4cca46bce6a65766eb6cc93d189e0dd911ac3c54ed0b1be",
+        "status": 2,
+        "title": " WBTC Reserve Factor and UOptimal Increase "
+      },
+      "208": {
+        "proposalId": 208,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7e9c183accaccede6def81bd44fd829bec4b43814516bfe8dfef0b27f7f300a6",
+        "status": 2,
+        "title": "Add dHEDGE Protocol to flashBorrowers"
+      },
+      "209": {
+        "proposalId": 209,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1a9acbab30d3c9c381e899fb79433cf8bdb996bddb514b195baa32a085a84809",
+        "status": 2,
+        "title": "USDS borrow rate update on Core and Prime Instances"
+      },
+      "210": {
+        "proposalId": 210,
+        "proposalStatus": 4,
+        "ipfsHash": "0xe931c8b1a1b1cc343762f5eaae5825d9298c21a0c3562279a289abb6e285d00d",
+        "status": 2,
+        "title": "September Funding Update - Part A"
+      },
+      "211": {
+        "proposalId": 211,
+        "proposalStatus": 4,
+        "ipfsHash": "0x5018fc573e6e6d8534f44ca40d8b1e0c0c38a60595037d3d059b840ea6523a59",
+        "status": 2,
+        "title": "Fluid Alignment"
+      },
+      "212": {
+        "proposalId": 212,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6a920a300a657492ff4dd7bdf16ac369e95db677c3139977803c75ca0f8489d1",
+        "status": 2,
+        "title": "wstETH Reserve Update"
+      },
+      "213": {
+        "proposalId": 213,
+        "proposalStatus": 4,
+        "ipfsHash": "0x141a3189c70b282415870d2c3ea6f7c05d256c8033b41895293ae74989c2b1b9",
+        "status": 2,
+        "title": "Remove Frax from Isolation Mode on Aave v3 Mainnet"
+      },
+      "214": {
+        "proposalId": 214,
+        "proposalStatus": 4,
+        "ipfsHash": "0xd642b2c392ecefe426be16546afc7be5028ff77ca75b2c9362f79a79ab4de487",
+        "status": 2,
+        "title": "Onboard GHO and Migrate Streams to Prime Instance"
+      },
+      "215": {
+        "proposalId": 215,
+        "proposalStatus": 4,
+        "ipfsHash": "0x08f666bb422c172fd4c300bc170fb9edafb9a94eee1c9d69358492fa53769d6b",
+        "status": 2,
+        "title": "Onboard rsETH to Lido Instance"
+      },
+      "216": {
+        "proposalId": 216,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1dea9e7846d661c189e2a5046ec5b7b0bfc395fcf87ba3fad25f1583adea910b",
+        "status": 2,
+        "title": "Increase Borrow Slope1 to all Stablecoins across all Aave Instances"
+      },
+      "217": {
+        "proposalId": 217,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf5846ed4aa5069fb719188eb682e8479788091da370edefc18695d1961d63878",
+        "status": 2,
+        "title": "Onboard SCR to Aave V3 Scroll"
+      },
+      "219": {
+        "proposalId": 219,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa32fdf133e89c51329b6a20c66ab591b9c5f0e45176a21624834e4c0773bee17",
+        "status": 2,
+        "title": "Aave Liquidity Committee Funding Phase V"
+      },
+      "220": {
+        "proposalId": 220,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa65981356b7309a6b13687ecc05aa4a3d973771c3c61e6ebf908759f2403bd23",
+        "status": 2,
+        "title": "Orbit Program Renewal - Q4 2024"
+      },
+      "221": {
+        "proposalId": 221,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1d9a4b0e68334ee6c1f867d2bddc9eeafce96702d24f3a4280abbeb4c21164e3",
+        "status": 2,
+        "title": "Onboard AUSD"
+      },
+      "222": {
+        "proposalId": 222,
+        "proposalStatus": 4,
+        "ipfsHash": "0xafaae4eb897ce4607b1a14855b69fc9adec481136d06a48cfe565b67ef189bc0",
+        "status": 2,
+        "title": "Funding Proposal: TokenLogic Financial Service Provider"
+      },
+      "223": {
+        "proposalId": 223,
+        "proposalStatus": 4,
+        "ipfsHash": "0x70aac42c7fdd1833721a1e00bed7cdde16591bb66473849ba2eb5cc899106258",
+        "status": 2,
+        "title": "USDS Interest Rate Curve Update"
+      },
+      "224": {
+        "proposalId": 224,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa4da1c686491e35541aa7e2659d55d0b93e395a89d1b268981aec3b8b2227bc1",
+        "status": 2,
+        "title": "weETH Risk Parameter Adjustment"
+      },
+      "225": {
+        "proposalId": 225,
+        "proposalStatus": 4,
+        "ipfsHash": "0x63789665d092c33439ca04f323667f770156b3a16123712bb63982c2912f8fa9",
+        "status": 2,
+        "title": "Proposal to Remove USDS from sUSDe Liquid E-Mode in Aave Prime Instance"
+      },
+      "226": {
+        "proposalId": 226,
+        "proposalStatus": 4,
+        "ipfsHash": "0xe85e3756a4d99d94cd69529df732df35022726eb9cadfdb3968bf25813648b51",
+        "status": 2,
+        "title": "Aave v3 Gnosis Instance Updates Part 1"
+      },
+      "227": {
+        "proposalId": 227,
+        "proposalStatus": 4,
+        "ipfsHash": "0x04c9882cee6c4dc847234ee6eef6bf81e75c1ded63ab00db2745012c602c2820",
+        "status": 2,
+        "title": "Deploy 10M GHO into Aave v3 Lido Instance"
+      },
+      "229": {
+        "proposalId": 229,
+        "proposalStatus": 4,
+        "ipfsHash": "0x9a9652b1de57a9e14c6897ffa831333f6f22889ebe18381ddcadc66b5b34ab4e",
+        "status": 2,
+        "title": "Funding Proposal: karpatkey as GHO Growth Service Provider"
+      },
+      "230": {
+        "proposalId": 230,
+        "proposalStatus": 4,
+        "ipfsHash": "0x5fcc204c8e20a3eccd431a9d84f28910d233c1d65cc2e1d88b062e9daaf28522",
+        "status": 2,
+        "title": "Onboard ezETH to Arbitrum and Base Instances"
+      },
+      "231": {
+        "proposalId": 231,
+        "proposalStatus": 4,
+        "ipfsHash": "0xe56f37dd9f78eaa77a7ac58af9ff61966c543a97c44a89160573629396aceceb",
+        "status": 2,
+        "title": "Onboard sUSDe and weETH to Aave v3 on zkSync"
+      },
+      "233": {
+        "proposalId": 233,
+        "proposalStatus": 4,
+        "ipfsHash": "0x9ec4e2279298c5947f6ec44993ef77a53517a1ea0f2d0458c147079a83f2413f",
+        "status": 2,
+        "title": "Onboard LBTC & Enable LBTC/WBTC liquid E-Mode on Aave v3 Core Instance"
+      },
+      "234": {
+        "proposalId": 234,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7c96588d84f5188e19ccbe659c40030e238e76e0fa1785af02d77ce733f4c917",
+        "status": 2,
+        "title": "Update Lido GHO base borrow rate"
+      },
+      "235": {
+        "proposalId": 235,
+        "proposalStatus": 4,
+        "ipfsHash": "0x9049e32e552aa49a718e0cd0b8a876f6d601919e978fd6c77848217f62dca5f6",
+        "status": 2,
+        "title": "Set REZ, KERNEL and rsETH Emission Admin to ACI"
+      },
+      "238": {
+        "proposalId": 238,
+        "proposalStatus": 4,
+        "ipfsHash": "0x2479e1a8a5b3e4d8023d061ade4a187ee9da5e17d7c91b8ed0a3e71522dd33d0",
+        "status": 2,
+        "title": "Prime Instance - wstETH Borrow Rate + rsETH Supply Cap Update"
+      },
+      "241": {
+        "proposalId": 241,
+        "proposalStatus": 4,
+        "ipfsHash": "0x4fb4b85caf14ac9be96975a2d062f4e728d7fcebd01a70b4d57532c672fb4f4a",
+        "status": 2,
+        "title": "Sunset stMATIC on Polygon instance"
+      },
+      "242": {
+        "proposalId": 242,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6b4cfbdb8b59afd1d576bcf041c38afc2c470371f03aed459ba0a728244702ac",
+        "status": 2,
+        "title": "Update USDS & GHO Borrow Rate"
+      },
+      "243": {
+        "proposalId": 243,
+        "proposalStatus": 4,
+        "ipfsHash": "0xbc2f70986db4d08799989a23a97687dab9885924ddce5f9e813d46d3d3c8530d",
+        "status": 2,
+        "title": "Allow Balancer To Claim Mining Rewards"
+      },
+      "244": {
+        "proposalId": 244,
+        "proposalStatus": 4,
+        "ipfsHash": "0x545174fa1d70c829c27c35badba4e0b72f1121b6493e0dfb7bcdca724b643605",
+        "status": 2,
+        "title": "wstETH Borrow Rate Update"
+      },
+      "246": {
+        "proposalId": 246,
+        "proposalStatus": 4,
+        "ipfsHash": "0xe1e1b8832f234472aedd79163b2ea94b98fc5d884d69a6241e517ba3ed755d34",
+        "status": 2,
+        "title": "February Funding Update (Part 1)"
+      },
+      "247": {
+        "proposalId": 247,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb402faa8be19367e6354f3be2044145c06a997cdc1a365f30de5807f1ea17998",
+        "status": 2,
+        "title": "Decrease Slope1 Parameter for Stablecoins on Aave V3"
+      },
+      "250": {
+        "proposalId": 250,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6a4f2b5540e736107c7ea76d935c9d02edff631359a1785c2f281ee1b046c1f4",
+        "status": 2,
+        "title": "stkBPT Incentives"
+      },
+      "251": {
+        "proposalId": 251,
+        "proposalStatus": 4,
+        "ipfsHash": "0x0ae88db3b5a56cab72ad7bfded4baa1e46848e9fa4335cce2104c8c7876f6136",
+        "status": 2,
+        "title": "Prime Instance - Restore ETH LTV"
+      },
+      "254": {
+        "proposalId": 254,
+        "proposalStatus": 4,
+        "ipfsHash": "0x9a0342bc6f37687ea20210c3a1664de1949d9e3e967ff87467501d4d00116aab",
+        "status": 2,
+        "title": "Adjust Risk Parameters for Aave V2 and V3 on Polygon"
+      },
+      "255": {
+        "proposalId": 255,
+        "proposalStatus": 4,
+        "ipfsHash": "0x3ad0eab265e54bfe5a6b27fcffc917a948886394c88033c06bcb77e737accc3d",
+        "status": 2,
+        "title": "Update AAVE Token LTV/Liquidation Percentages"
+      },
+      "256": {
+        "proposalId": 256,
+        "proposalStatus": 4,
+        "ipfsHash": "0x723936aac15685cf6a4cb44f4252592631f5f0022953896cc51b57df418da6f7",
+        "status": 2,
+        "title": "sUSD Risk Parameter Adjustment"
+      },
+      "258": {
+        "proposalId": 258,
+        "proposalStatus": 4,
+        "ipfsHash": "0x8e8859a1ce499fdd4285610e9a833daf66da59c57af40469bad8aa110d33db88",
+        "status": 2,
+        "title": "Extend GHO Steward on Aave Prime Instance"
+      },
+      "259": {
+        "proposalId": 259,
+        "proposalStatus": 4,
+        "ipfsHash": "0x9adc1828386ca02dba7c1a492c4448348addde4551e5bc81968bf49920517b3b",
+        "status": 2,
+        "title": "February Funding Update - Part B"
+      },
+      "260": {
+        "proposalId": 260,
+        "proposalStatus": 4,
+        "ipfsHash": "0x3b936dd6cf7fc54c4a31240ae34a4b6e2a6cf5d540372a76dcf33b28a2b1fb9c",
+        "status": 2,
+        "title": "Adjust Aave Polygon V3 Risk Parameters"
+      },
+      "261": {
+        "proposalId": 261,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb2c42584f134f14fb3ded36bb366465223a752d95bdb2e7aad1d9e2da76464d2",
+        "status": 2,
+        "title": "Aave V2 Deprecation Update"
+      },
+      "262": {
+        "proposalId": 262,
+        "proposalStatus": 4,
+        "ipfsHash": "0xd66c72d90cb2160fa50614ea18e83efe4e55f1e1ce481ac099d45c807906faa5",
+        "status": 2,
+        "title": "sUSDe and USDe Price Feed Update"
+      },
+      "263": {
+        "proposalId": 263,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6fba0be9251581b6628c378a8cfef6bba51a0a902528bfc4b0eff92ed14635b8",
+        "status": 2,
+        "title": "wrsETH Base Onboarding"
+      },
+      "264": {
+        "proposalId": 264,
+        "proposalStatus": 4,
+        "ipfsHash": "0xe8cf37c4fe2b24cbbf6296ff230af6e84185d3749bb8af9c056243bfa1c7188d",
+        "status": 2,
+        "title": "Core & Base - BTC Correlated Asset Update"
+      },
+      "265": {
+        "proposalId": 265,
+        "proposalStatus": 4,
+        "ipfsHash": "0x42c291379ab2a90483a8ccd4e76461521f0a8178159bc3de2b960de724e579e6",
+        "status": 2,
+        "title": "Add EURC to BASE Aave V3"
+      },
+      "266": {
+        "proposalId": 266,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa7cdf42a355a552ebb1e0a7fc43191b85d87c14faff922448d9ad364a78bb328",
+        "status": 2,
+        "title": "AUSD on V3 Avalanche"
+      },
+      "267": {
+        "proposalId": 267,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa7a224eb00be690b558352b6afcf332e5e26693a337993e4624c78ee30fb9aeb",
+        "status": 2,
+        "title": "GSMs Migration to stataGSM4626"
+      },
+      "271": {
+        "proposalId": 271,
+        "proposalStatus": 4,
+        "ipfsHash": "0xd1c8efdc310bd2fdd2d4f00fdeb9c01758078f56d24218c778d58132f11f1104",
+        "status": 2,
+        "title": "Stablecoins Interest Rate Curve Update"
+      },
+      "275": {
+        "proposalId": 275,
+        "proposalStatus": 6,
+        "ipfsHash": "0x2e9f8dd8e82532b00f3cd08f9338ffd198c5cb832bc01a43f4b79de115bb6ced",
+        "status": 3,
+        "title": "Allow Balancer DAO to Claim Liquidity Mining Rewards (Arbitrum & Base)"
+      },
+      "276": {
+        "proposalId": 276,
+        "proposalStatus": 6,
+        "ipfsHash": "0xf4d0bfca8139dbf720019bd9517e23396e9217e223f9b7ecceca2903667ad088",
+        "status": 3,
+        "title": "Onboard eBTC and Add eBTC/WBTC E-Mode"
+      },
+      "277": {
+        "proposalId": 277,
+        "proposalStatus": 6,
+        "ipfsHash": "0x7824ef23dfa3dafbc74744a92d482ba61a72ebeec7a941a70134d63809755a92",
+        "status": 3,
+        "title": " Onboard rsETH to Arbitrum"
+      },
+      "278": {
+        "proposalId": 278,
+        "proposalStatus": 6,
+        "ipfsHash": "0x0b0274c64c3044960cc136a5c813bb461e40da836c5873e85f99aafd1cd9f813",
+        "status": 3,
+        "title": "Finance Steward Deployment: Pool Exposure Module"
+      },
+      "279": {
+        "proposalId": 279,
+        "proposalStatus": 4,
+        "ipfsHash": "0x0b0274c64c3044960cc136a5c813bb461e40da836c5873e85f99aafd1cd9f813",
+        "status": 2,
+        "title": "Finance Steward Deployment: Pool Exposure Module"
+      },
+      "280": {
+        "proposalId": 280,
+        "proposalStatus": 4,
+        "ipfsHash": "0x2e9f8dd8e82532b00f3cd08f9338ffd198c5cb832bc01a43f4b79de115bb6ced",
+        "status": 2,
+        "title": "Allow Balancer DAO to Claim Liquidity Mining Rewards (Arbitrum & Base)"
+      },
+      "281": {
+        "proposalId": 281,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7824ef23dfa3dafbc74744a92d482ba61a72ebeec7a941a70134d63809755a92",
+        "status": 2,
+        "title": " Onboard rsETH to Arbitrum"
+      },
+      "282": {
+        "proposalId": 282,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf4d0bfca8139dbf720019bd9517e23396e9217e223f9b7ecceca2903667ad088",
+        "status": 2,
+        "title": "Onboard eBTC and Add eBTC/WBTC E-Mode"
+      },
+      "283": {
+        "proposalId": 283,
+        "proposalStatus": 6,
+        "ipfsHash": "0x1f1715ca8bef5fe45d423c093e7b6e1aeb6dc6598d393d6ce5058c62acc65812",
+        "status": 3,
+        "title": "Orbit Program Renewal"
+      },
+      "284": {
+        "proposalId": 284,
+        "proposalStatus": 6,
+        "ipfsHash": "0x0526e6e2532008aeefcc8e484045821dc5d4ae94290be1109f787a609728d310",
+        "status": 3,
+        "title": "Risk Steward Parameter Updates Phase 3"
+      },
+      "285": {
+        "proposalId": 285,
+        "proposalStatus": 6,
+        "ipfsHash": "0x842e291fcdf10a54e43af6d356bf4ed54ef5b33c284f2693f201b6c7875e7633",
+        "status": 3,
+        "title": "Enhancements in Aave v3 Gnosis Chain Instance"
+      },
+      "286": {
+        "proposalId": 286,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7b3631f33440766118f881b34797f01d87602887d1204ec83883778a947f7154",
+        "status": 2,
+        "title": "AAVE Buybacks allocation"
+      },
+      "287": {
+        "proposalId": 287,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1f1715ca8bef5fe45d423c093e7b6e1aeb6dc6598d393d6ce5058c62acc65812",
+        "status": 2,
+        "title": "Orbit Program Renewal"
+      },
+      "288": {
+        "proposalId": 288,
+        "proposalStatus": 4,
+        "ipfsHash": "0x0526e6e2532008aeefcc8e484045821dc5d4ae94290be1109f787a609728d310",
+        "status": 2,
+        "title": "Risk Steward Parameter Updates Phase 3"
+      },
+      "289": {
+        "proposalId": 289,
+        "proposalStatus": 4,
+        "ipfsHash": "0x842e291fcdf10a54e43af6d356bf4ed54ef5b33c284f2693f201b6c7875e7633",
+        "status": 2,
+        "title": "Enhancements in Aave v3 Gnosis Chain Instance"
+      },
+      "293": {
+        "proposalId": 293,
+        "proposalStatus": 4,
+        "ipfsHash": "0x87a8aaaa34d0fbe1b588b7560fbf28d5bcff95417037e20f3529b79a3ae412ad",
+        "status": 2,
+        "title": "April Funding update"
+      },
+      "295": {
+        "proposalId": 295,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7bf5753a0e909b4256fc406e6e6897cafebfcb8e0179e2e9696650ac0c6f7226",
+        "status": 2,
+        "title": "Add rlUSD to Core Instance"
+      },
+      "296": {
+        "proposalId": 296,
+        "proposalStatus": 4,
+        "ipfsHash": "0x22262761d78b56bc43694c7a928aec29b984dd41f4e3ee3ed767e4af4b248e5c",
+        "status": 2,
+        "title": "Aave Liquidity Committee Funding Phase VI"
+      },
+      "297": {
+        "proposalId": 297,
+        "proposalStatus": 4,
+        "ipfsHash": "0xd32df20fa05a83069390916edd23f8e46ae215fcc9713fa8bcf4df5b1e09e765",
+        "status": 2,
+        "title": "Renew LlamaRisk as Risk Service Provider - epoch 3"
+      },
+      "298": {
+        "proposalId": 298,
+        "proposalStatus": 4,
+        "ipfsHash": "0x806c9d92b382f5668422f150a8d11c8347d3e0e6419b7e73185784f75d3e7d55",
+        "status": 2,
+        "title": "Lower stkABPT Emissions"
+      },
+      "299": {
+        "proposalId": 299,
+        "proposalStatus": 2,
+        "ipfsHash": "0x3af2cc97ce1e3eefdf9ce221ab696f677ae27916b2450d538f82f2181e570057",
+        "status": 2,
+        "title": "Onboard PT sUSDe July and PT eUSDe May on Core Instance"
+      },
+      "300": {
+        "proposalId": 300,
+        "proposalStatus": 4,
+        "ipfsHash": "0x2ca79386fa0a3522378c246e869033e49c153e99b23d4519a3f90e8efef9e191",
+        "status": 2,
+        "title": "Add stS to Aave v3 Sonic Instance"
+      },
+      "301": {
+        "proposalId": 301,
+        "proposalStatus": 4,
+        "ipfsHash": "0xdd33bc41daa67bd67aacfd29e3907856bda4c131855a5246009b680ade24938a",
+        "status": 2,
+        "title": "ACI Phase IV – “Road to 80”"
+      },
+      "303": {
+        "proposalId": 303,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc0e9c24f7279bec1d6735560184c11f298b1c4c6cd22238549bbc60017a070d7",
+        "status": 2,
+        "title": "Onboard PT sUSDe July on Core Instance"
+      },
+      "304": {
+        "proposalId": 304,
+        "proposalStatus": 4,
+        "ipfsHash": "0x242880f29623ea7d22bc19aa9f44c640ed02af1204a86ab3d5fb8c803a2a9059",
+        "status": 2,
+        "title": "May Funding Update"
+      },
+      "305": {
+        "proposalId": 305,
+        "proposalStatus": 4,
+        "ipfsHash": "0x17c8aab4e08a5f6148b7358a29b01af5404018773bb4715f5440c23ab8a83e7f",
+        "status": 2,
+        "title": "Onboard USDtb to Aave v3 Core Instance"
+      },
+      "306": {
+        "proposalId": 306,
+        "proposalStatus": 4,
+        "ipfsHash": "0x806915ad5b7747849fcfcca9d14f71c55d9bb33280e8a6a73f8082503af2cc06",
+        "status": 2,
+        "title": " Remove USDe Debt Ceiling and Introduce USDe Stablecoins E-mode"
+      },
+      "307": {
+        "proposalId": 307,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb8df479b7c12b6a8a00eb98be25079f2255d2796f2af969513901414eac85c2d",
+        "status": 2,
+        "title": "stkGHO Emissions"
+      },
+      "310": {
+        "proposalId": 310,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7a072a9287642a0b0bd61b39e196534a9c0feaa8382aaeba67ef6bac9e872318",
+        "status": 2,
+        "title": "Add AAVE token to Aave V3 Base Instance"
+      },
+      "311": {
+        "proposalId": 311,
+        "proposalStatus": 4,
+        "ipfsHash": "0x14eb1427fd0569fe42cbc068c05e5d01593d956a5e74184b278de555865dabc3",
+        "status": 2,
+        "title": "LRT and wstETH Unification"
+      },
+      "314": {
+        "proposalId": 314,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa82674c1b37d426e52051d98954abd7791774c807524ecd7959b8a0c89ea6a5b",
+        "status": 2,
+        "title": "Onboard eUSDe and eUSDe based PT token to Aave V3 Core"
+      },
+      "315": {
+        "proposalId": 315,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa48e4cf9a666d6a86f7e336fcfd8b88a187686053ab1b7eeba2bc5283629af8f",
+        "status": 2,
+        "title": "stkAAVE Emissions"
+      },
+      "317": {
+        "proposalId": 317,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa8dccd16ebf9dd7ba9d427b27b58961efeeab04d0f3bdcb61a4ff1d33a1b6c56",
+        "status": 2,
+        "title": " Onboarding wETH to Aave V3 Celo Instance"
+      },
+      "318": {
+        "proposalId": 318,
+        "proposalStatus": 4,
+        "ipfsHash": "0xda3df9ee07c5133298cfe63fb0745b5f227ea5a27c009d89242246379c951402",
+        "status": 2,
+        "title": "Add FBTC to Aave v3 Main Market on Ethereum"
+      },
+      "321": {
+        "proposalId": 321,
+        "proposalStatus": 4,
+        "ipfsHash": "0x3620c2aad3bf4e7dc5d9fda5c27592c60f78125b90b79535f4371b69645cdbcb",
+        "status": 2,
+        "title": "May Funding Part B"
+      },
+      "322": {
+        "proposalId": 322,
+        "proposalStatus": 4,
+        "ipfsHash": "0xd88fe280b6079d50ab9a283cc4c5ae52c90fdb3d50b8bec4d3cbb65b350d687f",
+        "status": 2,
+        "title": "Asset Parameters Optimization"
+      },
+      "323": {
+        "proposalId": 323,
+        "proposalStatus": 4,
+        "ipfsHash": "0x9638f94b66a2364fea5fd11606328a1994720255a0aaa54d90746b332947b41b",
+        "status": 2,
+        "title": "Onboard wrsETH to ZKsync V3 Instance"
+      },
+      "324": {
+        "proposalId": 324,
+        "proposalStatus": 4,
+        "ipfsHash": "0x49ad36f79f5aa2fc047c56cc9015552b9083fdc79cc5ed355d1a16b0296fd1c9",
+        "status": 2,
+        "title": "June Funding Update - Part I"
+      },
+      "325": {
+        "proposalId": 325,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa4f30894edb67f82e16ba763e04fcb1a4f613b8d17fa0ecbaa872b1ba4adeab0",
+        "status": 2,
+        "title": "Aave Events & Sponsorship Budget 2025"
+      },
+      "327": {
+        "proposalId": 327,
+        "proposalStatus": 4,
+        "ipfsHash": "0x0c6385dcf4f811c09d7e1ce672efe7a471a232461eb15aefc70cc5d6b8367b17",
+        "status": 2,
+        "title": "June Funding Update - Part II"
+      },
+      "329": {
+        "proposalId": 329,
+        "proposalStatus": 4,
+        "ipfsHash": "0x53f0deb5b4edb43d2a297caad540900bc6a359ade80aefe519164a8d83059364",
+        "status": 2,
+        "title": "Onboard tETH to Aave v3 Prime Instance"
+      },
+      "331": {
+        "proposalId": 331,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf93eb58ea5cf5aaf82c5e3c799ac717bed7c1879c6a4ae1525087df7a873e5b6",
+        "status": 2,
+        "title": "Add EURC to Aave V3 Core Instance"
+      },
+      "335": {
+        "proposalId": 335,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc39dbb2f31171d7ac1b41f6ad80d6f1c4c44f4da5641d987a42fc07f85dc46bf",
+        "status": 2,
+        "title": "Chaos Labs x Aave DAO — Early Renewal Proposal"
+      },
+      "336": {
+        "proposalId": 336,
+        "proposalStatus": 4,
+        "ipfsHash": "0x8b5aea7c778b9b4a2367ae2ffd6ad34f21aeb899933b28353ef5f0cca6c5f4eb",
+        "status": 2,
+        "title": "CEX Earn Funding Proposal"
+      },
+      "337": {
+        "proposalId": 337,
+        "proposalStatus": 4,
+        "ipfsHash": "0xdd71ef33885a0eedf87855c16fdf3f6ae2ea1268dcc35d76888cfb6fa1b41ce6",
+        "status": 2,
+        "title": "Onboard sUSDe September expiry PT tokens on Aave V3 Core Instance"
+      },
+      "338": {
+        "proposalId": 338,
+        "proposalStatus": 4,
+        "ipfsHash": "0x5b14be276f0ef509cfb725d201e64d1a8d46c811b23a56e8e19117ba97f4fd27",
+        "status": 2,
+        "title": "stS Loop Incentive Program"
+      },
+      "339": {
+        "proposalId": 339,
+        "proposalStatus": 4,
+        "ipfsHash": "0xcb1dd7a51c7b81f3f1a5a4e4c1c01112777fa515738745c876938010c8b6be8b",
+        "status": 2,
+        "title": "Deprecation of Long-tail Assets"
+      },
+      "341": {
+        "proposalId": 341,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7a5b98aa1030964b1ba754fc35d2e3d3e17549c97ee82977d6a5fc56d8fd198b",
+        "status": 2,
+        "title": "amend PT-sUSDe september stablecoin emode"
+      },
+      "342": {
+        "proposalId": 342,
+        "proposalStatus": 4,
+        "ipfsHash": "0x447c274d05b4c2dda0a18548f0bb9932e82f4574d38e60b77a28a1be2bd95cdd",
+        "status": 2,
+        "title": "Safety Module Emission Update"
+      },
+      "343": {
+        "proposalId": 343,
+        "proposalStatus": 4,
+        "ipfsHash": "0x8e7a70da64e3a8c4f485779aaaa48b9976fff80129aa29815807c8549068354b",
+        "status": 2,
+        "title": "Add USDe to the sUSDe emode Category"
+      },
+      "344": {
+        "proposalId": 344,
+        "proposalStatus": 6,
+        "ipfsHash": "0x8e7a70da64e3a8c4f485779aaaa48b9976fff80129aa29815807c8549068354b",
+        "status": 3,
+        "title": "Add USDe to the sUSDe emode Category"
+      },
+      "345": {
+        "proposalId": 345,
+        "proposalStatus": 6,
+        "ipfsHash": "0x8e7a70da64e3a8c4f485779aaaa48b9976fff80129aa29815807c8549068354b",
+        "status": 3,
+        "title": "Add USDe to the sUSDe emode Category"
+      },
+      "346": {
+        "proposalId": 346,
+        "proposalStatus": 4,
+        "ipfsHash": "0xab453bc3008f4aa5fc0b04038d3ba4b274a5560bf24a16f6db01557006261fdf",
+        "status": 2,
+        "title": "Onboard USDe September expiry PT tokens on Aave V3 Core Instance"
+      },
+      "347": {
+        "proposalId": 347,
+        "proposalStatus": 4,
+        "ipfsHash": "0x4a6f5b9db43af90aa99020adf1195e04a8e9a96f171847f85ec7848f1c2c3ac1",
+        "status": 2,
+        "title": "wS and BTC.b Interest Rate Curve Optimization"
+      },
+      "349": {
+        "proposalId": 349,
+        "proposalStatus": 4,
+        "ipfsHash": "0x81e75ea2158fec9701b158228f8224684ba13ac669b0bd70c6f07f75a7807fc2",
+        "status": 2,
+        "title": "July 2025 - Funding Update"
+      },
+      "350": {
+        "proposalId": 350,
+        "proposalStatus": 4,
+        "ipfsHash": "0x959fd9535907af7498eebee9aa3475d126ff94d2aa5dbd3f6339e894e582a009",
+        "status": 2,
+        "title": "Interest Rate Update - WETH and wstETH Ethereum"
+      },
+      "352": {
+        "proposalId": 352,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1d24f0279264d6d17f5d1e432bfb88a1c755b4e2e5b25f3d58cec9a6ed064aa0",
+        "status": 2,
+        "title": "GHO Gnosis Launch"
+      },
+      "354": {
+        "proposalId": 354,
+        "proposalStatus": 4,
+        "ipfsHash": "0xceb7fe655d73f33159c4744ad02b1bba4010a7031f084f18425e893e318b99fa",
+        "status": 2,
+        "title": "Add tETH to Core Instance Ethereum"
+      },
+      "355": {
+        "proposalId": 355,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1bd67723b9c2e9025c29f767a7296bdcde1c5af42d48bdfb495ea4d13a881d12",
+        "status": 2,
+        "title": "Add ezETH to Aave v3 Core Instance"
+      },
+      "358": {
+        "proposalId": 358,
+        "proposalStatus": 4,
+        "ipfsHash": "0xe2d5e82594c356931465f14b6d7110e1a0b38a0536090f21312b73243139bd49",
+        "status": 2,
+        "title": "Onboard rsETH to Aave V3 Linea Instance"
+      },
+      "359": {
+        "proposalId": 359,
+        "proposalStatus": 4,
+        "ipfsHash": "0x5c6bcd27cc94e27f40112647e0fde323c17706ce82746008ceae9d707deb0208",
+        "status": 2,
+        "title": "Claiming AAVE Rewards for the Sablier Legacy v1.1 Contract"
+      },
+      "360": {
+        "proposalId": 360,
+        "proposalStatus": 4,
+        "ipfsHash": "0x42534ee01faab1e4b069b31f48ec2ed9822f729d1ec5fe6fe5469f5f2b3cfc9f",
+        "status": 2,
+        "title": "Onboard tBTC to Aave v3 on Arbitrum"
+      },
+      "363": {
+        "proposalId": 363,
+        "proposalStatus": 4,
+        "ipfsHash": "0x2a7103c2000298745175ca820ca7c0e7b7c162d2ed8df0c1858b924134b78be4",
+        "status": 2,
+        "title": "Onboard tBTC to Aave v3 on Base"
+      },
+      "364": {
+        "proposalId": 364,
+        "proposalStatus": 4,
+        "ipfsHash": "0xbb022e52cdf9d2b65b5e8cfd7a350fa7b3bc8149f80db0edbc7e52d1eb1b8a24",
+        "status": 2,
+        "title": "Add XAUt to Aave v3 Core Instance"
+      },
+      "365": {
+        "proposalId": 365,
+        "proposalStatus": 4,
+        "ipfsHash": "0xab3ff6fed787c72953538ff886e858da200d500887c9a7868d320a3dc8eba4f1",
+        "status": 2,
+        "title": "Onboard sUSDe November expiry PT tokens on Aave V3 Core Instance"
+      },
+      "366": {
+        "proposalId": 366,
+        "proposalStatus": 4,
+        "ipfsHash": "0xfd750a03ca6407a4c5fc62d5751cf46560c40e926cd62bdb52fedbd2b889d577",
+        "status": 2,
+        "title": "Multi eMode Update and Creation - rsETH, ezETH, wstETH and weETH"
+      },
+      "367": {
+        "proposalId": 367,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1cbc2ec9f75d0cb82a860e44d27ae8e7d303bb044bb4d9d27ece5fc3e09d7350",
+        "status": 2,
+        "title": "Onboard USDe November expiry PT tokens on Aave V3 Core Instance"
+      },
+      "368": {
+        "proposalId": 368,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb7ce06bba8767b2dc12dde8ad1f6c31d4cb7b24136291548deca84a2228c09d8",
+        "status": 2,
+        "title": "Add Fluid Protocol to flashBorrowers"
+      },
+      "370": {
+        "proposalId": 370,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc119cd91d013699f33f2be705858eb1e0c963b60ba402959758348d412776b54",
+        "status": 2,
+        "title": "September Funding Update"
+      },
+      "371": {
+        "proposalId": 371,
+        "proposalStatus": 6,
+        "ipfsHash": "0xc119cd91d013699f33f2be705858eb1e0c963b60ba402959758348d412776b54",
+        "status": 3,
+        "title": "September Funding Update"
+      },
+      "372": {
+        "proposalId": 372,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb3ad06ee2ae1d97b762191b6ca4cabd3271a24a9eb9f8d37d8f1737bbb957f69",
+        "status": 2,
+        "title": " Increase rsETH Supply Cap on Aave V3 Linea Instance"
+      },
+      "374": {
+        "proposalId": 374,
+        "proposalStatus": 4,
+        "ipfsHash": "0x320cbae85b0351f558eef82885ea9b8a17b130c55eaad81064657e00ce48d9c5",
+        "status": 2,
+        "title": "Risk Parameter Adjustments for Aave V3 Scroll Instance"
+      },
+      "375": {
+        "proposalId": 375,
+        "proposalStatus": 4,
+        "ipfsHash": "0x092b9dcb1a0b1f557c7bd7139b1ada7ccdce95a545bdb8327e8a3a0d11c75042",
+        "status": 2,
+        "title": "Add EURC to Avalanche V3 Instance"
+      },
+      "376": {
+        "proposalId": 376,
+        "proposalStatus": 4,
+        "ipfsHash": "0x126974bde627cbc93918a913845077a08ec78ae04bdf49d5da15b41478e157b4",
+        "status": 2,
+        "title": "Raise sUSDe and USDe November expiry PT tokens caps on Aave V3 Core Instance"
+      },
+      "382": {
+        "proposalId": 382,
+        "proposalStatus": 4,
+        "ipfsHash": "0x32e370abd40501a77ccf10f3b822654a33b54eef42cffb092662da6634473bb6",
+        "status": 2,
+        "title": "Aave Liquidity Committee Funding Phase VII"
+      },
+      "383": {
+        "proposalId": 383,
+        "proposalStatus": 4,
+        "ipfsHash": "0xeebe6f3200ce589673f94a5c3ae90186c4bc59e7d7f29a81cb6952149760dd7e",
+        "status": 2,
+        "title": "Aave v2 Deprecation - Update"
+      },
+      "384": {
+        "proposalId": 384,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7f8ccb2b8643eb7170a5413b5c01ac5cf1e199f92ea39eb35850d8ae98f7f07e",
+        "status": 2,
+        "title": "pyUSD Parameters Optimization"
+      },
+      "385": {
+        "proposalId": 385,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf03f91e0c1a9cc49a0c832145344699fba074eddee8175f3e70bb2e604f9db2e",
+        "status": 2,
+        "title": "[ARFC] Safety Module & Umbrella Emission Update"
+      },
+      "386": {
+        "proposalId": 386,
+        "proposalStatus": 4,
+        "ipfsHash": "0x12336adc222eebaab850aeb03af054fc513611c0045aa5034acb38b214bdd94b",
+        "status": 2,
+        "title": "Steward Deployment: MainnetSwapSteward and RewardsSteward"
+      },
+      "390": {
+        "proposalId": 390,
+        "proposalStatus": 4,
+        "ipfsHash": "0x3cfc7caf8a0bccfb08c45564f2c94dcaee7bee5471cf33abfb81c41e9334feaa",
+        "status": 2,
+        "title": "Allow PyUSD as collateral"
+      },
+      "391": {
+        "proposalId": 391,
+        "proposalStatus": 4,
+        "ipfsHash": "0x0dbe5772b9a4cba9cbff4ff607c8de2ceaa11f6af7522427f7a1119baeb3b9c5",
+        "status": 2,
+        "title": "Gho Plasma Launch"
+      },
+      "392": {
+        "proposalId": 392,
+        "proposalStatus": 4,
+        "ipfsHash": "0x14332c8c7c63e94c2b1a67f4cbd3f49dd03a6fecb9b9985ee5dbf1b624d70129",
+        "status": 2,
+        "title": "Onboard sUSDe and USDe January expiry PT tokens on Aave V3 Plasma Instance"
+      },
+      "393": {
+        "proposalId": 393,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc20b7c25c84c6dd8c656c9834863ef321f9c4240e76f58b6a798c363f9c53584",
+        "status": 2,
+        "title": "Onboard wrsETH to Aave v3 Plasma Instance"
+      },
+      "394": {
+        "proposalId": 394,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1474beba5260fd08ba0097bf07247a99811cc360d5cb082ddf96b758f6a0f359",
+        "status": 2,
+        "title": "Onboard syrupUSDT to Aave V3 Plasma Instance"
+      },
+      "396": {
+        "proposalId": 396,
+        "proposalStatus": 4,
+        "ipfsHash": "0x9f40df3cd3322153ae2cf035a480953fda9e5df2cfc1bb04f9f668983cf8e1d7",
+        "status": 2,
+        "title": "Add Fluid Protocol to flashBorrowers on Plasma"
+      },
+      "397": {
+        "proposalId": 397,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1f54d6a74f565aadaa76ec5ca40c839f6fdb17cf48a365c4fade77fc6bd7dc28",
+        "status": 2,
+        "title": "Onboard sUSDe and USDe to Aave V3 Avalanche Instance"
+      },
+      "398": {
+        "proposalId": 398,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa0d31fce6efc2bc02c5704ad753a2aca4d085858189d73228f2cb783da9afe41",
+        "status": 2,
+        "title": "Extend Ahab Funding"
+      },
+      "399": {
+        "proposalId": 399,
+        "proposalStatus": 4,
+        "ipfsHash": "0x9e06dab39bafb030dc63964e505beb4a258ee6f6373ecc43debb7681d7a54697",
+        "status": 2,
+        "title": "USDC (old) deprecation on Gnosis Chain Instance"
+      },
+      "400": {
+        "proposalId": 400,
+        "proposalStatus": 4,
+        "ipfsHash": "0x0a4a9e52e40bc22374361dee7b26ae2e5c33cf2abfe97492f80460146a74c1f8",
+        "status": 2,
+        "title": "Addition of cbBTC/Stablecoin E-Mode to Aave V3 Base Instance"
+      },
+      "401": {
+        "proposalId": 401,
+        "proposalStatus": 4,
+        "ipfsHash": "0xadec1fb6812a8f5502d9011ecc87c484444ff615cdf00f38bc0f1cca036ab93b",
+        "status": 2,
+        "title": "Service Provider Compensation Reform for V4 Alignment"
+      },
+      "402": {
+        "proposalId": 402,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb781cb7aa347dc7e27c4d6f3a0bc222fee77ad21ff4c9260d20c6aee0ca0bf10",
+        "status": 2,
+        "title": "Security Services for Aave Current Infrastructure <> Certora"
+      },
+      "403": {
+        "proposalId": 403,
+        "proposalStatus": 4,
+        "ipfsHash": "0x91c33eb3ff7eb538c9b4add1059af4515cbf477e66e5f478c611479887834278",
+        "status": 2,
+        "title": "Security Services for Aave v4 <> Certora"
+      },
+      "405": {
+        "proposalId": 405,
+        "proposalStatus": 4,
+        "ipfsHash": "0x2bd4b997a994d08aa01e0fbf4708eee0a418dd857414dfc3bcf63a3a08b773ac",
+        "status": 2,
+        "title": "Safety Module Emissions Update"
+      },
+      "406": {
+        "proposalId": 406,
+        "proposalStatus": 4,
+        "ipfsHash": "0x67eed08af16e273247455ed3712df3f6317cb95e85feec6fb9fd9f68c295a8aa",
+        "status": 2,
+        "title": "Reinstate Supply and Borrow Caps on Aave V3 Gnosis Instance"
+      },
+      "407": {
+        "proposalId": 407,
+        "proposalStatus": 4,
+        "ipfsHash": "0x0ad339ba1cb2206e93f936589e8685fdc16d6b5beafe1f6f135768d54f2bac38",
+        "status": 2,
+        "title": "Orbit Program Renewal - Q3 and Q4 2025"
+      },
+      "408": {
+        "proposalId": 408,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf17cd74c6709e5e976587a0db97b108b74e5a51a111220401143d57c64604a5f",
+        "status": 2,
+        "title": "XPL Onboarding"
+      },
+      "409": {
+        "proposalId": 409,
+        "proposalStatus": 4,
+        "ipfsHash": "0x4cc9da7ec6a32cbd5571aedb4212b5d34af8888d2bfca14145362439a0b553cc",
+        "status": 1,
+        "title": "Deprecation of Low Demand Volatile Assets on Aave V3 Instances"
+      },
+      "410": {
+        "proposalId": 410,
+        "proposalStatus": 4,
+        "ipfsHash": "0x5be17287148bec343b39d20f7ab0b8cf25ed1cd33a05b1545b4a963333c32c13",
+        "status": 1,
+        "title": "Freeze wstETH Plasma"
+      },
+      "411": {
+        "proposalId": 411,
+        "proposalStatus": 6,
+        "ipfsHash": "0x576439144ff437d31f373ac81d37f1864ad309c2c6c9508d72642e24e8c54bbd",
+        "status": 3,
+        "title": "Ethena PT FEB Listing"
+      },
+      "412": {
+        "proposalId": 412,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6bd0de6474e78b0e46734f35fa07972fad2a9d3991122427130cb0cd9ea9c2b3",
+        "status": 1,
+        "title": "Ethena PT FEB Listing"
+      },
+      "413": {
+        "proposalId": 413,
+        "proposalStatus": 4,
+        "ipfsHash": "0x5294682fc73e176110098798f21b5ce3e8d9ee98fbffe266543741e07d2ee31a",
+        "status": 1,
+        "title": "November Funding Update"
+      },
+      "414": {
+        "proposalId": 414,
+        "proposalStatus": 4,
+        "ipfsHash": "0xbf156d74503ef58e0625124f71e4e5584b30e823996b82e60724656e35be9902",
+        "status": 1,
+        "title": "Onboard rsETH to Aave V3 Avalanche Instance"
+      },
+      "415": {
+        "proposalId": 415,
+        "proposalStatus": 4,
+        "ipfsHash": "0x49d30d20a4b529c3f9ff5834349e650169854b910c40b2070a929fa04d2b6dd6",
+        "status": 1,
+        "title": "Add MetaMask USD (mUSD) to Aave V3 Ethereum/Linea"
+      },
+      "416": {
+        "proposalId": 416,
+        "proposalStatus": 4,
+        "ipfsHash": "0x48d70d4984cfef8f9b6c3901d6d19abc87e90ece33d206005b709424021a7628",
+        "status": 1,
+        "title": "Onboard syrupUSDT to Aave V3 Core Instance"
+      },
+      "417": {
+        "proposalId": 417,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7e706b3bfc13025cdc8873bd6f45d6808fb7a1a2ac6203340d3f93bc0c1ca5e6",
+        "status": 1,
+        "title": "Renewal of Umbrella Reward Allowances"
+      },
+      "418": {
+        "proposalId": 418,
+        "proposalStatus": 4,
+        "ipfsHash": "0x9a5336582f4cc10f29128ba051dc4e3e5ff9a0d83229c7589fded56ec1488529",
+        "status": 1,
+        "title": "XAUt Supply Cap and Debt Ceiling Adjustment on Aave V3 Core Instance"
+      },
+      "419": {
+        "proposalId": 419,
+        "proposalStatus": 4,
+        "ipfsHash": "0x322df3a160f7194d475d089dd25640806cc5b25c85a48c45f554bd002d51d34d",
+        "status": 1,
+        "title": "Alter mUSD Oracle Price Implementation"
+      },
+      "420": {
+        "proposalId": 420,
+        "proposalStatus": 4,
+        "ipfsHash": "0x8959caf70649b5f854dea641758813e451dbf039da08cd0f0ae811a5cfaa6997",
+        "status": 1,
+        "title": "weETH E-Mode Risk Parameter Adjustment on Aave V3 Plasma Instance"
+      },
+      "421": {
+        "proposalId": 421,
+        "proposalStatus": 4,
+        "ipfsHash": "0x8145d5e782e1649757a7e035620c0ce53b93cd066eface7f4b1f774e1500cfef",
+        "status": 1,
+        "title": "Remove USDS as collateral and increase RF across all Aave Instances"
+      },
+      "423": {
+        "proposalId": 423,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa71c1ac091ede114488cebb1b8efce47b74217bbc15d25b89227c6fc249616f1",
+        "status": 1,
+        "title": "USDG Listing"
+      },
+      "424": {
+        "proposalId": 424,
+        "proposalStatus": 4,
+        "ipfsHash": "0x7e39acd608fad0ed3dbdf07691c2e9f629c3f2d19b8730330d23eb8b08cf3453",
+        "status": 1,
+        "title": "Add WETH to the wrsETH wstETH E-Mode on Aave V3 Base Instance"
+      },
+      "425": {
+        "proposalId": 425,
+        "proposalStatus": 4,
+        "ipfsHash": "0xe3e08d0a94663b716898f9a6527b8446b6e65dccae338c35742bc4bc6d6f81bd",
+        "status": 1,
+        "title": "December Funding Update"
+      },
+      "426": {
+        "proposalId": 426,
+        "proposalStatus": 4,
+        "ipfsHash": "0xde64c6c3b59d8a7ac29375e8bdab927b5cc5caf95929c12dfdb40d664486c1d3",
+        "status": 1,
+        "title": "Ethena February E-Modes Adjustments"
+      },
+      "427": {
+        "proposalId": 427,
+        "proposalStatus": 6,
+        "ipfsHash": "0x67acac178fa108114611d99c85b9efda1928ccec8d836a1dda54dbb809d042cf",
+        "status": 3,
+        "title": "stkABPT Emission Update"
+      },
+      "428": {
+        "proposalId": 428,
+        "proposalStatus": 4,
+        "ipfsHash": "0x724572648ae49a362eaec129e0d0662c38986a3b32606201c582d6c37f4f0031",
+        "status": 1,
+        "title": "Listing of PT Ethena April Maturity on Plasma Instance"
+      },
+      "430": {
+        "proposalId": 430,
+        "proposalStatus": 4,
+        "ipfsHash": "0x85b3f3aadd693ccc0035a629d3988d5e883f811a64057d421787ca32ea65df6f",
+        "status": 1,
+        "title": "Orbit Program Renewal - Q1 and Q2 2026"
+      },
+      "431": {
+        "proposalId": 431,
+        "proposalStatus": 6,
+        "ipfsHash": "0x8f19d5d5dc5ace33e0a2a4940c7056ba3b8d9be47c5033889888f73df442b515",
+        "status": 3,
+        "title": "Onboard syrupUSDC to Aave V3 Base Instance"
+      },
+      "434": {
+        "proposalId": 434,
+        "proposalStatus": 4,
+        "ipfsHash": "0x94ab00247cd1ae13dc3c012532f60e3401ea02d57f450b2ba420456b79a411e7",
+        "status": 1,
+        "title": "Add WETH to the rsETH LST E-Mode on Aave Core Instance "
+      },
+      "435": {
+        "proposalId": 435,
+        "proposalStatus": 4,
+        "ipfsHash": "0x67acac178fa108114611d99c85b9efda1928ccec8d836a1dda54dbb809d042cf",
+        "status": 1,
+        "title": "stkABPT Emission Update"
+      },
+      "437": {
+        "proposalId": 437,
+        "proposalStatus": 4,
+        "ipfsHash": "0x40b5da4af3c5e5d8048049bcb42d242a6dc5a6c89db2e351c4aa92108b753fe1",
+        "status": 1,
+        "title": "Onboard syrupUSDC on Base"
+      },
+      "439": {
+        "proposalId": 439,
+        "proposalStatus": 4,
+        "ipfsHash": "0xfe12fbb0cc5b9383d0d788c9079494c1ec8d2525e05f3ff3451ea008838668b1",
+        "status": 1,
+        "title": "Extend stkAAVE Emissions"
+      },
+      "440": {
+        "proposalId": 440,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa7fa3d6deffa0935b423da850dae3a435ebeea70c2098311d0d750bb7df24036",
+        "status": 1,
+        "title": "Gho Mantle Activation"
+      },
+      "442": {
+        "proposalId": 442,
+        "proposalStatus": 2,
+        "ipfsHash": "0xd996400425ba4dd6835d8abf7ee8db7519c9a21d40295cd9912035de2000178c",
+        "status": 1,
+        "title": "Listing PT Ethena May"
+      },
+      "443": {
+        "proposalId": 443,
+        "proposalStatus": 2,
+        "ipfsHash": "0x5fd9bc11bc15c390ad9873ef69dcdd4e329fb1f77b9b08db8464230f15a73aa8",
+        "status": 1,
+        "title": "Enhancing Market Granularity in Aave v3.6: Part 1"
+      },
+      "444": {
+        "proposalId": 444,
+        "proposalStatus": 1,
+        "ipfsHash": "0x4c5ae8b97620b88e0da6da0fde99dad21b121fac07165ac15b80c865da16bcae",
+        "status": 0,
+        "title": "Onboard Strata srUSDe PT tokens to V3 Core Instance"
+      }
+    },
+    "0x99C7A4A4Ab99882C422eF777b182eBda204D5B02": {
+      "8": {
+        "proposalId": 8,
+        "proposalStatus": 4,
+        "ipfsHash": "0xb87ef765d6082f5ac26466bc730b069c42d4ea9fe130250a26be627ac259d259",
+        "status": 1,
+        "title": "GHO Stability Module"
+      }
+    },
+    "0x683a4F9915D6216f73d6Df50151725036bD26C02": {
+      "18": {
+        "proposalId": 18,
+        "proposalStatus": 4,
+        "ipfsHash": "0xaa892464bae2973847f53df2175ab6c1c3240656eef5d72fa76210f50bb56d1d",
+        "status": 2,
+        "title": "Freeze and set LTV to 0 for DPI, BAL, CRV, and SUSHI on Aave v3 Polygon, 2024.01.19"
+      },
+      "19": {
+        "proposalId": 19,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf6328acd631e4aac9d1e14e98d4bc56f0a852f496afb7c5e3d5254e2757ce353",
+        "status": 2,
+        "title": "Gauntlet recommendation for MAI / MIMATIC deprecation phase 2"
+      },
+      "26": {
+        "proposalId": 26,
+        "proposalStatus": 4,
+        "ipfsHash": "0x599229f841648a3d59bfd25079ff627f2b631856d494db31e3c219a0b53818b3",
+        "status": 1,
+        "title": "[ARFC] Deprecate Aave V2 AMM Market - Step 2"
+      }
+    },
+    "0x2cc1ADE245020FC5AAE66Ad443e1F66e01c54Df1": {
+      "24": {
+        "proposalId": 24,
+        "proposalStatus": 4,
+        "ipfsHash": "0xee81375a113564e990021db582f787e045b68d85f146e4a6dc6def36dd06ace9",
+        "status": 1,
+        "title": "Reserve Factor Updates (Jan 31, 2024))"
+      }
+    },
+    "0x66a28531E6f390A8CD44aB0C57a0F1aeb7E673FF": {
+      "120": {
+        "proposalId": 120,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6bfacf65a23e1f55bb84672797c83aa265f061be5a27f55f74d6fa34cd63b300",
+        "status": 2,
+        "title": "GHO Cross-Chain - Part 1"
+      },
+      "125": {
+        "proposalId": 125,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc343a4460b002ad0612a04bc9d0a8081027652331200136e40740dba5f6ba106",
+        "status": 2,
+        "title": "GHO Cross-Chain - Part 2"
+      },
+      "126": {
+        "proposalId": 126,
+        "proposalStatus": 4,
+        "ipfsHash": "0x344e41de99f056c9ab5e6b78f0bb4c25b6332c49c4e4c645c71c4af2a425c29d",
+        "status": 2,
+        "title": "AL Service Provider Proposal"
+      },
+      "136": {
+        "proposalId": 136,
+        "proposalStatus": 4,
+        "ipfsHash": "0xf201622bcd8e4bf3b959c99eb343486b34aabe27e60bdcdef43a9f60af191541",
+        "status": 2,
+        "title": "Events Grant 2024"
+      },
+      "198": {
+        "proposalId": 198,
+        "proposalStatus": 4,
+        "ipfsHash": "0xedd135d40170a5acedfecf4294588144ac8d35dd4e5a6cae1975ded3537b5b61",
+        "status": 2,
+        "title": "GHO CCIP Integration Maintenance (CCIP v1.5 upgrade)"
+      },
+      "236": {
+        "proposalId": 236,
+        "proposalStatus": 4,
+        "ipfsHash": "0x40c9fcf57108ed65bfc541dd4c7de318f5805f2348fa28e1a99d8a267ddbf1df",
+        "status": 2,
+        "title": "GHO Risk Stewards Update and GHO CCIP Integration Upgrade"
+      },
+      "240": {
+        "proposalId": 240,
+        "proposalStatus": 4,
+        "ipfsHash": "0x77858639daf77d09480f14d12e25feb4bbea550c7f0187a7fd0503637425505b",
+        "status": 1,
+        "title": "GHO Base Launch"
+      },
+      "326": {
+        "proposalId": 326,
+        "proposalStatus": 4,
+        "ipfsHash": "0x5a4f5b10da82c74af4f943b13f296ac2959dfede5eb42d01d23e6fb0e9158ca2",
+        "status": 2,
+        "title": "GHO Avalanche Launch"
+      },
+      "328": {
+        "proposalId": 328,
+        "proposalStatus": 4,
+        "ipfsHash": "0x655034112ecc3f89cbcfc7420c490928d01772bcae507a954f1f26be02b4687b",
+        "status": 2,
+        "title": "Aave V3 Aptos Activation"
+      },
+      "361": {
+        "proposalId": 361,
+        "proposalStatus": 4,
+        "ipfsHash": "0x233c5510aa9aea7789aa08f3b6ae749806a1c3e2734d3487faeb6a8aa3007e69",
+        "status": 2,
+        "title": "Horizon RWA Instance Activation"
+      },
+      "380": {
+        "proposalId": 380,
+        "proposalStatus": 4,
+        "ipfsHash": "0xbbd9c90024dfd0a867c8847b30ed3089373c8db800ce90b31f4efbeafe3f9502",
+        "status": 1,
+        "title": "GHO Ink Launch"
+      }
+    }
+  }
+}
