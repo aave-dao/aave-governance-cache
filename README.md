@@ -42,9 +42,9 @@ Notes:
 ## Local Usage
 
 ```bash
-corepack yarn typecheck
-corepack yarn cache:update
-corepack yarn cache:parse
+yarn typecheck
+yarn cache:update
+yarn cache:parse
 ```
 
 What each command does:
