@@ -1,14 +1,15 @@
 name: Update cache
-# This action checks if there's new finished proposals every 3h
+# This action checks if there's new finished proposals
 # If new finished proposal data is found the cache will be warmed up & pushed
+# Triggered manually via workflow_dispatch
 concurrency:
   group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}
   cancel-in-progress: true
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: 0 */3 * * *
+  # schedule:
+    # - cron: 0 */3 * * *
 
 jobs:
   cache-updates:
