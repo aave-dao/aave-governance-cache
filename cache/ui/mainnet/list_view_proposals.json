@@ -1,5 +1,5 @@
 {
-  "totalProposalCount": 464,
+  "totalProposalCount": 474,
   "proposals": [
     {
       "id": 0,
@@ -3234,6 +3234,62 @@
       "combineState": 4,
       "finishedTimestamp": 1774765685,
       "ipfsHash": "0xf1fd379d3fbcc5854c8981f4029968ee35b9eb6e891c3bdd741badd489ca3a68"
+    },
+    {
+      "id": 462,
+      "title": "Aave V4 Activation on Ethereum Mainnet",
+      "combineState": 4,
+      "finishedTimestamp": 1774876571,
+      "ipfsHash": "0x2befcdd0c2981dbc1d901e3117968bf56a8d5ed1c1a270a0b354094f36d02ea4"
+    },
+    {
+      "id": 463,
+      "title": "Onboard BTC.b to Aave V3 Core Instance",
+      "combineState": 4,
+      "finishedTimestamp": 1774876715,
+      "ipfsHash": "0x8abd16009e30b7740e502d84ec964d03a4e10bc99f31cbd34abd5d02d443c82b"
+    },
+    {
+      "id": 464,
+      "title": "Listing PT Ethena 18JUN2026",
+      "combineState": 4,
+      "finishedTimestamp": 1775467432,
+      "ipfsHash": "0x0c2674682c2bf4b4c1f4b71f9d4eab67d5225916c1d0226aa780bffa8fa0785e"
+    },
+    {
+      "id": 465,
+      "title": "March Funding Update",
+      "combineState": 4,
+      "finishedTimestamp": 1775551567,
+      "ipfsHash": "0xe0e11faae136f1455f95c2e48a9f733227b259c26af9a59d546d2db74e1fda5a"
+    },
+    {
+      "id": 466,
+      "title": "Listing PT Strata 25JUN2026",
+      "combineState": 4,
+      "finishedTimestamp": 1775550527,
+      "ipfsHash": "0x7b179fadb321542f8bde096eed9fafe9667d924e141f8d705a242e94658a1475"
+    },
+    {
+      "id": 467,
+      "title": "Umbrella Deficit Updates",
+      "combineState": 4,
+      "finishedTimestamp": 1775570771,
+      "ipfsHash": "0xb1bfa28afcd0e2021d10affe39974aaf706e7b8db820857cd9ae614074ded36a"
+    },
+    {
+      "id": 468,
+      "title": "Collateral Parameters Adjustment on MegaETH v3",
+      "combineState": 4,
+      "finishedTimestamp": 1775669031,
+      "ipfsHash": "0xdf5f9c50eac1197952580733ebd66dfeaf6817377069de8f4db7f78ecfae3426"
+    },
+    {
+      "id": 469,
+      "title": "Aave Will Win Framework: Primary Funding Request",
+      "combineState": 4,
+      "finishedTimestamp": 1776098711,
+      "ipfsHash": "0x68403758d35bcffdb5f41df8fa9a0500f6bcc0c6eeae801e6627ab2fc8c64727"
     }
   ]
 }
