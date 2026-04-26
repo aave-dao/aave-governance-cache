@@ -2,6 +2,306 @@
   "votes": [
     {
       "proposalId": 473,
+      "address": "0x288AA428A8520E495f445E6931C582789c35BD4C",
+      "support": true,
+      "votingPower": 0.10827383141329697,
+      "transactionHash": "0xf1cf0658966b6568d3d834d2bf222ed62223e6092e6b26714bab6d7b13bb452d",
+      "blockNumber": 83292976,
+      "chainId": 43114,
+      "ensName": "rightherewaiting.eth"
+    },
+    {
+      "proposalId": 473,
+      "address": "0x385B14f89EEE858b77D82bCC3aA5474561900042",
+      "support": true,
+      "votingPower": 0.06634,
+      "transactionHash": "0xa4cc96d2fd05421c33aef1510e868ff10d12ce634d4c33ab197a2b8405f0004f",
+      "blockNumber": 83283762,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 473,
+      "address": "0x0ec1d5C783D7f06BfAB2AA75C209757d0Dc618c5",
+      "support": true,
+      "votingPower": 0.001072716920374432,
+      "transactionHash": "0x526d8de8409c46eb7417e9c26d5f229104b199f0252b17af1832df66398de6e6",
+      "blockNumber": 83263514,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 473,
+      "address": "0x8659D0BB123Da6D16D9394C7838BA286c2207d0E",
+      "support": true,
+      "votingPower": 6675.72253179,
+      "transactionHash": "0xab11728c47bb370d5c1e9bd956e08e52084636b8dcbfeac088fc7c581f98bed5",
+      "blockNumber": 83249658,
+      "chainId": 43114,
+      "ensName": "ezr3al.eth"
+    },
+    {
+      "proposalId": 473,
+      "address": "0x10C4EaedEE32D5b51bc166a4792c789781E66069",
+      "support": true,
+      "votingPower": 0.11095283606370891,
+      "transactionHash": "0x6be43672a3451cb1a40a2175bd2488a7673b44f93946b289141725870f8be0fa",
+      "blockNumber": 83236126,
+      "chainId": 43114,
+      "ensName": "overyou.eth"
+    },
+    {
+      "proposalId": 473,
+      "address": "0x070341aA5Ed571f0FB2c4a5641409B1A46b4961b",
+      "support": true,
+      "votingPower": 9999.9999,
+      "transactionHash": "0x5970575c2d5eb725affcd27dd13f01ca5e33e5468390bf80b21b39c9736c50f7",
+      "blockNumber": 83232560,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 473,
+      "address": "0xec35C0E9F4e04ee8Fa21c26d37A0fD601e5C939D",
+      "support": true,
+      "votingPower": 29.83244335784001,
+      "transactionHash": "0xdaa58b4030cd226d1a221d756b2544aae8c6039b3be98f5c59dd0b2e92738fce",
+      "blockNumber": 83227993,
+      "chainId": 43114,
+      "ensName": "utahtransplantdoctor.eth"
+    },
+    {
+      "proposalId": 473,
+      "address": "0x57ab7ee15cE5ECacB1aB84EE42D5A9d0d8112922",
+      "support": true,
+      "votingPower": 162706.16746848516,
+      "transactionHash": "0x0a4133602d9b2ea874e795095d1408372bb9bbb9ca52343ce432ba45fdbd4962",
+      "blockNumber": 83205405,
+      "chainId": 43114,
+      "ensName": "aci.eth"
+    },
+    {
+      "proposalId": 473,
+      "address": "0x73B2AEE82E58638fe5A3598aF5113653121eCca2",
+      "support": true,
+      "votingPower": 16468.46089151,
+      "transactionHash": "0xa1cafc19b999dc01e0f911f72b0803a1f562b496bc6e90dbc02411e42777943c",
+      "blockNumber": 83204367,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 473,
+      "address": "0x8036e34dF1af66891F9E4067fa19B607a4b8c78d",
+      "support": true,
+      "votingPower": 30968.252405147356,
+      "transactionHash": "0x424a895c3ecd3dea6feb33c186ea2591f92b9f2ddc12b9da7bc650794ed3e9b6",
+      "blockNumber": 83203296,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 473,
+      "address": "0xC0d6C3AB0794D3e4C9025aDD68c777Eb8cc8b802",
+      "support": true,
+      "votingPower": 34470,
+      "transactionHash": "0xc44013722895cad1bcd1199f13aad8c2666fbfa5cd268a93d96fbe16b4385abc",
+      "blockNumber": 83201244,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 473,
+      "address": "0x057928bc52bD08e4D7cE24bF47E01cE99E074048",
+      "support": true,
+      "votingPower": 1.04402872,
+      "transactionHash": "0x43830009d17293228b9ca7725608988adf8932ccf4665b298b22910fc1738cda",
+      "blockNumber": 83194209,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 473,
+      "address": "0x3676E9b6A38c5526eddA4a89763Dd97b5813574d",
+      "support": true,
+      "votingPower": 25000.4864,
+      "transactionHash": "0x1f4ce740fe3b7a33414a0b2dd5f8bf49608bbf107f89fb2a92df39d2d6ec6671",
+      "blockNumber": 83192066,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 473,
+      "address": "0x7AE109A63ff4DC852e063a673b40BED85D22E585",
+      "support": true,
+      "votingPower": 9999.9999,
+      "transactionHash": "0xdf5a0ea25e374852b0d6e4a144818464848722d891240c0720a192957a9f6c23",
+      "blockNumber": 83177270,
+      "chainId": 43114,
+      "ensName": "calblockchain.eth"
+    },
+    {
+      "proposalId": 473,
+      "address": "0x53Da33F96ecFFE1CDf3842883c9ba3ba3b49c14B",
+      "support": true,
+      "votingPower": 0.04338736836242806,
+      "transactionHash": "0x5c6378bd1aab9e3118d8e62c640b28839c8e883b31a91696870e7728fed16efa",
+      "blockNumber": 83174242,
+      "chainId": 43114,
+      "ensName": "rlytrue.eth"
+    },
+    {
+      "proposalId": 473,
+      "address": "0x9a718FeEd6a77c59eD5B386B3d580F5C044C195A",
+      "support": true,
+      "votingPower": 0.2113986874888755,
+      "transactionHash": "0x5e67544ab46e2622972422fa4e968dee0f58036a21e08c1b19a11fd634313437",
+      "blockNumber": 83170104,
+      "chainId": 43114,
+      "ensName": "dfg0230.eth"
+    },
+    {
+      "proposalId": 473,
+      "address": "0x019Ed608dD806b80193942F2A960e7AC8aBb2EE3",
+      "support": true,
+      "votingPower": 0.3446547003875291,
+      "transactionHash": "0xb6ccf4742aa1f4f7efb635b9761bdf392a7d36ec6f5dfebb76a9fa9070fdaf0a",
+      "blockNumber": 83164136,
+      "chainId": 43114,
+      "ensName": "webvr.eth"
+    },
+    {
+      "proposalId": 473,
+      "address": "0x3DDC7d25c7a1dc381443e491Bbf1Caa8928A05B0",
+      "support": true,
+      "votingPower": 727.800319640096,
+      "transactionHash": "0x40984a1c95ce5c53cf29cad5e1d503a278d58c15ed58089004689458b2ce363d",
+      "blockNumber": 83163058,
+      "chainId": 43114,
+      "ensName": "ignasdefi.eth"
+    },
+    {
+      "proposalId": 473,
+      "address": "0xd6368D2e97695A30678e5ec2668f23C05320522e",
+      "support": true,
+      "votingPower": 0.00029025021678226,
+      "transactionHash": "0x3e937e6f5742226a5604c2265a5363856cc6ea11a8a7fb6ed108f04992aef6f1",
+      "blockNumber": 83159776,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 473,
+      "address": "0x58f2aA5b752E284C45894ab0D435d0D53A8794CC",
+      "support": true,
+      "votingPower": 0.32118537508649164,
+      "transactionHash": "0x2377f65c807744b5e729bf62d03687bf799e59c684634b040645b4961dae4e28",
+      "blockNumber": 83159636,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 473,
+      "address": "0x8b37a5Af68D315cf5A64097D96621F64b5502a22",
+      "support": true,
+      "votingPower": 75779.02720464,
+      "transactionHash": "0xd0d85e11583c14771f911453496a59d1beb1e6a372d7d58be8022924758252cb",
+      "blockNumber": 83157346,
+      "chainId": 43114,
+      "ensName": "aretagov.eth"
+    },
+    {
+      "proposalId": 473,
+      "address": "0x4D26f0e78C154f8FDA7AcF6646246Fa135507017",
+      "support": true,
+      "votingPower": 405.84917662264843,
+      "transactionHash": "0x944305e7b482384816bdf57514592e603ddd1d210f8b855b4c29c6e1c134e814",
+      "blockNumber": 83154558,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 473,
+      "address": "0x43640F8bc95a4E0ea894dfF077753D02Cc86DCf7",
+      "support": true,
+      "votingPower": 0.10594188293157081,
+      "transactionHash": "0x9a427cd89826bf69e3c4a8bb65757f6767a1025418db3a37b7f891fb0e43bba1",
+      "blockNumber": 83136599,
+      "chainId": 43114,
+      "ensName": "jueshengqianli.eth"
+    },
+    {
+      "proposalId": 473,
+      "address": "0x2cc1ADE245020FC5AAE66Ad443e1F66e01c54Df1",
+      "support": true,
+      "votingPower": 73492.36587419,
+      "transactionHash": "0xa847bc2fbfc3d2a4bb1399c2b972edfdabc5f4395c643746a0d0961ccc374da5",
+      "blockNumber": 83118827,
+      "chainId": 43114,
+      "ensName": "tokenlogic.eth"
+    },
+    {
+      "proposalId": 473,
+      "address": "0xAaabbbc86A0a8358d73302ABCd6777C059Bc2335",
+      "support": true,
+      "votingPower": 873.52278498514,
+      "transactionHash": "0x05199a04d9ff3c8573ddf797b270d13c7bb85d9e2f519c3879d2553bb7659c9f",
+      "blockNumber": 83111135,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 473,
+      "address": "0x4444ee1efBCfC7716754D4Df119A1dbbE29934b3",
+      "support": true,
+      "votingPower": 1244.5169779235948,
+      "transactionHash": "0xb8098f3cb57e5ef67ab55d233d9296e3ac9d52e62c1d0d4b8f955282a20c17e0",
+      "blockNumber": 83111094,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 473,
+      "address": "0x168F87fBfe36B84E44B9d06278B2aA1CC73d7400",
+      "support": true,
+      "votingPower": 0.12000000000000002,
+      "transactionHash": "0x6f1a40d5597843ad20884a43a7bc5791827a56baf580374d02bd2c9252ac9d60",
+      "blockNumber": 83110248,
+      "chainId": 43114,
+      "ensName": "0xteaser.eth"
+    },
+    {
+      "proposalId": 473,
+      "address": "0xECC2a9240268BC7a26386ecB49E1Befca2706AC9",
+      "support": true,
+      "votingPower": 4447.75783227,
+      "transactionHash": "0x779e1e08a82c29722af61baf8df9ddceae2af346e45b261027c94c08e0d5aa00",
+      "blockNumber": 83095017,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 473,
+      "address": "0xA690197d065A3E1CD0bAf523A61f5E9214cf0135",
+      "support": true,
+      "votingPower": 0.001105595084205019,
+      "transactionHash": "0x5f917b73749068550dd838c7f2dc7fc554f7b173dfee37b0694acbcdc70340fb",
+      "blockNumber": 83093169,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 473,
+      "address": "0xB933AEe47C438f22DE0747D57fc239FE37878Dd1",
+      "support": true,
+      "votingPower": 42865.31927975,
+      "transactionHash": "0x4243e3dafa76c2fba6799f1c14df4acd3c4478c32cf84c1d31e4dab7ceea8786",
+      "blockNumber": 83090280,
+      "chainId": 43114,
+      "ensName": "wintermutegovernance.eth"
+    },
+    {
+      "proposalId": 473,
       "address": "0x2F2F665974261C4129b1DC6c359BD259CD66f78A",
       "support": true,
       "votingPower": 0.03315811096119611,

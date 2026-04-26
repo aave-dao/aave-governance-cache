@@ -2,6 +2,66 @@
   "votes": [
     {
       "proposalId": 470,
+      "address": "0x019Ed608dD806b80193942F2A960e7AC8aBb2EE3",
+      "support": true,
+      "votingPower": 0.3446547003875291,
+      "transactionHash": "0x8a5af30e554f29b6ef125fe0f148afda07e861ad9818b63fb8f6d165a2ff0e3e",
+      "blockNumber": 83164109,
+      "chainId": 43114,
+      "ensName": "webvr.eth"
+    },
+    {
+      "proposalId": 470,
+      "address": "0x4D26f0e78C154f8FDA7AcF6646246Fa135507017",
+      "support": true,
+      "votingPower": 405.84917662264843,
+      "transactionHash": "0x023f3b1e89d2ae558c6db29f53f94b99fd3172547acb04c7bd0393522d84d847",
+      "blockNumber": 83154505,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 470,
+      "address": "0x266ecCe1033a3B6189f215b619FcA00558599Cc0",
+      "support": true,
+      "votingPower": 0.10673530445520084,
+      "transactionHash": "0x9bf7c7b0a8575f84999dc2a625f212aa1191fd5e1451baea36d4b0d0341371c8",
+      "blockNumber": 83136869,
+      "chainId": 43114,
+      "ensName": "thecolorofthenight.eth"
+    },
+    {
+      "proposalId": 470,
+      "address": "0x070341aA5Ed571f0FB2c4a5641409B1A46b4961b",
+      "support": true,
+      "votingPower": 9999.9999,
+      "transactionHash": "0x49ea5e126af7daf4d73f87fee17f27fa37acd18751dd72e10ca933b3082c3c23",
+      "blockNumber": 83129851,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 470,
+      "address": "0x4444ee1efBCfC7716754D4Df119A1dbbE29934b3",
+      "support": true,
+      "votingPower": 1244.4458070535602,
+      "transactionHash": "0x5e802b1cc6865250cb8b3d47c756b6b22a735f8dcaa62ca8b68946b325ec5d5b",
+      "blockNumber": 83098434,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 470,
+      "address": "0xb24cf4957128D30304bD01e0EA1f7C66d28BdD78",
+      "support": true,
+      "votingPower": 25.830611696342302,
+      "transactionHash": "0xc52de17f52ae9543da9c5485931f0672d0f4bdee5aabb2392f61d297dcfeef13",
+      "blockNumber": 83095679,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 470,
       "address": "0xd10F1A1C8e7a59733Ed7b1B55753E34E139D608C",
       "support": true,
       "votingPower": 0.10363944555,
