@@ -8,7 +8,7 @@ import {
   ChainList,
   getRPCUrl,
   SupportedChainIds,
-} from '@bgd-labs/toolbox';
+} from '@aave-dao/toolbox';
 import { Address, getContract, Hex, zeroAddress, zeroHash } from 'viem';
 import { getBlock, getEnsName } from 'viem/actions';
 

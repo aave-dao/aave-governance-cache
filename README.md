@@ -35,7 +35,7 @@ Optional overrides:
 Notes:
 
 - Per-chain `RPC_*` variables take precedence over `ALCHEMY_API_KEY`.
-- The scripts rely on `@bgd-labs/toolbox` RPC resolution, so additional supported `RPC_*` variables can also be used.
+- The scripts rely on `@aave-dao/toolbox` RPC resolution, so additional supported `RPC_*` variables can also be used.
 - Public fallback RPCs are best-effort only. For CI or scheduled runs, provide explicit RPC credentials for the chains you need to refresh.
 - `cache:parse` is not a pure file split step. It also performs RPC reads and ENS lookups while producing the UI cache.
 

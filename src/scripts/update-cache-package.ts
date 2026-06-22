@@ -4,7 +4,7 @@ import {
   getContractDeploymentBlock,
 } from '@bgd-labs/js-utils';
 import { readJSONCache, writeJSONCache } from './jsonCache';
-import { ChainList, getRPCUrl, SupportedChainIds } from '@bgd-labs/toolbox';
+import { ChainList, getRPCUrl, SupportedChainIds } from '@aave-dao/toolbox';
 import { Address, getContract, Hex } from 'viem';
 import { getBlock, getBlockNumber } from 'viem/actions';
 
