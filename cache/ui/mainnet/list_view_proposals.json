@@ -1,5 +1,5 @@
 {
-  "totalProposalCount": 477,
+  "totalProposalCount": 498,
   "proposals": [
     {
       "id": 0,
@@ -3299,6 +3299,13 @@
       "ipfsHash": "0x1434716f99a33c43c3531821ef6e648e144768a1ae0c133fbcbe954e7934f614"
     },
     {
+      "id": 471,
+      "title": "Onboard USDe to the Aave V3 MegaETH Instance",
+      "combineState": 5,
+      "finishedTimestamp": 1777276664,
+      "ipfsHash": "0x9cb8ea1270bc549b397bb2e95afbe43d1c2c55f52cd026150966e303244959d3"
+    },
+    {
       "id": 472,
       "title": "Onboard PT-USDG 28MAY2026 on V3 Core",
       "combineState": 4,
@@ -3311,6 +3318,146 @@
       "combineState": 4,
       "finishedTimestamp": 1776896716,
       "ipfsHash": "0xee9efdbd8b477dade0fc71f4285558f64628c0f38943c2dfd21462a59e37f993"
+    },
+    {
+      "id": 475,
+      "title": "April Funding Update",
+      "combineState": 4,
+      "finishedTimestamp": 1777506370,
+      "ipfsHash": "0xb2375739f9140980dbafd68c7f7e2d0b71cd11de08ca2f0f8923aa9051b0202c"
+    },
+    {
+      "id": 476,
+      "title": "Onboard USDe to the Aave V3 MegaETH Instance",
+      "combineState": 4,
+      "finishedTimestamp": 1777549716,
+      "ipfsHash": "0x0588390064f99ff8b9440c7ea61a15e82a9118329ac1c9b47781ef9c335159ae"
+    },
+    {
+      "id": 477,
+      "title": "rsETH Incident: Liquidate rsETH attacker positions",
+      "combineState": 6,
+      "finishedTimestamp": 1777656383,
+      "ipfsHash": "0x73d6b6ffb8c006af7464dc28e66df897bea1b011662efaa209c7503736612881"
+    },
+    {
+      "id": 478,
+      "title": "rsETH Incident: Liquidate rsETH attacker positions",
+      "combineState": 4,
+      "finishedTimestamp": 1778092348,
+      "ipfsHash": "0x73d6b6ffb8c006af7464dc28e66df897bea1b011662efaa209c7503736612881"
+    },
+    {
+      "id": 479,
+      "title": "Orderly Transition and Offboarding Plan for Chaos Labs",
+      "combineState": 2,
+      "finishedTimestamp": 1778020885,
+      "ipfsHash": "0xdeeeb58ec0c23fb201591b061fc2ff8d7964da844e352ff53d545b4271fd9d94"
+    },
+    {
+      "id": 480,
+      "title": "Winding Down the LEND Migration Contract",
+      "combineState": 4,
+      "finishedTimestamp": 1778348363,
+      "ipfsHash": "0x1aacd2eb52a5029008ce6f8b3ea5c1da0106b254fbfb3280c67710d03e1a69e6"
+    },
+    {
+      "id": 481,
+      "title": "Complete Offboarding Plan for Chaos Labs",
+      "combineState": 4,
+      "finishedTimestamp": 1778609583,
+      "ipfsHash": "0xdb9ebeac9b9f3da123536227af6e3fb227da0e4c16e4adc2a8dba66d0f5ef777"
+    },
+    {
+      "id": 482,
+      "title": "rsETH Incident: WETH LTV Restoration Across V3 Instances",
+      "combineState": 4,
+      "finishedTimestamp": 1778955130,
+      "ipfsHash": "0x16ec0bfb8043ea427e92575a25036fcfba6f8581e236a0efaca1813ef1d32ff2"
+    },
+    {
+      "id": 483,
+      "title": "Add CoW Swap Adapters to flashBorrowers",
+      "combineState": 4,
+      "finishedTimestamp": 1778956305,
+      "ipfsHash": "0xc96375d0b7a0d7daa767f0c64c420e1a2e27b36baa56ad8b850d1e91ceba2504"
+    },
+    {
+      "id": 484,
+      "title": "sGho Launch",
+      "combineState": 4,
+      "finishedTimestamp": 1778954663,
+      "ipfsHash": "0xd128a32c304f7a258b12cb167a58723c773dd5cec003298e8a2393b3f2a7c037"
+    },
+    {
+      "id": 485,
+      "title": "Offboarding Plan for Chaos Labs part 3: Cancel stream 100073",
+      "combineState": 4,
+      "finishedTimestamp": 1779221135,
+      "ipfsHash": "0x50a8e9d7fae094f46526db2ef3593ca6217ac7b16601463d2a188e7b588b735b"
+    },
+    {
+      "id": 486,
+      "title": "Extend stkAAVE Emissions",
+      "combineState": 4,
+      "finishedTimestamp": 1779536039,
+      "ipfsHash": "0xc378d6152053431740328367b9a1cf8a141afa40797fef28ad8b2978592d3624"
+    },
+    {
+      "id": 487,
+      "title": "CAPO SnapshotRatio Update Across Aave V3",
+      "combineState": 4,
+      "finishedTimestamp": 1779722856,
+      "ipfsHash": "0x755b55250cc12f0983a9261f7f18e520d7c25014e27e1fc5e239096d0821231f"
+    },
+    {
+      "id": 488,
+      "title": "Renew LlamaRisk as Risk Service Provider - Epoch 4",
+      "combineState": 4,
+      "finishedTimestamp": 1779877895,
+      "ipfsHash": "0x6d81dd9fc20a79167fa58571ee5738f5b745d21e4855cc42215e792fa537bef9"
+    },
+    {
+      "id": 490,
+      "title": "Maintenance: Grant AL RETRY_ROLE on a.DI",
+      "combineState": 6,
+      "finishedTimestamp": 1780498703,
+      "ipfsHash": "0x46e10e1e687d1ccaac0c671378f02cb8cdac18649fa0351d1ad428c8b69d1809"
+    },
+    {
+      "id": 491,
+      "title": "stkAAVE Emissions Update",
+      "combineState": 4,
+      "finishedTimestamp": 1781358167,
+      "ipfsHash": "0xa2887b9f02ec3ec7e4eefbd74fc931537d51fd8d5e6412f1269ad2b209347218"
+    },
+    {
+      "id": 492,
+      "title": "May/June 2026 Funding Update",
+      "combineState": 4,
+      "finishedTimestamp": 1781524187,
+      "ipfsHash": "0xe0bbdcba0674118b4ada946fa7d64727db5b47d5ecb12c76bfcca22ee5167a92"
+    },
+    {
+      "id": 493,
+      "title": "Onboard PT-sUSDe-22OCT2026 to Aave v3 Plasma",
+      "combineState": 4,
+      "finishedTimestamp": 1781964588,
+      "ipfsHash": "0x34ff9f11fe33c0d09b4ed35dc48e17135d2997993e55bb147580c36df9540f05"
+    },
+    {
+      "id": 494,
+      "title": "Monad aDI path activation",
+      "combineState": 4,
+      "finishedTimestamp": 1782121487,
+      "ipfsHash": "0xae19ce301e3d7c467c34b7f3ceb201e3cf9efa6341de04c27e88ac8dca31d4e6"
+    },
+    {
+      "id": 495,
+      "title": "Onboard PT-srUSDe-22OCT2026 to Aave V3 Core",
+      "combineState": 4,
+      "finishedTimestamp": 1782144923,
+      "ipfsHash": "0x8c0576af9e4f45178d42ddbd81293ecc5ed0aa1f738b9c0382594a65049af0c9"
     }
   ]
 }

@@ -728,6 +728,13 @@
         "ipfsHash": "0x812add4b4fcad057bac049fec938d5b5187be0ace246a7e336e5640e7a9c73d6",
         "status": 1,
         "title": "Upgrade Aave instances to v3.7 Part 1"
+      },
+      "489": {
+        "proposalId": 489,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1771282791a2769a488791be8160020ac408bc74fa67ca7f107cab87a730b240",
+        "status": 1,
+        "title": "Upgrade Aave instances to v3.7 Part 2"
       }
     },
     "0x57ab7ee15cE5ECacB1aB84EE42D5A9d0d8112922": {
@@ -3173,6 +3180,20 @@
         "ipfsHash": "0xee9efdbd8b477dade0fc71f4285558f64628c0f38943c2dfd21462a59e37f993",
         "status": 1,
         "title": "GHO Inclusion into E-Modes on Aave V3 Plasma"
+      },
+      "479": {
+        "proposalId": 479,
+        "proposalStatus": 2,
+        "ipfsHash": "0xdeeeb58ec0c23fb201591b061fc2ff8d7964da844e352ff53d545b4271fd9d94",
+        "status": 1,
+        "title": "Orderly Transition and Offboarding Plan for Chaos Labs"
+      },
+      "485": {
+        "proposalId": 485,
+        "proposalStatus": 4,
+        "ipfsHash": "0x50a8e9d7fae094f46526db2ef3593ca6217ac7b16601463d2a188e7b588b735b",
+        "status": 1,
+        "title": "Offboarding Plan for Chaos Labs part 3: Cancel stream 100073"
       }
     },
     "0x99C7A4A4Ab99882C422eF777b182eBda204D5B02": {
@@ -3263,7 +3284,7 @@
         "proposalId": 240,
         "proposalStatus": 4,
         "ipfsHash": "0x77858639daf77d09480f14d12e25feb4bbea550c7f0187a7fd0503637425505b",
-        "status": 1,
+        "status": 2,
         "title": "GHO Base Launch"
       },
       "326": {
@@ -3291,7 +3312,7 @@
         "proposalId": 380,
         "proposalStatus": 4,
         "ipfsHash": "0xbbd9c90024dfd0a867c8847b30ed3089373c8db800ce90b31f4efbeafe3f9502",
-        "status": 1,
+        "status": 2,
         "title": "GHO Ink Launch"
       },
       "462": {
@@ -3338,17 +3359,143 @@
       },
       "475": {
         "proposalId": 475,
-        "proposalStatus": 1,
+        "proposalStatus": 4,
         "ipfsHash": "0xb2375739f9140980dbafd68c7f7e2d0b71cd11de08ca2f0f8923aa9051b0202c",
-        "status": 0,
+        "status": 2,
         "title": "April Funding Update"
       },
       "476": {
         "proposalId": 476,
-        "proposalStatus": 0,
+        "proposalStatus": 4,
         "ipfsHash": "0x0588390064f99ff8b9440c7ea61a15e82a9118329ac1c9b47781ef9c335159ae",
-        "status": 0,
+        "status": 2,
         "title": "Onboard USDe to the Aave V3 MegaETH Instance"
+      },
+      "477": {
+        "proposalId": 477,
+        "proposalStatus": 6,
+        "ipfsHash": "0x73d6b6ffb8c006af7464dc28e66df897bea1b011662efaa209c7503736612881",
+        "status": 3,
+        "title": "rsETH Incident: Liquidate rsETH attacker positions"
+      },
+      "478": {
+        "proposalId": 478,
+        "proposalStatus": 4,
+        "ipfsHash": "0x73d6b6ffb8c006af7464dc28e66df897bea1b011662efaa209c7503736612881",
+        "status": 2,
+        "title": "rsETH Incident: Liquidate rsETH attacker positions"
+      },
+      "480": {
+        "proposalId": 480,
+        "proposalStatus": 4,
+        "ipfsHash": "0x1aacd2eb52a5029008ce6f8b3ea5c1da0106b254fbfb3280c67710d03e1a69e6",
+        "status": 2,
+        "title": "Winding Down the LEND Migration Contract"
+      },
+      "481": {
+        "proposalId": 481,
+        "proposalStatus": 4,
+        "ipfsHash": "0xdb9ebeac9b9f3da123536227af6e3fb227da0e4c16e4adc2a8dba66d0f5ef777",
+        "status": 2,
+        "title": "Complete Offboarding Plan for Chaos Labs"
+      },
+      "482": {
+        "proposalId": 482,
+        "proposalStatus": 4,
+        "ipfsHash": "0x16ec0bfb8043ea427e92575a25036fcfba6f8581e236a0efaca1813ef1d32ff2",
+        "status": 2,
+        "title": "rsETH Incident: WETH LTV Restoration Across V3 Instances"
+      },
+      "483": {
+        "proposalId": 483,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc96375d0b7a0d7daa767f0c64c420e1a2e27b36baa56ad8b850d1e91ceba2504",
+        "status": 2,
+        "title": "Add CoW Swap Adapters to flashBorrowers"
+      },
+      "484": {
+        "proposalId": 484,
+        "proposalStatus": 4,
+        "ipfsHash": "0xd128a32c304f7a258b12cb167a58723c773dd5cec003298e8a2393b3f2a7c037",
+        "status": 2,
+        "title": "sGho Launch"
+      },
+      "486": {
+        "proposalId": 486,
+        "proposalStatus": 4,
+        "ipfsHash": "0xc378d6152053431740328367b9a1cf8a141afa40797fef28ad8b2978592d3624",
+        "status": 2,
+        "title": "Extend stkAAVE Emissions"
+      },
+      "487": {
+        "proposalId": 487,
+        "proposalStatus": 4,
+        "ipfsHash": "0x755b55250cc12f0983a9261f7f18e520d7c25014e27e1fc5e239096d0821231f",
+        "status": 2,
+        "title": "CAPO SnapshotRatio Update Across Aave V3"
+      },
+      "488": {
+        "proposalId": 488,
+        "proposalStatus": 4,
+        "ipfsHash": "0x6d81dd9fc20a79167fa58571ee5738f5b745d21e4855cc42215e792fa537bef9",
+        "status": 2,
+        "title": "Renew LlamaRisk as Risk Service Provider - Epoch 4"
+      },
+      "490": {
+        "proposalId": 490,
+        "proposalStatus": 6,
+        "ipfsHash": "0x46e10e1e687d1ccaac0c671378f02cb8cdac18649fa0351d1ad428c8b69d1809",
+        "status": 3,
+        "title": "Maintenance: Grant AL RETRY_ROLE on a.DI"
+      },
+      "491": {
+        "proposalId": 491,
+        "proposalStatus": 4,
+        "ipfsHash": "0xa2887b9f02ec3ec7e4eefbd74fc931537d51fd8d5e6412f1269ad2b209347218",
+        "status": 2,
+        "title": "stkAAVE Emissions Update"
+      },
+      "492": {
+        "proposalId": 492,
+        "proposalStatus": 4,
+        "ipfsHash": "0xe0bbdcba0674118b4ada946fa7d64727db5b47d5ecb12c76bfcca22ee5167a92",
+        "status": 2,
+        "title": "May/June 2026 Funding Update"
+      },
+      "493": {
+        "proposalId": 493,
+        "proposalStatus": 4,
+        "ipfsHash": "0x34ff9f11fe33c0d09b4ed35dc48e17135d2997993e55bb147580c36df9540f05",
+        "status": 2,
+        "title": "Onboard PT-sUSDe-22OCT2026 to Aave v3 Plasma"
+      },
+      "494": {
+        "proposalId": 494,
+        "proposalStatus": 4,
+        "ipfsHash": "0xae19ce301e3d7c467c34b7f3ceb201e3cf9efa6341de04c27e88ac8dca31d4e6",
+        "status": 2,
+        "title": "Monad aDI path activation"
+      },
+      "495": {
+        "proposalId": 495,
+        "proposalStatus": 4,
+        "ipfsHash": "0x8c0576af9e4f45178d42ddbd81293ecc5ed0aa1f738b9c0382594a65049af0c9",
+        "status": 2,
+        "title": "Onboard PT-srUSDe-22OCT2026 to Aave V3 Core"
+      },
+      "496": {
+        "proposalId": 496,
+        "proposalStatus": 1,
+        "ipfsHash": "0x5b674a130e8424ebcdfde15fb4d6c09029eaf8f00f62fa99b981d78467497b45",
+        "status": 0,
+        "title": "Launch of V4 Paxos Hub and onboard PT-USDG-24SEP2026"
+      },
+      "497": {
+        "proposalId": 497,
+        "proposalStatus": 0,
+        "ipfsHash": "0xbc5c5e778840cae9948f7474cbf6d509e28c353768d7c84b999b6ebeaf232849",
+        "status": 0,
+        "title": "TokenLogic Service Provider Renewal"
       }
     }
   }

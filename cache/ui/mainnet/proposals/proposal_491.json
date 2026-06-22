@@ -1,0 +1,85 @@
+{
+  "payloads": [
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1780922843,
+      "queuedAt": 1781271611,
+      "executedAt": 1781358167,
+      "cancelledAt": 0,
+      "expirationTime": 1783946843,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xe3a0aa89fb826489d67bE0893072D8f578EF6E5F",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 445,
+      "chainId": 1,
+      "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5"
+    }
+  ],
+  "ipfs": {
+    "ipfsHash": "QmZH7TnufVMrcr6jVBJyifyTLaMzu9bg9Et7Qf7LiHRr5m",
+    "description": "\n## Simple Summary\n\nReduce stkAAVE emissions from `220 AAVE/day` to `150 AAVE/day`, targeting a staking APR of `~2.75%` (down from `~3.30%`).\n\n## Motivation\n\nFollowing significant stkAAVE withdrawals in Q2 2026 (`~32,593` AAVE across four large holders, with an additional `35,000+` AAVE in cooldown), the stkAAVE APR is trending upward toward `~3.93%` absent corrective action. Lowering emissions by `70 AAVE/day` brings yield back in line with the target rate and reduces annualized emissions from `80,300 AAVE` to `54,750 AAVE` (`~$2.3M/year` at `$90/AAVE`).\n\nThe adjustment is consistent with guidance from the \"Aave DAO Funding Insights\" publication and the DAO's recent decisions to pause buyback programs and redirect capital toward strengthening the balance sheet following the rsETH incident donation.\n\n## Specification\n\nCall `configureAssets` on the stkAAVE Safety Module (`0x4da27a545c0c5B758a6BA100e3a049001de870f5`) to set `emissionPerSecond` for stkAAVE to `150 ether / 1 days` (1,736,111,111,111,111 wei/s). No other Safety Module parameters are modified.\n\n## References\n\n- Implementation: [AaveV3Ethereum](https://github.com/aave-dao/aave-proposals-v3/blob/9cd3c0e90c4f35a562672c3977792c699650d3bb/src/20260522_AaveV3Ethereum_StkAAVEEmissionsUpdate/AaveV3Ethereum_StkAAVEEmissionsUpdate_20260522.sol)\n- Tests: [AaveV3Ethereum](https://github.com/aave-dao/aave-proposals-v3/blob/9cd3c0e90c4f35a562672c3977792c699650d3bb/src/20260522_AaveV3Ethereum_StkAAVEEmissionsUpdate/AaveV3Ethereum_StkAAVEEmissionsUpdate_20260522.t.sol)\n- [Snapshot](https://snapshot.org/#/s:aavedao.eth/proposal/0xd416e6cb09416cc4effdd2ad869373db2ac005ea63e7d7baeec0db4934281352)\n- [Discussion](https://governance.aave.com/t/arfc-stkaave-emissions-update/24945)\n\n## Copyright\n\nCopyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).\n",
+    "title": "stkAAVE Emissions Update",
+    "author": "TokenLogic",
+    "discussions": "https://governance.aave.com/t/arfc-stkaave-emissions-update/24945",
+    "snapshot": "https://snapshot.org/#/s:aavedao.eth/proposal/0xd416e6cb09416cc4effdd2ad869373db2ac005ea63e7d7baeec0db4934281352",
+    "originalIpfsHash": "0xa2887b9f02ec3ec7e4eefbd74fc931537d51fd8d5e6412f1269ad2b209347218"
+  },
+  "proposal": {
+    "id": 491,
+    "votingDuration": 259200,
+    "creationTime": 1780924871,
+    "accessLevel": 1,
+    "state": 4,
+    "queuingTime": 1781271575,
+    "ipfsHash": "0xa2887b9f02ec3ec7e4eefbd74fc931537d51fd8d5e6412f1269ad2b209347218",
+    "initialPayloads": [
+      {
+        "id": 445,
+        "chainId": 1,
+        "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5"
+      }
+    ],
+    "snapshotBlockHash": "0x5c103db4194b88a65d6da4a5d8eaffc07b2759a995d52f2f4df9f9df39d69698",
+    "creator": "0x66a28531E6f390A8CD44aB0C57a0F1aeb7E673FF",
+    "canceledAt": 0,
+    "votingActivationTime": 1781011343,
+    "votingChainId": 43114,
+    "votingMachineData": {
+      "id": 491,
+      "forVotes": "382611284559078203363158",
+      "againstVotes": "163303814637739339952132",
+      "startTime": 1781012276,
+      "endTime": 1781271476,
+      "votingClosedAndSentBlockNumber": 87829232,
+      "votingClosedAndSentTimestamp": 1781271523,
+      "l1BlockHash": "0x5c103db4194b88a65d6da4a5d8eaffc07b2759a995d52f2f4df9f9df39d69698",
+      "strategy": "0x6771B74568181f6042C9e5CFF98f62e7Ce40482e",
+      "sentToGovernance": true,
+      "createdBlock": 87575204,
+      "votedInfo": {
+        "support": false,
+        "votingPower": "0"
+      },
+      "votingAssets": [
+        "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "0x4da27a545c0c5B758a6BA100e3a049001de870f5",
+        "0xA700b4eB416Be35b2911fd5Dee80678ff64fF6C9"
+      ],
+      "hasRequiredRoots": true
+    },
+    "isFinished": true,
+    "lastUpdatedTimestamp": 1782153187,
+    "cancellationFee": 0
+  }
+}

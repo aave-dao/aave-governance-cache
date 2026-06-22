@@ -1,0 +1,324 @@
+{
+  "payloads": [
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1778260079,
+      "queuedAt": 1778867783,
+      "executedAt": 1778954255,
+      "cancelledAt": 0,
+      "expirationTime": 1781284079,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x50Af4f6eCb2014EcE52d0Bf35e4847F6ACc16c11",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 436,
+      "chainId": 1,
+      "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1778260671,
+      "queuedAt": 1778868761,
+      "executedAt": 1778955167,
+      "cancelledAt": 0,
+      "expirationTime": 1781284671,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xB9490Aa7eB0644CEABdAB97be3b23e0be2EEed3D",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 143,
+      "chainId": 137,
+      "payloadsController": "0x401B5D0294E23637c18fcc38b1Bca814CDa2637C"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1778260725,
+      "queuedAt": 1778868768,
+      "executedAt": 1778955179,
+      "cancelledAt": 0,
+      "expirationTime": 1781284725,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xB9490Aa7eB0644CEABdAB97be3b23e0be2EEed3D",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 114,
+      "chainId": 43114,
+      "payloadsController": "0x1140CB7CAfAcC745771C2Ea31e7B5C653c5d0B80"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1778260776,
+      "queuedAt": 1778868329,
+      "executedAt": 1778954734,
+      "cancelledAt": 0,
+      "expirationTime": 1781284776,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xB9490Aa7eB0644CEABdAB97be3b23e0be2EEed3D",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 127,
+      "chainId": 42161,
+      "payloadsController": "0x89644CA1bB8064760312AE4F03ea41b05dA3637C"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1778260815,
+      "queuedAt": 1778867959,
+      "executedAt": 1778954363,
+      "cancelledAt": 0,
+      "expirationTime": 1781284815,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xb8C388282851DB2c96D30634fC8Af439091eeabc",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 107,
+      "chainId": 8453,
+      "payloadsController": "0x2DC219E716793fb4b21548C0f009Ba3Af753ab01"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1778260860,
+      "queuedAt": 1778869895,
+      "executedAt": 1778956305,
+      "cancelledAt": 0,
+      "expirationTime": 1781284860,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x9cc7BE24a758F9184DC846eB2A99ACc2B5390B0E",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 75,
+      "chainId": 100,
+      "payloadsController": "0x9A1F491B86D09fC1484b5fab10041B189B60756b"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1778260900,
+      "queuedAt": 1778868791,
+      "executedAt": 1778955196,
+      "cancelledAt": 0,
+      "expirationTime": 1781284900,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x813084eAB9F79a54139BF0e37D0F518EFfC7889c",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 58,
+      "chainId": 56,
+      "payloadsController": "0xE5EF2Dd06755A97e975f7E282f828224F2C3e627"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1778260968,
+      "queuedAt": 1778868710,
+      "executedAt": 1778955134,
+      "cancelledAt": 0,
+      "expirationTime": 1781284968,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xF29CBcA0eaE94A4471A604846E8EfcB39C1A2fB8",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 26,
+      "chainId": 59144,
+      "payloadsController": "0x3BcE23a1363728091bc57A58a226CF2940C2e074"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1778261061,
+      "queuedAt": 1778868739,
+      "executedAt": 1778955183,
+      "cancelledAt": 0,
+      "expirationTime": 1781285061,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x446da28203BBD6BE2F1237F994D49D8c428Eec5A",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 26,
+      "chainId": 9745,
+      "payloadsController": "0xe76EB348E65eF163d85ce282125FF5a7F5712A1d"
+    }
+  ],
+  "ipfs": {
+    "ipfsHash": "QmbtncucxeDrV7yWqDnwFPfaUYmWYe4URQbvmRRo9kuEuR",
+    "description": "\n## Simple Summary\n\nThis proposal seeks to register Aave Swap Adapter factories as approved flash borrowers across relevant Aave V3 instances, enabling them to access flash liquidity with zero flash loan fees.\n\nThis change improves execution quality for users interacting through Aave’s swap flows by removing an internal protocol fee that currently adds avoidable cost to adapter-based routing.\n\n## Motivation\n\nAave swap adapters support collateral swaps and related position management flows inside the Aave experience. When a route requires flash liquidity, the flash loan premium is embedded directly in execution. That reduces output on collateral and debt swaps, and prolongs the payback period of debt swaps, which weakens the Aave route against external alternatives.\n\nWhitelisting the CoW Swap Adapter factory removes that cost across the covered Aave V3 instances. CoW Swap Adapter routes that rely on flash liquidity will execute without a flash loan fee. Users will experience improved collateral and debt swap pricing on Aave V3. With better swap pricing, the Aave interface should retain more swap flow, especially debt swaps, within the Aave experience. Under the Aave Will Win Framework, the DAO is positioned to capture all revenue from that activity.\n\n## Specification\n\nThe Aave DAO would authorize the registration of the relevant Aave swap adapter contracts as approved flash borrowers through the ACLManager.addFlashBorrower function on the applicable Aave V3 deployments.\n\nOnce registered, these adapters would be exempt from flash loan fees when using flash liquidity through the approved path.\n\nThe proposal payload would:\n\nidentify the swap adapter factory contract addresses to be registered\n\ncall addFlashBorrower for each factory on the relevant markets\n\nCoW Swap Adapter Factory address\n\nThe CoW Swap Adapter Factory address to whitelist is: 0xdeCC46a4b09162F5369c5C80383AAa9159bCf192\n\nAave V3 instances included in scope\n\nThe payload will register 0xdeCC46a4b09162F5369c5C80383AAa9159bCf192 as an approved flash borrower on the following Aave V3 instances:\n\n| Market        | Adapter Factory Address                    |\n| ------------- | ------------------------------------------ |\n| Ethereum Core | 0xdeCC46a4b09162F5369c5C80383AAa9159bCf192 |\n| Base          | 0xdeCC46a4b09162F5369c5C80383AAa9159bCf192 |\n| Arbitrum      | 0xdeCC46a4b09162F5369c5C80383AAa9159bCf192 |\n| Gnosis        | 0xdeCC46a4b09162F5369c5C80383AAa9159bCf192 |\n| Avalanche     | 0xdeCC46a4b09162F5369c5C80383AAa9159bCf192 |\n| BNB Chain     | 0xdeCC46a4b09162F5369c5C80383AAa9159bCf192 |\n| Polygon       | 0xdeCC46a4b09162F5369c5C80383AAa9159bCf192 |\n| Linea         | 0xdeCC46a4b09162F5369c5C80383AAa9159bCf192 |\n| Plasma        | 0xdeCC46a4b09162F5369c5C80383AAa9159bCf192 |\n\n## References\n\n- Implementation: [AaveV3Ethereum](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3Ethereum_AddCoWFactoriesToFlashBorrowers_20260506.sol), [AaveV3Polygon](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3Polygon_AddCoWFactoriesToFlashBorrowers_20260506.sol), [AaveV3Avalanche](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3Avalanche_AddCoWFactoriesToFlashBorrowers_20260506.sol), [AaveV3Arbitrum](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3Arbitrum_AddCoWFactoriesToFlashBorrowers_20260506.sol), [AaveV3Base](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3Base_AddCoWFactoriesToFlashBorrowers_20260506.sol), [AaveV3Gnosis](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3Gnosis_AddCoWFactoriesToFlashBorrowers_20260506.sol), [AaveV3BNB](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3BNB_AddCoWFactoriesToFlashBorrowers_20260506.sol), [AaveV3Linea](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3Linea_AddCoWFactoriesToFlashBorrowers_20260506.sol), [AaveV3Plasma](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3Plasma_AddCoWFactoriesToFlashBorrowers_20260506.sol)\n- Tests: [AaveV3Ethereum](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3Ethereum_AddCoWFactoriesToFlashBorrowers_20260506.t.sol), [AaveV3Polygon](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3Polygon_AddCoWFactoriesToFlashBorrowers_20260506.t.sol), [AaveV3Avalanche](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3Avalanche_AddCoWFactoriesToFlashBorrowers_20260506.t.sol), [AaveV3Arbitrum](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3Arbitrum_AddCoWFactoriesToFlashBorrowers_20260506.t.sol), [AaveV3Base](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3Base_AddCoWFactoriesToFlashBorrowers_20260506.t.sol), [AaveV3Gnosis](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3Gnosis_AddCoWFactoriesToFlashBorrowers_20260506.t.sol), [AaveV3BNB](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3BNB_AddCoWFactoriesToFlashBorrowers_20260506.t.sol), [AaveV3Linea](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3Linea_AddCoWFactoriesToFlashBorrowers_20260506.t.sol), [AaveV3Plasma](https://github.com/aave-dao/aave-proposals-v3/blob/fbb90bac5436f5e69a03b605fd3465eb7182b133/src/20260506_Multi_AddCoWFactoriesToFlashBorrowers/AaveV3Plasma_AddCoWFactoriesToFlashBorrowers_20260506.t.sol)\n- Snapshot: Direct-to-AIP\n- [Discussion](https://governance.aave.com/t/direct-to-aip-whitelist-cow-protocol-adapters-as-flash-borrowers-on-aave-v3/24467)\n\n## Copyright\n\nCopyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).\n",
+    "title": "Add CoW Swap Adapters to flashBorrowers",
+    "author": "Aave Labs",
+    "discussions": "https://governance.aave.com/t/direct-to-aip-whitelist-cow-protocol-adapters-as-flash-borrowers-on-aave-v3/24467",
+    "originalIpfsHash": "0xc96375d0b7a0d7daa767f0c64c420e1a2e27b36baa56ad8b850d1e91ceba2504"
+  },
+  "proposal": {
+    "id": 483,
+    "votingDuration": 259200,
+    "creationTime": 1778521103,
+    "accessLevel": 1,
+    "state": 4,
+    "queuingTime": 1778867723,
+    "ipfsHash": "0xc96375d0b7a0d7daa767f0c64c420e1a2e27b36baa56ad8b850d1e91ceba2504",
+    "initialPayloads": [
+      {
+        "id": 436,
+        "chainId": 1,
+        "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5"
+      },
+      {
+        "id": 143,
+        "chainId": 137,
+        "payloadsController": "0x401B5D0294E23637c18fcc38b1Bca814CDa2637C"
+      },
+      {
+        "id": 114,
+        "chainId": 43114,
+        "payloadsController": "0x1140CB7CAfAcC745771C2Ea31e7B5C653c5d0B80"
+      },
+      {
+        "id": 127,
+        "chainId": 42161,
+        "payloadsController": "0x89644CA1bB8064760312AE4F03ea41b05dA3637C"
+      },
+      {
+        "id": 107,
+        "chainId": 8453,
+        "payloadsController": "0x2DC219E716793fb4b21548C0f009Ba3Af753ab01"
+      },
+      {
+        "id": 75,
+        "chainId": 100,
+        "payloadsController": "0x9A1F491B86D09fC1484b5fab10041B189B60756b"
+      },
+      {
+        "id": 58,
+        "chainId": 56,
+        "payloadsController": "0xE5EF2Dd06755A97e975f7E282f828224F2C3e627"
+      },
+      {
+        "id": 26,
+        "chainId": 59144,
+        "payloadsController": "0x3BcE23a1363728091bc57A58a226CF2940C2e074"
+      },
+      {
+        "id": 26,
+        "chainId": 9745,
+        "payloadsController": "0xe76EB348E65eF163d85ce282125FF5a7F5712A1d"
+      }
+    ],
+    "snapshotBlockHash": "0x952f25b85601e9590eb025f027a0909e188fde9f96c681b4b2475cd163662458",
+    "creator": "0x66a28531E6f390A8CD44aB0C57a0F1aeb7E673FF",
+    "canceledAt": 0,
+    "votingActivationTime": 1778607563,
+    "votingChainId": 43114,
+    "votingMachineData": {
+      "id": 483,
+      "forVotes": "372682434093009777835824",
+      "againstVotes": "6036125569661314401",
+      "startTime": 1778608399,
+      "endTime": 1778867599,
+      "votingClosedAndSentBlockNumber": 85515468,
+      "votingClosedAndSentTimestamp": 1778867613,
+      "l1BlockHash": "0x952f25b85601e9590eb025f027a0909e188fde9f96c681b4b2475cd163662458",
+      "strategy": "0x6771B74568181f6042C9e5CFF98f62e7Ce40482e",
+      "sentToGovernance": true,
+      "createdBlock": 85263116,
+      "votedInfo": {
+        "support": false,
+        "votingPower": "0"
+      },
+      "votingAssets": [
+        "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "0x4da27a545c0c5B758a6BA100e3a049001de870f5",
+        "0xA700b4eB416Be35b2911fd5Dee80678ff64fF6C9"
+      ],
+      "hasRequiredRoots": true
+    },
+    "isFinished": true,
+    "lastUpdatedTimestamp": 1782153187,
+    "cancellationFee": 0
+  }
+}

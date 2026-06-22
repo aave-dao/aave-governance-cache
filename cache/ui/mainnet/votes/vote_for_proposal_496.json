@@ -1,0 +1,84 @@
+{
+  "votes": [
+    {
+      "proposalId": 496,
+      "address": "0xD0de31D841d7F2275466054d613DCa78B37aEAAE",
+      "support": false,
+      "votingPower": 23.73125808648609,
+      "transactionHash": "0x97cda79f8f96f039eeccd861c07b3f083d7492b205bcac4a04879e68cd55db51",
+      "blockNumber": 88589250,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 496,
+      "address": "0xC0d6C3AB0794D3e4C9025aDD68c777Eb8cc8b802",
+      "support": true,
+      "votingPower": 20185.0000024284,
+      "transactionHash": "0x9821e8a906a1ef0026269610dbfd4103b8490253d6ddcefc6a8e520bcf22d00c",
+      "blockNumber": 88585736,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 496,
+      "address": "0x53Da33F96ecFFE1CDf3842883c9ba3ba3b49c14B",
+      "support": true,
+      "votingPower": 0.04338736836242806,
+      "transactionHash": "0xd6d7ddd73e2f6b47b82930c9744653b1dbf541d688035533c1287cfb6f7a8724",
+      "blockNumber": 88584387,
+      "chainId": 43114,
+      "ensName": "rlytrue.eth"
+    },
+    {
+      "proposalId": 496,
+      "address": "0x3676E9b6A38c5526eddA4a89763Dd97b5813574d",
+      "support": true,
+      "votingPower": 25000.4864,
+      "transactionHash": "0xc7ee65641f28579ece30d9ad2e4bf33a347a2a7ccf934c4a49425c064b628b61",
+      "blockNumber": 88581410,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 496,
+      "address": "0xB933AEe47C438f22DE0747D57fc239FE37878Dd1",
+      "support": true,
+      "votingPower": 53916.42770418,
+      "transactionHash": "0xe4bdd9a619bc62daa089cdde59985ac0ad6b93115bd8f6d8cd47ed667a776f76",
+      "blockNumber": 88578289,
+      "chainId": 43114,
+      "ensName": "wintermutegovernance.eth"
+    },
+    {
+      "proposalId": 496,
+      "address": "0xECC2a9240268BC7a26386ecB49E1Befca2706AC9",
+      "support": true,
+      "votingPower": 28811.81141626,
+      "transactionHash": "0x90921be1456dba3f6023380471d6afc2978f77816e1112f861537f148f8122ff",
+      "blockNumber": 88566234,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 496,
+      "address": "0x7AE109A63ff4DC852e063a673b40BED85D22E585",
+      "support": true,
+      "votingPower": 9999.9999,
+      "transactionHash": "0xf83b6d7e892af48f7bbadd84c824110d94f4064f6196de0d4c5b08232ef9a162",
+      "blockNumber": 88547675,
+      "chainId": 43114,
+      "ensName": "calblockchain.eth"
+    },
+    {
+      "proposalId": 496,
+      "address": "0xec35C0E9F4e04ee8Fa21c26d37A0fD601e5C939D",
+      "support": true,
+      "votingPower": 40.17076556596276,
+      "transactionHash": "0xaa643b9b9c1485bbaf62df200cc10ed47e91329636f89e8a7610518feb477db2",
+      "blockNumber": 88534326,
+      "chainId": 43114,
+      "ensName": "utahtransplantdoctor.eth"
+    }
+  ]
+}
