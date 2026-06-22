@@ -1,0 +1,84 @@
+{
+  "payloads": [
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1781708783,
+      "queuedAt": 1782058475,
+      "executedAt": 1782144923,
+      "cancelledAt": 0,
+      "expirationTime": 1784732783,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xBE8B76b55734F277156eC5702408bF210a6fC23b",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 448,
+      "chainId": 1,
+      "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5"
+    }
+  ],
+  "ipfs": {
+    "ipfsHash": "QmXmEcsVfYBubr9eiWQkhYskAfeBc6tN6Ubm4JDaQpvpnc",
+    "description": "\n## Simple Summary\n\nThis proposal seeks to onboard PT-srUSDe-22OCT2026 to the Aave V3 Core Instance on Ethereum.\n\n## Motivation\n\nGiven the established adoption of PT-srUSDe collateral on Aave and the upcoming expiry of PT-srUSDe-25JUN2026, this listing provides a natural rollover destination for existing users.\n\n## Specification\n\nThe table below illustrates the configured risk parameters for **PT_srUSDe_22OCT2026**\n\n| Parameter                        |                                      Value |\n| -------------------------------- | -----------------------------------------: |\n| Borrowable                       |                                   DISABLED |\n| Collateral Enabled               |                                       true |\n| Supply Cap (PT_srUSDe_22OCT2026) |                                 25,000,000 |\n| Borrow Cap (PT_srUSDe_22OCT2026) |                                          1 |\n| LTV                              |                                        0 % |\n| LT                               |                                        0 % |\n| Liquidation Bonus                |                                        0 % |\n| Liquidation Protocol Fee         |                                       10 % |\n| Reserve Factor                   |                                       45 % |\n| Base Variable Borrow Rate        |                                        0 % |\n| Variable Slope 1                 |                                       10 % |\n| Variable Slope 2                 |                                      300 % |\n| Uoptimal                         |                                       45 % |\n| Flashloanable                    |                                   DISABLED |\n| Oracle                           | 0xbd1bc41479d0b58167584980fe57fda913d4fb73 |\n\n**PT-srUSDe Stablecoins E-Mode**\n\n| Asset             | PT-srUSDe-22OCT2026 | sUSDe  | USDC | USDT | USDe |\n| ----------------- | ------------------- | ------ | ---- | ---- | ---- |\n| Collateral        | Yes                 | Yes    | No   | No   | No   |\n| Borrowable        | No                  | No     | Yes  | Yes  | Yes  |\n| LTV               | 88.42%              | 88.42% | -    | -    | -    |\n| LT                | 90.42%              | 90.42% | -    | -    | -    |\n| Liquidation Bonus | 5.68%               | 5.68%  | -    | -    | -    |\n\n**PT-srUSDe USDe E-Mode**\n\n| Asset             | PT-srUSDe-22OCT2026 | sUSDe  | USDe |\n| ----------------- | ------------------- | ------ | ---- |\n| Collateral        | Yes                 | Yes    | No   |\n| Borrowable        | No                  | No     | Yes  |\n| LTV               | 91.06%              | 91.06% | -    |\n| LT                | 93.06%              | 93.06% | -    |\n| Liquidation Bonus | 2.68%               | 2.68%  | -    |\n\nPricing PT-srUSDe-22OCT2026 is done with a dynamic linear discount rate oracle.\n\n**Linear Discount Rate Oracle**\n\n| Parameter                  | Value  |\n| -------------------------- | ------ |\n| initialDiscountRatePerYear | 5.31%  |\n| maxDiscountRatePerYear     | 10.22% |\n\n## References\n\n- Implementation: [AaveV3Ethereum](https://github.com/aave-dao/aave-proposals-v3/blob/34ca81d91f2aed368169132eec4f312b3c4a9d26/src/20260617_AaveV3Ethereum_OnBoardPTsrUSDe22Oct2026EthereumCore/AaveV3Ethereum_OnBoardPTsrUSDe22Oct2026EthereumCore_20260617.sol)\n- Tests: [AaveV3Ethereum](https://github.com/aave-dao/aave-proposals-v3/blob/34ca81d91f2aed368169132eec4f312b3c4a9d26/src/20260617_AaveV3Ethereum_OnBoardPTsrUSDe22Oct2026EthereumCore/AaveV3Ethereum_OnBoardPTsrUSDe22Oct2026EthereumCore_20260617.t.sol)\n- [Discussion](https://governance.aave.com/t/direct-to-aip-onboard-strata-srusde-22oct2026-pt-tokens-to-v3-core-instance/25113)\n\n## Copyright\n\nCopyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).\n",
+    "title": "Onboard PT-srUSDe-22OCT2026 to Aave V3 Core",
+    "author": "Aave Labs",
+    "discussions": "https://governance.aave.com/t/direct-to-aip-onboard-strata-srusde-22oct2026-pt-tokens-to-v3-core-instance/25113",
+    "originalIpfsHash": "0x8c0576af9e4f45178d42ddbd81293ecc5ed0aa1f738b9c0382594a65049af0c9"
+  },
+  "proposal": {
+    "id": 495,
+    "votingDuration": 259200,
+    "creationTime": 1781711471,
+    "accessLevel": 1,
+    "state": 4,
+    "queuingTime": 1782058367,
+    "ipfsHash": "0x8c0576af9e4f45178d42ddbd81293ecc5ed0aa1f738b9c0382594a65049af0c9",
+    "initialPayloads": [
+      {
+        "id": 448,
+        "chainId": 1,
+        "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5"
+      }
+    ],
+    "snapshotBlockHash": "0x4f366c9fed35eb562c21772bbf743fca6f1e2454b4c308473d2543e2cb161aaa",
+    "creator": "0x66a28531E6f390A8CD44aB0C57a0F1aeb7E673FF",
+    "canceledAt": 0,
+    "votingActivationTime": 1781797907,
+    "votingChainId": 43114,
+    "votingMachineData": {
+      "id": 495,
+      "forVotes": "396092790948560625269168",
+      "againstVotes": "1985654051370698051",
+      "startTime": 1781799054,
+      "endTime": 1782058254,
+      "votingClosedAndSentBlockNumber": 88515011,
+      "votingClosedAndSentTimestamp": 1782058261,
+      "l1BlockHash": "0x4f366c9fed35eb562c21772bbf743fca6f1e2454b4c308473d2543e2cb161aaa",
+      "strategy": "0x6771B74568181f6042C9e5CFF98f62e7Ce40482e",
+      "sentToGovernance": true,
+      "createdBlock": 88306778,
+      "votedInfo": {
+        "support": false,
+        "votingPower": "0"
+      },
+      "votingAssets": [
+        "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "0x4da27a545c0c5B758a6BA100e3a049001de870f5",
+        "0xA700b4eB416Be35b2911fd5Dee80678ff64fF6C9"
+      ],
+      "hasRequiredRoots": true
+    },
+    "isFinished": true,
+    "lastUpdatedTimestamp": 1782154214,
+    "cancellationFee": 0
+  }
+}

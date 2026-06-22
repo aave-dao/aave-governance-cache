@@ -1,0 +1,615 @@
+{
+  "payloads": [
+    {
+      "creator": "0xe3FD707583932a99513a5c65c8463De769f5DAdF",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1779208439,
+      "queuedAt": 1779958223,
+      "executedAt": 1780044647,
+      "cancelledAt": 0,
+      "expirationTime": 1782232439,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x81b384AAc4fcCD95b5f7c4d4af5EFD3C11547Afe",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        },
+        {
+          "target": "0x225183208bdD562158b862f57f4536EcA231E724",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        },
+        {
+          "target": "0x045709CCA177d3550cA1FE610ec89D48E0A78d8C",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 442,
+      "chainId": 1,
+      "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5"
+    },
+    {
+      "creator": "0xe3FD707583932a99513a5c65c8463De769f5DAdF",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1779212375,
+      "queuedAt": 1779959501,
+      "executedAt": 1780045908,
+      "cancelledAt": 0,
+      "expirationTime": 1782236375,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xCE327f36564c3D54b042AeF64A780E120e01383E",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        },
+        {
+          "target": "0xEEE8dFB21cE9b3576B09B572eEfE49dcD6BDf513",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 145,
+      "chainId": 137,
+      "payloadsController": "0x401B5D0294E23637c18fcc38b1Bca814CDa2637C"
+    },
+    {
+      "creator": "0xe3FD707583932a99513a5c65c8463De769f5DAdF",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1779213024,
+      "queuedAt": 1779959302,
+      "executedAt": 1780045722,
+      "cancelledAt": 0,
+      "expirationTime": 1782237024,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x345128FbA0f7AEa020B4765C0bC3d6e8E212552A",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        },
+        {
+          "target": "0x3af437799c7A6D49E15fb85a1F88567505680248",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 116,
+      "chainId": 43114,
+      "payloadsController": "0x1140CB7CAfAcC745771C2Ea31e7B5C653c5d0B80"
+    },
+    {
+      "creator": "0xe3FD707583932a99513a5c65c8463De769f5DAdF",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1779213224,
+      "queuedAt": 1779958889,
+      "executedAt": 1780045294,
+      "cancelledAt": 0,
+      "expirationTime": 1782237224,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x4C77AaC15Ca7C92d4638859f43Ee953AdCd8C351",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        },
+        {
+          "target": "0x0B194DE42C3819bB0B681D3a432bFC03ae2AbF45",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 129,
+      "chainId": 42161,
+      "payloadsController": "0x89644CA1bB8064760312AE4F03ea41b05dA3637C"
+    },
+    {
+      "creator": "0xe3FD707583932a99513a5c65c8463De769f5DAdF",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1779214411,
+      "queuedAt": 1779958303,
+      "executedAt": 1780044711,
+      "cancelledAt": 0,
+      "expirationTime": 1782238411,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xB7b07787129AFb39F2d199dCae2AF838B55Cf566",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 95,
+      "chainId": 10,
+      "payloadsController": "0x0E1a3Af1f9cC76A62eD31eDedca291E63632e7c4"
+    },
+    {
+      "creator": "0xe3FD707583932a99513a5c65c8463De769f5DAdF",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1779214721,
+      "queuedAt": 1779958279,
+      "executedAt": 1780044689,
+      "cancelledAt": 0,
+      "expirationTime": 1782238721,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xfA033Ba5A23F08c8C4cb577C8F6f119fB3bfB959",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        },
+        {
+          "target": "0xB6db55371B5Ae04C99e2C040c3cc012895C68e01",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 109,
+      "chainId": 8453,
+      "payloadsController": "0x2DC219E716793fb4b21548C0f009Ba3Af753ab01"
+    },
+    {
+      "creator": "0xe3FD707583932a99513a5c65c8463De769f5DAdF",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1779215438,
+      "queuedAt": 1779959302,
+      "executedAt": 1780045708,
+      "cancelledAt": 0,
+      "expirationTime": 1782239438,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x55A4E6cd2Aa0ADDFE403a2Ae3B1522d3198b430E",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        },
+        {
+          "target": "0x1dA9a00D2D086080Dca17B10E29E6d34BbB8f15F",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 59,
+      "chainId": 56,
+      "payloadsController": "0xE5EF2Dd06755A97e975f7E282f828224F2C3e627"
+    },
+    {
+      "creator": "0xe3FD707583932a99513a5c65c8463De769f5DAdF",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1779216083,
+      "queuedAt": 1779959278,
+      "executedAt": 1780045713,
+      "cancelledAt": 0,
+      "expirationTime": 1782240083,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xFE5a5455157EeE08b23dD3944863eFd5ca087606",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 53,
+      "chainId": 534352,
+      "payloadsController": "0x6b6B41c0f8C223715f712BE83ceC3c37bbfDC3fE"
+    },
+    {
+      "creator": "0xe3FD707583932a99513a5c65c8463De769f5DAdF",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1779216620,
+      "queuedAt": 1779960330,
+      "executedAt": 1780046775,
+      "cancelledAt": 0,
+      "expirationTime": 1782240620,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x8ebCd3e40A43DDfB106A7a035dD14B743E214f96",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 77,
+      "chainId": 100,
+      "payloadsController": "0x9A1F491B86D09fC1484b5fab10041B189B60756b"
+    },
+    {
+      "creator": "0xe3FD707583932a99513a5c65c8463De769f5DAdF",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1779261528,
+      "queuedAt": 1779959273,
+      "executedAt": 1780045691,
+      "cancelledAt": 0,
+      "expirationTime": 1782285528,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xD2cFB7Da9feC4e465674720e38Db7f3E04C40E7d",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        },
+        {
+          "target": "0xc817F2079BC78269d773c8BF55f1437A1917DD65",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 29,
+      "chainId": 59144,
+      "payloadsController": "0x3BcE23a1363728091bc57A58a226CF2940C2e074"
+    },
+    {
+      "creator": "0xe3FD707583932a99513a5c65c8463De769f5DAdF",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1779262010,
+      "queuedAt": 1779959331,
+      "executedAt": 1780045751,
+      "cancelledAt": 0,
+      "expirationTime": 1782286010,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xf02f365893D5A68dD508323E1e899C0e78A4E781",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 14,
+      "chainId": 146,
+      "payloadsController": "0x0846C28Dd54DEA4Fd7Fb31bcc5EB81673D68c695"
+    },
+    {
+      "creator": "0xe3FD707583932a99513a5c65c8463De769f5DAdF",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1779262273,
+      "queuedAt": 1779959348,
+      "executedAt": 1780045767,
+      "cancelledAt": 0,
+      "expirationTime": 1782286273,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xE85E4bA6d8a7756d9652058B2dabf6B9e5ef527b",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 12,
+      "chainId": 42220,
+      "payloadsController": "0xE48E10834C04E394A04BF22a565D063D40b9FA42"
+    },
+    {
+      "creator": "0xe3FD707583932a99513a5c65c8463De769f5DAdF",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1779262441,
+      "queuedAt": 1779959350,
+      "executedAt": 1780045788,
+      "cancelledAt": 0,
+      "expirationTime": 1782286441,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xDE44e9a591E864CFA8b9fC762d5A7657771e1737",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        },
+        {
+          "target": "0xA69ce012643280099ec884274693C8EEFecF3e5b",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 28,
+      "chainId": 9745,
+      "payloadsController": "0xe76EB348E65eF163d85ce282125FF5a7F5712A1d"
+    },
+    {
+      "creator": "0xe3FD707583932a99513a5c65c8463De769f5DAdF",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1779262824,
+      "queuedAt": 1779958270,
+      "executedAt": 1780044696,
+      "cancelledAt": 0,
+      "expirationTime": 1782286824,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x79bAFd2535C7Dadd4e03F04B10c8F79553A03c3a",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        },
+        {
+          "target": "0xA7c395982E75F77BBbc7c54f20aa29b59ed58B90",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 7,
+      "chainId": 5000,
+      "payloadsController": "0xF089f77173A3009A98c45f49D547BF714A7B1e01"
+    },
+    {
+      "creator": "0xe3FD707583932a99513a5c65c8463De769f5DAdF",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1779263026,
+      "queuedAt": 1779958889,
+      "executedAt": 1780045376,
+      "cancelledAt": 0,
+      "expirationTime": 1782287026,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xf421ce2656C01c32Ee96Af40A20DDa4E555d4778",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 7,
+      "chainId": 4326,
+      "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
+    },
+    {
+      "creator": "0xe3FD707583932a99513a5c65c8463De769f5DAdF",
+      "maximumAccessLevelRequired": 1,
+      "state": 3,
+      "createdAt": 1779263292,
+      "queuedAt": 1779958289,
+      "executedAt": 1780044728,
+      "cancelledAt": 0,
+      "expirationTime": 1782287292,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x8B7aB53078a855497C940594aFa2A877D97b1DcB",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 4,
+      "chainId": 196,
+      "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
+    }
+  ],
+  "ipfs": {
+    "ipfsHash": "QmPvAAQro5vAvaTJmDXQMXMgyTbEPkncsyvb6hNd8mjqFd",
+    "description": "\n## Simple Summary\n\nUpgrade the Aave protocol instances from v3.6 to v3.7\n\n## Motivation\n\nAave v3.7 focused on non-invasive simplification of the protocol. It includes the following changes and features:\n\n- Simplification of eModes’ configuration, adding an isolated flag.\n- Removal of isolated collaterals and borrowable in isolation, features not useful anymore.\n- Removal of the L2 sequencer oracle.\n- Explicit removal of the flow to drop reserves, making the reserves list append-only.\n- Small improvements on liquidation calculations.\n\n## Specification\n\nBefore upgrading the implementations, the payload cleans up reserve configuration flags and settings that are removed in v3.7. For each reserve:\n\n- Reset `debtCeiling`: If a reserve has a non-zero debt ceiling, it is set to zero via `setDebtCeiling(reserve, 0)`. This also resets `isolationModeTotalDebt` to zero.\n- Disable `borrowableInIsolation`: If a reserve has `borrowableInIsolation` enabled, it is set to false via `setBorrowableInIsolation(reserve, false)`.\n- Additionally, if a sequencer uptime price oracle sentinel is configured, it is unset via `setPriceOracleSentinel(address(0))`, as this feature is removed in v3.7.\n\nAfter the cleanup, the payload upgrades the core protocol contracts:\n\n- Upgrade `Pool` implementation: The `Pool` contract proxy is updated to point to the new v3.7 implementation via POOL_ADDRESSES_PROVIDER.setPoolImpl(POOL_IMPL).\n- Upgrade `PoolConfigurator` implementation: The `PoolConfigurator contract proxy is updated to the new v3.7 implementation via POOL_ADDRESSES_PROVIDER.setPoolConfiguratorImpl(POOL_CONFIGURATOR_IMPL).\n\nPart 2 is applied on the following networks: **Ethereum (Core, Lido), Polygon, Avalanche, Arbitrum, Base, BNB, Linea, Plasma and Mantle**.\n\nAlongside the v3.7 implementation upgrade, this proposal also replaces the current RiskSteward with a newly deployed steward compatible with v3.7. As part of the transition, the existing stewards will have their RISK_ADMIN role revoked on the corresponding ACL_MANAGER, and the new stewards will be granted the role via:\n\n- `ACL_MANAGER.addRiskAdmin(NEW_RISK_STEWARD)`\n- `ACL_MANAGER.removeRiskAdmin(OLD_RISK_STEWARD)`\n\nThe new stewards are wired in across the following instances: **Ethereum (Core, Prime, EtherFi), Polygon, Avalanche, Arbitrum, Optimism, Base, BNB, Scroll, Gnosis, Linea, Sonic, Celo, Plasma, Mantle, MegaEth, XLayer**.\n\nAdditionally, on the instances where GHO is listed as a reserve, GHO is blacklisted on the new RiskSteward via `setAddressRestricted(GHO_UNDERLYING, true)`, since GHO is managed by its own dedicated stewards. The instances where this is applied are: **Ethereum Core, Ethereum Prime, Arbitrum, Avalanche, Base, Gnosis, Mantle, Plasma and XLayer**.\n\nThe original proposal has been reviewed by `Certora` at [be21f7354a7e378393515ffd4ebf2d60ca2fcea0](https://github.com/aave-dao/aave-proposals-v3/commit/be21f7354a7e378393515ffd4ebf2d60ca2fcea0).\nSince than it has been amended with the RiskSteward migration, which has been reviewed by `Certora` as well.\nThe proposal diff can be found [here](https://github.com/aave-dao/aave-proposals-v3/blob/0dbee921b36e1ea10ce8c43f4ee6e7971e6c9992/src/20260331_Multi_UpgradeAaveInstancesToV37Part2/git.diff).\n\n## References\n\n- [Implementation](https://github.com/bgd-labs/protocol-v3.7-upgrade/blob/main/src/UpgradePayload.sol)\n- [Tests](https://github.com/bgd-labs/protocol-v3.7-upgrade/tree/main/test)\n- [Diffs](https://github.com/bgd-labs/protocol-v3.7-upgrade/tree/main/diffs/code)\n- [Snapshot](https://snapshot.org/#/aavedao.eth/proposal/0x2cdd27eda22b36ddde2303c3d69859f74b330eb93661e632700d18c6095335a8)\n- [Discussion](https://governance.aave.com/t/arfc-bgd-aave-v3-7/24075)\n\n## Copyright\n\nCopyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).\n",
+    "title": "Upgrade Aave instances to v3.7 Part 2",
+    "author": "BGD Labs @bgdlabs",
+    "discussions": "https://governance.aave.com/t/arfc-bgd-aave-v3-7/24075",
+    "snapshot": "https://snapshot.org/#/aavedao.eth/proposal/0x2cdd27eda22b36ddde2303c3d69859f74b330eb93661e632700d18c6095335a8",
+    "originalIpfsHash": "0x1771282791a2769a488791be8160020ac408bc74fa67ca7f107cab87a730b240"
+  },
+  "proposal": {
+    "id": 489,
+    "votingDuration": 259200,
+    "creationTime": 1779611279,
+    "accessLevel": 1,
+    "state": 4,
+    "queuingTime": 1779958199,
+    "ipfsHash": "0x1771282791a2769a488791be8160020ac408bc74fa67ca7f107cab87a730b240",
+    "initialPayloads": [
+      {
+        "id": 442,
+        "chainId": 1,
+        "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5"
+      },
+      {
+        "id": 145,
+        "chainId": 137,
+        "payloadsController": "0x401B5D0294E23637c18fcc38b1Bca814CDa2637C"
+      },
+      {
+        "id": 116,
+        "chainId": 43114,
+        "payloadsController": "0x1140CB7CAfAcC745771C2Ea31e7B5C653c5d0B80"
+      },
+      {
+        "id": 129,
+        "chainId": 42161,
+        "payloadsController": "0x89644CA1bB8064760312AE4F03ea41b05dA3637C"
+      },
+      {
+        "id": 95,
+        "chainId": 10,
+        "payloadsController": "0x0E1a3Af1f9cC76A62eD31eDedca291E63632e7c4"
+      },
+      {
+        "id": 109,
+        "chainId": 8453,
+        "payloadsController": "0x2DC219E716793fb4b21548C0f009Ba3Af753ab01"
+      },
+      {
+        "id": 59,
+        "chainId": 56,
+        "payloadsController": "0xE5EF2Dd06755A97e975f7E282f828224F2C3e627"
+      },
+      {
+        "id": 53,
+        "chainId": 534352,
+        "payloadsController": "0x6b6B41c0f8C223715f712BE83ceC3c37bbfDC3fE"
+      },
+      {
+        "id": 77,
+        "chainId": 100,
+        "payloadsController": "0x9A1F491B86D09fC1484b5fab10041B189B60756b"
+      },
+      {
+        "id": 29,
+        "chainId": 59144,
+        "payloadsController": "0x3BcE23a1363728091bc57A58a226CF2940C2e074"
+      },
+      {
+        "id": 14,
+        "chainId": 146,
+        "payloadsController": "0x0846C28Dd54DEA4Fd7Fb31bcc5EB81673D68c695"
+      },
+      {
+        "id": 12,
+        "chainId": 42220,
+        "payloadsController": "0xE48E10834C04E394A04BF22a565D063D40b9FA42"
+      },
+      {
+        "id": 28,
+        "chainId": 9745,
+        "payloadsController": "0xe76EB348E65eF163d85ce282125FF5a7F5712A1d"
+      },
+      {
+        "id": 7,
+        "chainId": 5000,
+        "payloadsController": "0xF089f77173A3009A98c45f49D547BF714A7B1e01"
+      },
+      {
+        "id": 7,
+        "chainId": 4326,
+        "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
+      },
+      {
+        "id": 4,
+        "chainId": 196,
+        "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
+      }
+    ],
+    "snapshotBlockHash": "0xc56bf32463a809c7e66826526b8e43f2ef3c1efb20675e1d01abb5873deef91e",
+    "creator": "0xf71fc92e2949ccF6A5Fd369a0b402ba80Bc61E02",
+    "canceledAt": 0,
+    "votingActivationTime": 1779697715,
+    "votingChainId": 43114,
+    "votingMachineData": {
+      "id": 489,
+      "forVotes": "468390242303422047538850",
+      "againstVotes": "6036125569661314401",
+      "startTime": 1779698667,
+      "endTime": 1779957867,
+      "votingClosedAndSentBlockNumber": 86566531,
+      "votingClosedAndSentTimestamp": 1779957875,
+      "l1BlockHash": "0xc56bf32463a809c7e66826526b8e43f2ef3c1efb20675e1d01abb5873deef91e",
+      "strategy": "0x6771B74568181f6042C9e5CFF98f62e7Ce40482e",
+      "sentToGovernance": true,
+      "createdBlock": 86324033,
+      "votedInfo": {
+        "support": false,
+        "votingPower": "0"
+      },
+      "votingAssets": [
+        "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "0x4da27a545c0c5B758a6BA100e3a049001de870f5",
+        "0xA700b4eB416Be35b2911fd5Dee80678ff64fF6C9"
+      ],
+      "hasRequiredRoots": true
+    },
+    "isFinished": false,
+    "lastUpdatedTimestamp": 1782154214,
+    "cancellationFee": 50000000000000000
+  }
+}
