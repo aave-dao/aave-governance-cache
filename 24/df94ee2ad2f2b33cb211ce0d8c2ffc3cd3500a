@@ -1,0 +1,20 @@
+README.md
+  h_739c25e72c37fb 38
+src/scripts/parse-cache.ts
+  h_739c25e72c37fb 11
+src/scripts/update-cache-package.ts
+  h_739c25e72c37fb 7
+src/governance-ui-helpers/appConfig.ts
+  h_739c25e72c37fb 16,42,180-183,281
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "24df94ee2ad2f2b33cb211ce0d8c2ffc3cd3500a",
+  "prompts": {},
+  "humans": {
+    "h_739c25e72c37fb": {
+      "author": "DhairyaSethi <55102840+DhairyaSethi@users.noreply.github.com>"
+    }
+  }
+}
