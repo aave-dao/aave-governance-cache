@@ -8,8 +8,8 @@ concurrency:
 
 on:
   workflow_dispatch:
-  # schedule:
-    # - cron: 0 */3 * * *
+  schedule:
+    - cron: 0 */3 * * *
 
 jobs:
   cache-updates:
@@ -22,7 +22,6 @@ jobs:
       - name: Check RPC configuration
         env:
           ALCHEMY_API_KEY: ${{ secrets.ALCHEMY_API_KEY }}
-          RPC_MAINNET: ${{ secrets.RPC_MAINNET }}
         run: |
           if [ -z "$ALCHEMY_API_KEY" ] && [ -z "$RPC_MAINNET" ]; then
             echo "No RPC configuration found. Set ALCHEMY_API_KEY or RPC_* secrets to enable cache updates."
@@ -49,14 +48,6 @@ jobs:
         env:
           ALCHEMY_API_KEY: ${{ secrets.ALCHEMY_API_KEY }}
           CORE_NETWORK: ${{ matrix.network }}
-          RPC_POLYGON: ${{ secrets.RPC_POLYGON }}
-          RPC_OPTIMISM: ${{ secrets.RPC_OPTIMISM }}
-          RPC_MAINNET: ${{ secrets.RPC_MAINNET }}
-          RPC_BASE: ${{ secrets.RPC_BASE }}
-          RPC_ARBITRUM: ${{ secrets.RPC_ARBITRUM }}
-          RPC_ZKEVM: ${{ secrets.RPC_ZKEVM }}
-          RPC_ZKSYNC: ${{ secrets.RPC_ZKSYNC }}
-          RPC_XLAYER: ${{ secrets.RPC_XLAYER }}
           IPFS_GATEWAY: ${{ secrets.IPFS_GATEWAY }}
 
       - name: Parse cache to separate files
@@ -65,14 +56,6 @@ jobs:
         env:
           ALCHEMY_API_KEY: ${{ secrets.ALCHEMY_API_KEY }}
           CORE_NETWORK: ${{ matrix.network }}
-          RPC_POLYGON: ${{ secrets.RPC_POLYGON }}
-          RPC_OPTIMISM: ${{ secrets.RPC_OPTIMISM }}
-          RPC_MAINNET: ${{ secrets.RPC_MAINNET }}
-          RPC_BASE: ${{ secrets.RPC_BASE }}
-          RPC_ARBITRUM: ${{ secrets.RPC_ARBITRUM }}
-          RPC_ZKEVM: ${{ secrets.RPC_ZKEVM }}
-          RPC_ZKSYNC: ${{ secrets.RPC_ZKSYNC }}
-          RPC_XLAYER: ${{ secrets.RPC_XLAYER }}
           IPFS_GATEWAY: ${{ secrets.IPFS_GATEWAY }}
 
       - name: Commit and push cache updates
@@ -81,7 +64,7 @@ jobs:
             echo "tree is clean"
           else
             git config --global user.name 'Cache update'
-            git config --global user.email 'cache-bot@bgd.com'
+            git config --global user.email 'cache-bot@aave.com'
             git add cache/
             git commit -m "chore: automated cache update"
             git pull --rebase
