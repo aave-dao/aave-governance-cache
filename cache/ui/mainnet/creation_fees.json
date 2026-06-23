@@ -3492,10 +3492,17 @@
       },
       "497": {
         "proposalId": 497,
-        "proposalStatus": 0,
+        "proposalStatus": 1,
         "ipfsHash": "0xbc5c5e778840cae9948f7474cbf6d509e28c353768d7c84b999b6ebeaf232849",
         "status": 0,
         "title": "TokenLogic Service Provider Renewal"
+      },
+      "498": {
+        "proposalId": 498,
+        "proposalStatus": 0,
+        "ipfsHash": "0x32b046d88008819529d14f8ba0aabc84c6e393d89b2eac04232e2f9feb5cdf9c",
+        "status": 0,
+        "title": "Gho Monad Activation"
       }
     }
   }

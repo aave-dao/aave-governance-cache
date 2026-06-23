@@ -1,0 +1,355 @@
+{
+  "payloads": [
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1782149723,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1785173723,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xAcA69879963fFdb8873387772Be030c155D86fA0",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 451,
+      "chainId": 1,
+      "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1782149830,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1785173830,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x127be8D9A305f5f6e91f6ae0CaE5C3572A6828A2",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 117,
+      "chainId": 43114,
+      "payloadsController": "0x1140CB7CAfAcC745771C2Ea31e7B5C653c5d0B80"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1782150014,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1785174014,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x0ca6270a0fEd61298b24a74C885aA9A252Ce1Da6",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 130,
+      "chainId": 42161,
+      "payloadsController": "0x89644CA1bB8064760312AE4F03ea41b05dA3637C"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1782150027,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1785174027,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x8c2984492015B38781F4b3908639b62a9c916aDA",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 110,
+      "chainId": 8453,
+      "payloadsController": "0x2DC219E716793fb4b21548C0f009Ba3Af753ab01"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1782150130,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1785174130,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xfffEAf725f29c90135E8AfeD1128Aca2238AFF72",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 78,
+      "chainId": 100,
+      "payloadsController": "0x9A1F491B86D09fC1484b5fab10041B189B60756b"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1782150107,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1785174107,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x19be8E6EF34155866462457285Aba9a4440AEB42",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 5,
+      "chainId": 57073,
+      "payloadsController": "0x44D73D7C4b2f98F426Bf8B5e87628d9eE38ef0Cf"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1782150232,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1785174232,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x224778bDa0A90F9419E555B50Caf4895ebb4E5CE",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 8,
+      "chainId": 5000,
+      "payloadsController": "0xF089f77173A3009A98c45f49D547BF714A7B1e01"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1782150537,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1785174537,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x471Db882Ae609A77d2Ebc7394B03eD6ac115c700",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 31,
+      "chainId": 9745,
+      "payloadsController": "0xe76EB348E65eF163d85ce282125FF5a7F5712A1d"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1782150529,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1785174529,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x4407972616BA026D47dA8F9cb97fd7AE905AB707",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 5,
+      "chainId": 196,
+      "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1782150550,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1785174550,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x51E6106fF3Ad69cBC104C4B51ED0bC6CFC7A06F4",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 0,
+      "chainId": 143,
+      "payloadsController": "0x442CA936e5E6Db875357d0A16481145c96dd9a82"
+    }
+  ],
+  "ipfs": {
+    "ipfsHash": "QmRkWzdeY3mSwhZKFiqT3QNqQpEgP68uBtVZmCVYJQrJbD",
+    "description": "\n## Simple Summary\n\nThis AIP proposes activating CCIP Lanes for GHO on the Monad blockchain.\n\n## Motivation\n\nMonad’s pipelined EVM architecture delivers fast, high-throughput performance while remaining fully compatible with Ethereum, making it ideal for real-time financial applications.\nThis directly supports the needs of neobanks and fintech platforms, which rely on quick transaction finality, scalability, and predictable costs.\n\nDeploying GHO concurrently with the Aave instance on Monad ensures that GHO has every chance of becoming foundational to DeFi and payments infrastructure on a chain optimized for performance.\n\nThe goal is to establish GHO as a key stablecoin within Monad’s ecosystem from inception, facilitating reward programs, liquidity incentives, and seamless integration with the upcoming Aave deployment.\n\n## Specification\n\nThis AIP includes a series of actions required to launch GHO on Monad:\n\n1. Configure new Chainlink CCIP lanes between Monad and the chains where GHO is launched with a rate limit of 1,500,000 GHO capacity and 300 GHO per second rate.\n2. Configure GhoCcipSteward.\n3. Configure GhoBucketSteward.\n\n   The table below lists the address of the new **Monad** deployments\n\n   | Contract           | Address                                                                                                                |\n   | :----------------- | :--------------------------------------------------------------------------------------------------------------------- |\n   | GhoToken           | [0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73](https://monadscan.com/address/0xfc421aD3C883Bf9E7C4f42dE845C4e4405799e73) |\n   | GhoTokenPool       | [0xA5AE05b71c3F170E12E7620Fdf7679721aec1EC8](https://monadscan.com/address/0xA5AE05b71c3F170E12E7620Fdf7679721aec1EC8) |\n   | GhoBucketSteward   | [0xDe6539018B095353A40753Dc54C91C68c9487D4E](https://monadscan.com/address/0xDe6539018B095353A40753Dc54C91C68c9487D4E) |\n   | GhoCcipSteward     | [0x360d8aa8F6b09B7BC57aF34db2Eb84dD87bf4d12](https://monadscan.com/address/0x360d8aa8F6b09B7BC57aF34db2Eb84dD87bf4d12) |\n   | GhoAaveCoreSteward | [0xA5Ba213867E175A182a5dd6A9193C6158738105A](https://monadscan.com/address/0xA5Ba213867E175A182a5dd6A9193C6158738105A) |\n\n   The initial CCIP Facilitator Bucket Capacity will be 100,000,000 units.\n\n## References\n\n- Implementation: [AaveV3Ethereum](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/remote-lanes/AaveV3Ethereum_GhoMonadActivation_20260518.sol), [AaveV3Avalanche](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/remote-lanes/AaveV3Avalanche_GhoMonadActivation_20260518.sol), [AaveV3Arbitrum](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/remote-lanes/AaveV3Arbitrum_GhoMonadActivation_20260518.sol), [AaveV3Base](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/remote-lanes/AaveV3Base_GhoMonadActivation_20260518.sol), [AaveV3Gnosis](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/remote-lanes/AaveV3Gnosis_GhoMonadActivation_20260518.sol), [AaveV3Plasma](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/remote-lanes/AaveV3Plasma_GhoMonadActivation_20260518.sol), [AaveV3XLayer](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/remote-lanes/AaveV3XLayer_GhoMonadActivation_20260518.sol), [AaveV3Ink](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/remote-lanes/AaveV3Ink_GhoMonadActivation_20260518.sol), [AaveV3Mantle](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/remote-lanes/AaveV3Mantle_GhoMonadActivation_20260518.sol), [AaveV3Monad](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/AaveV3Monad_GhoMonadActivation_20260518.sol)\n- Tests: [AaveV3Ethereum](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/tests/remote-lanes/AaveV3Ethereum_GhoMonadActivation_20260518.t.sol), [AaveV3Avalanche](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/tests/remote-lanes/AaveV3Avalanche_GhoMonadActivation_20260518.t.sol), [AaveV3Arbitrum](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/tests/remote-lanes/AaveV3Arbitrum_GhoMonadActivation_20260518.t.sol), [AaveV3Base](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/tests/remote-lanes/AaveV3Base_GhoMonadActivation_20260518.t.sol), [AaveV3Gnosis](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/tests/remote-lanes/AaveV3Gnosis_GhoMonadActivation_20260518.t.sol), [AaveV3Plasma](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/tests/remote-lanes/AaveV3Plasma_GhoMonadActivation_20260518.t.sol), [AaveV3XLayer](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/tests/remote-lanes/AaveV3XLayer_GhoMonadActivation_20260518.t.sol), [AaveV3Ink](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/tests/remote-lanes/AaveV3Ink_GhoMonadActivation_20260518.t.sol), [AaveV3Mantle](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/tests/remote-lanes/AaveV3Mantle_GhoMonadActivation_20260518.t.sol), [AaveV3Monad](https://github.com/aave-dao/aave-proposals-v3/blob/bb3cc7571fd226efdd9d74567f66b0191e618c88/src/20260518_Multi_GhoMonadActivation/tests/AaveV3Monad_GhoMonadActivation_20260518.t.sol)\n- [Snapshot](https://snapshot.box/#/s:aavedao.eth/proposal/0x24f105bd023c476a9b85fa87ff795bfeec769fa799ce6ada8e2724c9738049f6)\n- [Discussion](https://governance.aave.com/t/arfc-deploy-aave-protocol-on-monad/24943)\n\n## Copyright\n\nCopyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).\n",
+    "title": "Gho Monad Activation",
+    "author": "@TokenLogic",
+    "discussions": "https://governance.aave.com/t/arfc-deploy-aave-protocol-on-monad/24943",
+    "snapshot": "https://snapshot.box/#/s:aavedao.eth/proposal/0x24f105bd023c476a9b85fa87ff795bfeec769fa799ce6ada8e2724c9738049f6",
+    "originalIpfsHash": "0x32b046d88008819529d14f8ba0aabc84c6e393d89b2eac04232e2f9feb5cdf9c"
+  },
+  "proposal": {
+    "id": 498,
+    "votingDuration": 259200,
+    "creationTime": 1782202091,
+    "accessLevel": 1,
+    "state": 1,
+    "queuingTime": 0,
+    "ipfsHash": "0x32b046d88008819529d14f8ba0aabc84c6e393d89b2eac04232e2f9feb5cdf9c",
+    "initialPayloads": [
+      {
+        "id": 451,
+        "chainId": 1,
+        "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5"
+      },
+      {
+        "id": 117,
+        "chainId": 43114,
+        "payloadsController": "0x1140CB7CAfAcC745771C2Ea31e7B5C653c5d0B80"
+      },
+      {
+        "id": 130,
+        "chainId": 42161,
+        "payloadsController": "0x89644CA1bB8064760312AE4F03ea41b05dA3637C"
+      },
+      {
+        "id": 110,
+        "chainId": 8453,
+        "payloadsController": "0x2DC219E716793fb4b21548C0f009Ba3Af753ab01"
+      },
+      {
+        "id": 78,
+        "chainId": 100,
+        "payloadsController": "0x9A1F491B86D09fC1484b5fab10041B189B60756b"
+      },
+      {
+        "id": 5,
+        "chainId": 57073,
+        "payloadsController": "0x44D73D7C4b2f98F426Bf8B5e87628d9eE38ef0Cf"
+      },
+      {
+        "id": 8,
+        "chainId": 5000,
+        "payloadsController": "0xF089f77173A3009A98c45f49D547BF714A7B1e01"
+      },
+      {
+        "id": 31,
+        "chainId": 9745,
+        "payloadsController": "0xe76EB348E65eF163d85ce282125FF5a7F5712A1d"
+      },
+      {
+        "id": 5,
+        "chainId": 196,
+        "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
+      },
+      {
+        "id": 0,
+        "chainId": 143,
+        "payloadsController": "0x442CA936e5E6Db875357d0A16481145c96dd9a82"
+      }
+    ],
+    "snapshotBlockHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "creator": "0x66a28531E6f390A8CD44aB0C57a0F1aeb7E673FF",
+    "canceledAt": 0,
+    "votingActivationTime": 0,
+    "votingChainId": 43114,
+    "votingMachineData": {
+      "id": 498,
+      "forVotes": "0",
+      "againstVotes": "0",
+      "startTime": 0,
+      "endTime": 0,
+      "votingClosedAndSentBlockNumber": 0,
+      "votingClosedAndSentTimestamp": 0,
+      "l1BlockHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "strategy": "0x6771B74568181f6042C9e5CFF98f62e7Ce40482e",
+      "sentToGovernance": false,
+      "createdBlock": 0,
+      "votedInfo": {
+        "support": false,
+        "votingPower": "0"
+      },
+      "votingAssets": [
+        "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "0x4da27a545c0c5B758a6BA100e3a049001de870f5",
+        "0xA700b4eB416Be35b2911fd5Dee80678ff64fF6C9"
+      ],
+      "hasRequiredRoots": false
+    },
+    "isFinished": false,
+    "lastUpdatedTimestamp": 1782210022,
+    "cancellationFee": 50000000000000000
+  }
+}
