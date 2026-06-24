@@ -2,6 +2,26 @@
   "votes": [
     {
       "proposalId": 497,
+      "address": "0xBcF0fD9C42cC8Cb2060C4930D2c1d277f18146a5",
+      "support": false,
+      "votingPower": 6.036125569661315,
+      "transactionHash": "0x7dd7476046e37a224f8dc2d2a241769af47b0a84e270ed8a0f83a410a2e2d241",
+      "blockNumber": 88704794,
+      "chainId": 43114,
+      "ensName": "驴蠢是哒念来过倒.eth"
+    },
+    {
+      "proposalId": 497,
+      "address": "0x009d13E9bEC94Bf16791098CE4E5C168D27A9f07",
+      "support": true,
+      "votingPower": 244.04893307583797,
+      "transactionHash": "0x107f81edd8521b6b0304a57a0236ed3dccdacc852ed118a057a9a02beec60f33",
+      "blockNumber": 88701734,
+      "chainId": 43114,
+      "ensName": "figue.eth"
+    },
+    {
+      "proposalId": 497,
       "address": "0x8b37a5Af68D315cf5A64097D96621F64b5502a22",
       "support": true,
       "votingPower": 76100.64284794,

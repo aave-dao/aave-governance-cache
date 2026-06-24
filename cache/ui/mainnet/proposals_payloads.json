@@ -7357,6 +7357,18 @@
         "chainId": 143,
         "payloadsController": "0x442CA936e5E6Db875357d0A16481145c96dd9a82"
       }
+    ],
+    "499": [
+      {
+        "id": 452,
+        "chainId": 1,
+        "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5"
+      },
+      {
+        "id": 6,
+        "chainId": 196,
+        "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
+      }
     ]
   }
 }
