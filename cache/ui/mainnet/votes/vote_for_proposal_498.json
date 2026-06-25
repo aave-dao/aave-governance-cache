@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 498,
+      "address": "0x3DDC7d25c7a1dc381443e491Bbf1Caa8928A05B0",
+      "support": true,
+      "votingPower": 102.37642567009591,
+      "transactionHash": "0x616e0dfb570f32cd55572682ce57ffea2d98fb4a2456945a6d4ba38041e37218",
+      "blockNumber": 88741785,
+      "chainId": 43114,
+      "ensName": "ignasdefi.eth"
+    },
+    {
+      "proposalId": 498,
       "address": "0xA97CA732232Cd2ACaB9038a1943fe2A79FA1cCc8",
       "support": true,
       "votingPower": 0.034704525404803205,
