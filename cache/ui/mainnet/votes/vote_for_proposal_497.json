@@ -2,6 +2,26 @@
   "votes": [
     {
       "proposalId": 497,
+      "address": "0xec35C0E9F4e04ee8Fa21c26d37A0fD601e5C939D",
+      "support": true,
+      "votingPower": 40.17076556596276,
+      "transactionHash": "0xd0bc1f0f018e762fbb7c38f2400ca0586d1b14b61d5e88eab74ae13681ee05f0",
+      "blockNumber": 88756122,
+      "chainId": 43114,
+      "ensName": "utahtransplantdoctor.eth"
+    },
+    {
+      "proposalId": 497,
+      "address": "0x7AE109A63ff4DC852e063a673b40BED85D22E585",
+      "support": true,
+      "votingPower": 9999.9999,
+      "transactionHash": "0x258e054089c413d0812bf073c06abc27bc812721a33803e62ae386058b03141c",
+      "blockNumber": 88751552,
+      "chainId": 43114,
+      "ensName": "calblockchain.eth"
+    },
+    {
+      "proposalId": 497,
       "address": "0x3DDC7d25c7a1dc381443e491Bbf1Caa8928A05B0",
       "support": true,
       "votingPower": 102.37642567009591,
