@@ -3487,14 +3487,14 @@
         "proposalId": 496,
         "proposalStatus": 4,
         "ipfsHash": "0x5b674a130e8424ebcdfde15fb4d6c09029eaf8f00f62fa99b981d78467497b45",
-        "status": 1,
+        "status": 2,
         "title": "Launch of V4 Paxos Hub and onboard PT-USDG-24SEP2026"
       },
       "497": {
         "proposalId": 497,
         "proposalStatus": 2,
         "ipfsHash": "0xbc5c5e778840cae9948f7474cbf6d509e28c353768d7c84b999b6ebeaf232849",
-        "status": 1,
+        "status": 2,
         "title": "TokenLogic Service Provider Renewal"
       },
       "498": {
@@ -3517,6 +3517,13 @@
         "ipfsHash": "0x8a79dd7574d9d3483fc17d21e9f94f977deffdb6a7beb2364d208767c5d218ea",
         "status": 0,
         "title": "Certora Concord Equivalence Checker Funding"
+      },
+      "501": {
+        "proposalId": 501,
+        "proposalStatus": 0,
+        "ipfsHash": "0x698d681b5683c55eb6f7c7c4c8cceafb23d86073c27e1c45cbdf7c7e782cf34f",
+        "status": 0,
+        "title": "Aave V3.7 Monad Activation"
       }
     }
   }

@@ -7376,6 +7376,18 @@
         "chainId": 1,
         "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5"
       }
+    ],
+    "501": [
+      {
+        "id": 1,
+        "chainId": 143,
+        "payloadsController": "0x442CA936e5E6Db875357d0A16481145c96dd9a82"
+      },
+      {
+        "id": 2,
+        "chainId": 143,
+        "payloadsController": "0x442CA936e5E6Db875357d0A16481145c96dd9a82"
+      }
     ]
   }
 }
