@@ -17144,19 +17144,19 @@
     "isFinished": false
   },
   "500": {
-    "state": 2,
+    "state": 4,
     "accessLevel": 1,
     "creationTime": 1782303143,
     "votingDuration": 259200,
     "votingActivationTime": 1782389555,
-    "queuingTime": 0,
+    "queuingTime": 1782649847,
     "cancelTimestamp": 0,
     "creator": "0x66a28531E6f390A8CD44aB0C57a0F1aeb7E673FF",
     "votingPortal": "0x9Ded9406f088C10621BE628EEFf40c1DF396c172",
     "snapshotBlockHash": "0xbba1f3519a6c56e4bdf0606e260a103319a603eb94d4bbe0e9c037a2a70796b4",
     "ipfsHash": "0x8a79dd7574d9d3483fc17d21e9f94f977deffdb6a7beb2364d208767c5d218ea",
-    "forVotes": "0",
-    "againstVotes": "0",
+    "forVotes": "343929397209898081579838",
+    "againstVotes": "6036125569661314401",
     "cancellationFee": "50000000000000000",
     "payloads": [
       {
