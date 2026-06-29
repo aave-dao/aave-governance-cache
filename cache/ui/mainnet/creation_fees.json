@@ -3513,7 +3513,7 @@
       },
       "500": {
         "proposalId": 500,
-        "proposalStatus": 2,
+        "proposalStatus": 4,
         "ipfsHash": "0x8a79dd7574d9d3483fc17d21e9f94f977deffdb6a7beb2364d208767c5d218ea",
         "status": 1,
         "title": "Certora Concord Equivalence Checker Funding"
