@@ -2,6 +2,36 @@
   "votes": [
     {
       "proposalId": 501,
+      "address": "0x3DDC7d25c7a1dc381443e491Bbf1Caa8928A05B0",
+      "support": true,
+      "votingPower": 102.37642567009591,
+      "transactionHash": "0x8c1649e03454d14d3fe71b184056074ac48282128be6061a9b6f7a9b2505a9d7",
+      "blockNumber": 89051949,
+      "chainId": 43114,
+      "ensName": "ignasdefi.eth"
+    },
+    {
+      "proposalId": 501,
+      "address": "0xcB15649D7B7a1eb01fb1ACD14809de6cF82Aa1A0",
+      "support": true,
+      "votingPower": 0.01052290045404702,
+      "transactionHash": "0xd03579f92176b0caa15527a69be835cecb281157ed9d7b9d5ca4f0a4ef2a486b",
+      "blockNumber": 89050688,
+      "chainId": 43114,
+      "ensName": "hememix.eth"
+    },
+    {
+      "proposalId": 501,
+      "address": "0xECC2a9240268BC7a26386ecB49E1Befca2706AC9",
+      "support": true,
+      "votingPower": 28611.81141626,
+      "transactionHash": "0x4e0c4a0d8255e6e9662509884d5817a2bea6b82bb88c104e47b1a049a81f3a36",
+      "blockNumber": 89050662,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 501,
       "address": "0xBcF0fD9C42cC8Cb2060C4930D2c1d277f18146a5",
       "support": false,
       "votingPower": 6.036125569661315,
