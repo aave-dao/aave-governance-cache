@@ -3520,9 +3520,9 @@
       },
       "501": {
         "proposalId": 501,
-        "proposalStatus": 1,
+        "proposalStatus": 2,
         "ipfsHash": "0x698d681b5683c55eb6f7c7c4c8cceafb23d86073c27e1c45cbdf7c7e782cf34f",
-        "status": 0,
+        "status": 1,
         "title": "Aave V3.7 Monad Activation"
       },
       "502": {
