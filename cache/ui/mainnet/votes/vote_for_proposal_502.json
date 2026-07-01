@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 502,
+      "address": "0xBcF0fD9C42cC8Cb2060C4930D2c1d277f18146a5",
+      "support": false,
+      "votingPower": 6.036125569661315,
+      "transactionHash": "0xe4249471a7de13110c2a4b3f6d4a30bdab0848b9db22675f9c4b134ce5fb0043",
+      "blockNumber": 89192852,
+      "chainId": 43114,
+      "ensName": "驴蠢是哒念来过倒.eth"
+    },
+    {
+      "proposalId": 502,
       "address": "0xcd0b67a61E5e8F4616c19e421e929813B6D947df",
       "support": true,
       "votingPower": 0.000018797979014275,
