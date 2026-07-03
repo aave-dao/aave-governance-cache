@@ -3527,9 +3527,9 @@
       },
       "502": {
         "proposalId": 502,
-        "proposalStatus": 1,
+        "proposalStatus": 2,
         "ipfsHash": "0xd3036aa0df8a4a04be7048fee749f6cad838ad0121176659b361b88eb1890258",
-        "status": 0,
+        "status": 1,
         "title": "Onboard stcUSD to Aave V3 MegaEth"
       },
       "503": {
