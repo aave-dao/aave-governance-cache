@@ -120,5 +120,17 @@
       "chainId": 4326,
       "hashLoading": false
     }
+  },
+  "502_10_8_4326": {
+    "type": 10,
+    "title": "",
+    "timestamp": 1783186512,
+    "addresses": null,
+    "txInfo": {
+      "id": 8,
+      "hash": "0xc5423744798b8046e04e919bdf4af8c0f9e605b562edabbab3585b98e5245f39",
+      "chainId": 4326,
+      "hashLoading": false
+    }
   }
 }
