@@ -36,5 +36,17 @@
       "chainId": 1,
       "hashLoading": false
     }
+  },
+  "490_12_444_1": {
+    "type": 12,
+    "title": "",
+    "timestamp": 3563864614,
+    "addresses": null,
+    "txInfo": {
+      "id": 444,
+      "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "chainId": 1,
+      "hashLoading": false
+    }
   }
 }
