@@ -2,6 +2,66 @@
   "votes": [
     {
       "proposalId": 504,
+      "address": "0x412E4f88c007a23B44a2f9CDa46A923f90b9aD54",
+      "support": true,
+      "votingPower": 0.10846934858596749,
+      "transactionHash": "0xd131e8899ff0088939092508eaf64d407235fde873aecedb44f919565c37d995",
+      "blockNumber": 90107388,
+      "chainId": 43114,
+      "ensName": "youaremyeverything.eth"
+    },
+    {
+      "proposalId": 504,
+      "address": "0x288AA428A8520E495f445E6931C582789c35BD4C",
+      "support": true,
+      "votingPower": 0.10827383141329697,
+      "transactionHash": "0x3f748d44cd4d9c6f4a0d7dcf49cbedac0b85e420cdca08e191eb05293326c7c4",
+      "blockNumber": 90107259,
+      "chainId": 43114,
+      "ensName": "rightherewaiting.eth"
+    },
+    {
+      "proposalId": 504,
+      "address": "0x10C4EaedEE32D5b51bc166a4792c789781E66069",
+      "support": true,
+      "votingPower": 0.11095283606370891,
+      "transactionHash": "0xa80dd74dcb4a9587f86edd15ea4394b9e6ca8448f802671c07bb23aa07b928bf",
+      "blockNumber": 90107195,
+      "chainId": 43114,
+      "ensName": "overyou.eth"
+    },
+    {
+      "proposalId": 504,
+      "address": "0x6c2E47aCA7F7E23F3cE8f1606CFaa157b5583C04",
+      "support": true,
+      "votingPower": 0.3588667215376069,
+      "transactionHash": "0x82a6e31b9fead81d7d210a9c300c9b63efb204116649c5d49dc94e49d037611d",
+      "blockNumber": 90107079,
+      "chainId": 43114,
+      "ensName": "manmanwuxian.eth"
+    },
+    {
+      "proposalId": 504,
+      "address": "0x43640F8bc95a4E0ea894dfF077753D02Cc86DCf7",
+      "support": true,
+      "votingPower": 0.10594188293157081,
+      "transactionHash": "0xbd7d8634d967871301681db18c678cb6fd89a7cf7eb40bd5586e7a55e6bb84fb",
+      "blockNumber": 90107007,
+      "chainId": 43114,
+      "ensName": "jueshengqianli.eth"
+    },
+    {
+      "proposalId": 504,
+      "address": "0x3320756d61303284B8012A660Ee185C58EDd3BB7",
+      "support": true,
+      "votingPower": 107243.98459054,
+      "transactionHash": "0xcee2b5ba80ae8bbb760289a777b879005a5498c3e0b872d24a6012003b752499",
+      "blockNumber": 90106805,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 504,
       "address": "0x089ACc703D9Fd8b14d6E03D4D38561C1d4672dFd",
       "support": true,
       "votingPower": 5,
