@@ -2,6 +2,36 @@
   "votes": [
     {
       "proposalId": 504,
+      "address": "0xcB15649D7B7a1eb01fb1ACD14809de6cF82Aa1A0",
+      "support": true,
+      "votingPower": 0.01052290045404702,
+      "transactionHash": "0x9c51c779a0f288988879be99e68c92c9b2b2d703e405a8479d9fd1cdec3831f6",
+      "blockNumber": 90205246,
+      "chainId": 43114,
+      "ensName": "hememix.eth"
+    },
+    {
+      "proposalId": 504,
+      "address": "0x3676E9b6A38c5526eddA4a89763Dd97b5813574d",
+      "support": true,
+      "votingPower": 25000.4864,
+      "transactionHash": "0xdd391935c0da9bd183e1c4072163346902ddcc76890791745a7631cb072be949",
+      "blockNumber": 90197517,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 504,
+      "address": "0x8b37a5Af68D315cf5A64097D96621F64b5502a22",
+      "support": true,
+      "votingPower": 75925.73242588,
+      "transactionHash": "0xae438dc707770c375b5d1c5f0368a3bc167a1f89a1f1169bf54b2af6f8d7221b",
+      "blockNumber": 90197337,
+      "chainId": 43114,
+      "ensName": "aretagov.eth"
+    },
+    {
+      "proposalId": 504,
       "address": "0xEb5F9f3CbD64a8658F8C5f7946d81Ff316FB0794",
       "support": true,
       "votingPower": 4.202044284886689,
