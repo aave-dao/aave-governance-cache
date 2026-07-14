@@ -3548,9 +3548,9 @@
       },
       "504": {
         "proposalId": 504,
-        "proposalStatus": 1,
+        "proposalStatus": 2,
         "ipfsHash": "0xe0fba622cdbc89248799e581a9305743e595053b35ae35c3ec4e2f4338271311",
-        "status": 0,
+        "status": 1,
         "title": "Aave V4 Avalanche Activation"
       }
     }
