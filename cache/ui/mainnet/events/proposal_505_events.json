@@ -178,5 +178,29 @@
       "chainId": 1,
       "hashLoading": false
     }
+  },
+  "505_2": {
+    "type": 2,
+    "title": "",
+    "timestamp": 1784049443,
+    "addresses": null,
+    "txInfo": {
+      "id": 505,
+      "hash": "0xfdf41ae166fe5005f4da02fd6b0419db025a36ce6c819fe9b3f2d578078e1160",
+      "chainId": 1,
+      "hashLoading": false
+    }
+  },
+  "505_3": {
+    "type": 3,
+    "title": "",
+    "timestamp": 1784050443,
+    "addresses": null,
+    "txInfo": {
+      "id": 505,
+      "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "chainId": 43114,
+      "hashLoading": false
+    }
   }
 }
