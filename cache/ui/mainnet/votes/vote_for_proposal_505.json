@@ -2,6 +2,36 @@
   "votes": [
     {
       "proposalId": 505,
+      "address": "0x092730D250C4889D5C54267c9A0615ec47561922",
+      "support": true,
+      "votingPower": 0.266,
+      "transactionHash": "0x0888744b05a2aea1b706e0df11ed45e6106a9b9e1cb286af1d3a27f8aa8a71df",
+      "blockNumber": 90382614,
+      "chainId": 43114,
+      "ensName": "41burlington.eth"
+    },
+    {
+      "proposalId": 505,
+      "address": "0x2F2F665974261C4129b1DC6c359BD259CD66f78A",
+      "support": true,
+      "votingPower": 5.178312895477151,
+      "transactionHash": "0xd9a4418c71ce1422e9910af495f276cf9ba6cd024cbb019c1221036496b43bcc",
+      "blockNumber": 90379489,
+      "chainId": 43114,
+      "ensName": "0htjit.eth"
+    },
+    {
+      "proposalId": 505,
+      "address": "0xB933AEe47C438f22DE0747D57fc239FE37878Dd1",
+      "support": true,
+      "votingPower": 53794.8884183,
+      "transactionHash": "0x7da8e569b966832db5af1b2cfdc124a8edf1f24cb65da3e4f3b29033aba09685",
+      "blockNumber": 90375368,
+      "chainId": 43114,
+      "ensName": "wintermutegovernance.eth"
+    },
+    {
+      "proposalId": 505,
       "address": "0x3676E9b6A38c5526eddA4a89763Dd97b5813574d",
       "support": true,
       "votingPower": 25000.4864,

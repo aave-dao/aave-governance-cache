@@ -120,5 +120,17 @@
       "chainId": 43114,
       "hashLoading": false
     }
+  },
+  "504_10_118_43114": {
+    "type": 10,
+    "title": "",
+    "timestamp": 1784127293,
+    "addresses": null,
+    "txInfo": {
+      "id": 118,
+      "hash": "0x4b9bb67bd265cedf5adb6d37db4c0da00531ff945c114f613f2b88a96170128b",
+      "chainId": 43114,
+      "hashLoading": false
+    }
   }
 }
