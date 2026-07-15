@@ -2,6 +2,46 @@
   "votes": [
     {
       "proposalId": 505,
+      "address": "0x412E4f88c007a23B44a2f9CDa46A923f90b9aD54",
+      "support": true,
+      "votingPower": 0.10846934858596749,
+      "transactionHash": "0x2ce31e9a4301a89b6e98868aafe193db5197fec6bd883c440f19c4d726803061",
+      "blockNumber": 90333826,
+      "chainId": 43114,
+      "ensName": "youaremyeverything.eth"
+    },
+    {
+      "proposalId": 505,
+      "address": "0xcF3C2ad2ae63A1c2E9723481aBAf4544D9D6fC32",
+      "support": true,
+      "votingPower": 0.1293460908039871,
+      "transactionHash": "0xe1d2398ddba394dd4216511b5b951b6a06731209cbc50ed512070cb6d7316b94",
+      "blockNumber": 90333759,
+      "chainId": 43114,
+      "ensName": "youreyes.eth"
+    },
+    {
+      "proposalId": 505,
+      "address": "0x266ecCe1033a3B6189f215b619FcA00558599Cc0",
+      "support": true,
+      "votingPower": 0.10673530445520084,
+      "transactionHash": "0x9ac0995a6537a9c918f333189234fd6530b80c76c7b3fcb0e2fee860b787161f",
+      "blockNumber": 90333695,
+      "chainId": 43114,
+      "ensName": "thecolorofthenight.eth"
+    },
+    {
+      "proposalId": 505,
+      "address": "0x7c4b8BfBf1a92D745593a75d0b8Cf6D324d48101",
+      "support": true,
+      "votingPower": 0.10605440750186457,
+      "transactionHash": "0xb47875d7a7675738312611294fd65c39a5e70b50365928b063258dcb9f1a844e",
+      "blockNumber": 90333647,
+      "chainId": 43114,
+      "ensName": "enzhongrushan.eth"
+    },
+    {
+      "proposalId": 505,
       "address": "0xA97CA732232Cd2ACaB9038a1943fe2A79FA1cCc8",
       "support": true,
       "votingPower": 0.034704525404803205,
