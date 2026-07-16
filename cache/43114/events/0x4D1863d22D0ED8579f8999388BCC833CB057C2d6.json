@@ -147345,5 +147345,53 @@
     "logIndex": 3,
     "removed": false,
     "blockTimestamp": null
+  },
+  {
+    "eventName": "VoteEmitted",
+    "args": {
+      "proposalId": "505",
+      "voter": "0x2c59AefC45405b75e88C2167a810D42847EbBb5E",
+      "support": true,
+      "votingPower": "121974032802312589"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x0c611e7b6ae0de26f4772260e1bbdb5f58cbb7c275fe2de14671968d29add8d6",
+      "0x00000000000000000000000000000000000000000000000000000000000001f9",
+      "0x0000000000000000000000002c59aefc45405b75e88c2167a810d42847ebbb5e",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x00000000000000000000000000000000000000000000000001b156bc9100f18d",
+    "blockNumber": "90423259",
+    "transactionHash": "0xca8197b1cb667b74f04f959abf0cd7a018d6bf000925ca0e0ba7a574a37ee74a",
+    "transactionIndex": 1,
+    "blockHash": "0x9a63805fb65b7ab40b7b00a637ec1e30cb63da2d0225e01cb334ac80c3c34539",
+    "logIndex": 1,
+    "removed": false,
+    "blockTimestamp": null
+  },
+  {
+    "eventName": "VoteEmitted",
+    "args": {
+      "proposalId": "505",
+      "voter": "0xfc9cCEd2f18F7C554Bbf82d48511Fa9f59483Db8",
+      "support": true,
+      "votingPower": "106146816220000016"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x0c611e7b6ae0de26f4772260e1bbdb5f58cbb7c275fe2de14671968d29add8d6",
+      "0x00000000000000000000000000000000000000000000000000000000000001f9",
+      "0x000000000000000000000000fc9cced2f18f7c554bbf82d48511fa9f59483db8",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x00000000000000000000000000000000000000000000000001791bf78ad4ef10",
+    "blockNumber": "90423320",
+    "transactionHash": "0xf2e362c6056c561eb9e113c9494d864877f3f056ae4481fe7eb45d6acba9ea31",
+    "transactionIndex": 0,
+    "blockHash": "0x3ee65555c02edc07e4826dd04a992e1f0d02259bdaffb9e0ee24d74571a0d880",
+    "logIndex": 0,
+    "removed": false,
+    "blockTimestamp": null
   }
 ]

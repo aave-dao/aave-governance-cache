@@ -2,6 +2,26 @@
   "votes": [
     {
       "proposalId": 505,
+      "address": "0xfc9cCEd2f18F7C554Bbf82d48511Fa9f59483Db8",
+      "support": true,
+      "votingPower": 0.10614681622000001,
+      "transactionHash": "0xf2e362c6056c561eb9e113c9494d864877f3f056ae4481fe7eb45d6acba9ea31",
+      "blockNumber": 90423320,
+      "chainId": 43114,
+      "ensName": "thegirlfromyesterday.eth"
+    },
+    {
+      "proposalId": 505,
+      "address": "0x2c59AefC45405b75e88C2167a810D42847EbBb5E",
+      "support": true,
+      "votingPower": 0.12197403280231259,
+      "transactionHash": "0xca8197b1cb667b74f04f959abf0cd7a018d6bf000925ca0e0ba7a574a37ee74a",
+      "blockNumber": 90423259,
+      "chainId": 43114,
+      "ensName": "becauseiloveyou.eth"
+    },
+    {
+      "proposalId": 505,
       "address": "0x7694b777D9adAE269D2779f5d375AdD61C895F18",
       "support": true,
       "votingPower": 1912.627915465279,
