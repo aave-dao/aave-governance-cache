@@ -751,7 +751,7 @@
     "ipfsHash": "0xee81375a113564e990021db582f787e045b68d85f146e4a6dc6def36dd06ace9",
     "forVotes": "603903257974975305129756",
     "againstVotes": "0",
-    "cancellationFee": "50000000000000000",
+    "cancellationFee": "0",
     "payloads": [
       {
         "chain": "137",
