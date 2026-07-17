@@ -2,6 +2,26 @@
   "votes": [
     {
       "proposalId": 505,
+      "address": "0x4CA6B5aD4489d95adCD7032Ec57CA3C103FB7f10",
+      "support": true,
+      "votingPower": 0.10967920569004463,
+      "transactionHash": "0x57178d02231f405e375a31a5f3377143385d24d436ec92aed28341fcc9da8865",
+      "blockNumber": 90506482,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 505,
+      "address": "0xF41C7a208156B46C89e028412Dca41d1F05feDE8",
+      "support": true,
+      "votingPower": 0.11118108230061667,
+      "transactionHash": "0xa5c922b6f48923c48c16b98828c2ff9e5dedb47be3387bdcb22583d38011460a",
+      "blockNumber": 90506406,
+      "chainId": 43114,
+      "ensName": "mariaarredondo.eth"
+    },
+    {
+      "proposalId": 505,
       "address": "0x8b37a5Af68D315cf5A64097D96621F64b5502a22",
       "support": true,
       "votingPower": 75925.73242588,
