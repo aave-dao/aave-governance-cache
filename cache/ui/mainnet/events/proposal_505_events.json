@@ -202,5 +202,209 @@
       "chainId": 43114,
       "hashLoading": false
     }
+  },
+  "505_4": {
+    "type": 4,
+    "title": "",
+    "timestamp": 1784309643,
+    "addresses": null,
+    "txInfo": {
+      "id": 505,
+      "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "chainId": 43114,
+      "hashLoading": false
+    }
+  },
+  "505_5": {
+    "type": 5,
+    "title": "",
+    "timestamp": 1784309654,
+    "addresses": null,
+    "txInfo": {
+      "id": 505,
+      "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "chainId": 43114,
+      "hashLoading": false
+    }
+  },
+  "505_6": {
+    "type": 6,
+    "title": "",
+    "timestamp": null,
+    "addresses": null,
+    "txInfo": {
+      "id": 505,
+      "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "chainId": 1,
+      "hashLoading": false
+    }
+  },
+  "505_7": {
+    "type": 7,
+    "title": "",
+    "timestamp": 1784309855,
+    "addresses": null,
+    "txInfo": {
+      "id": 505,
+      "hash": "0x90c3714a960da55f57611d2211ed0e7752fba29ec237a116e11c80de78104c15",
+      "chainId": 1,
+      "hashLoading": false
+    }
+  },
+  "505_8": {
+    "type": 8,
+    "title": "",
+    "timestamp": 1784309891,
+    "addresses": null,
+    "txInfo": {
+      "id": 505,
+      "hash": "0x80b91edbcd1e860e5872c4c188a2811f2d1b583418a170fb0635c7b1bf299e9e",
+      "chainId": 1,
+      "hashLoading": false
+    }
+  },
+  "505_9_455_1": {
+    "type": 9,
+    "title": "",
+    "timestamp": 1784309891,
+    "addresses": null,
+    "txInfo": {
+      "id": 455,
+      "hash": "0x80b91edbcd1e860e5872c4c188a2811f2d1b583418a170fb0635c7b1bf299e9e",
+      "chainId": 1,
+      "hashLoading": false
+    }
+  },
+  "505_9_456_1": {
+    "type": 9,
+    "title": "",
+    "timestamp": 1784309891,
+    "addresses": null,
+    "txInfo": {
+      "id": 456,
+      "hash": "0x80b91edbcd1e860e5872c4c188a2811f2d1b583418a170fb0635c7b1bf299e9e",
+      "chainId": 1,
+      "hashLoading": false
+    }
+  },
+  "505_9_131_42161": {
+    "type": 9,
+    "title": "",
+    "timestamp": 1784310371,
+    "addresses": null,
+    "txInfo": {
+      "id": 131,
+      "hash": "0x1c7b54a252af8370b01521e256bd691993dda807a49dc5bf78a4d91a85de4bde",
+      "chainId": 42161,
+      "hashLoading": false
+    }
+  },
+  "505_9_132_42161": {
+    "type": 9,
+    "title": "",
+    "timestamp": 1784310371,
+    "addresses": null,
+    "txInfo": {
+      "id": 132,
+      "hash": "0xd2e9dca233b325d13a51969597dc7084bd1e9395dc0d01ff075287360c5bf037",
+      "chainId": 42161,
+      "hashLoading": false
+    }
+  },
+  "505_9_119_43114": {
+    "type": 9,
+    "title": "",
+    "timestamp": 1784310776,
+    "addresses": null,
+    "txInfo": {
+      "id": 119,
+      "hash": "0x310b252765e94231aca7216edfe9ab5713308da4db843c3b90211aa71254ddfa",
+      "chainId": 43114,
+      "hashLoading": false
+    }
+  },
+  "505_9_111_8453": {
+    "type": 9,
+    "title": "",
+    "timestamp": 1784309947,
+    "addresses": null,
+    "txInfo": {
+      "id": 111,
+      "hash": "0xa9e1f12273826e66080cc22c407e85628a0dee33e7e2778387feea50b85f231e",
+      "chainId": 8453,
+      "hashLoading": false
+    }
+  },
+  "505_9_79_100": {
+    "type": 9,
+    "title": "",
+    "timestamp": 1784312010,
+    "addresses": null,
+    "txInfo": {
+      "id": 79,
+      "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "chainId": 100,
+      "hashLoading": false
+    }
+  },
+  "505_9_9_5000": {
+    "type": 9,
+    "title": "",
+    "timestamp": 1784309934,
+    "addresses": null,
+    "txInfo": {
+      "id": 9,
+      "hash": "0x65668eed07ac6281210d359f6e65e8e607c3dcca0c2a77fa6501cc6e5b6a7cbd",
+      "chainId": 5000,
+      "hashLoading": false
+    }
+  },
+  "505_9_32_9745": {
+    "type": 9,
+    "title": "",
+    "timestamp": 1784310804,
+    "addresses": null,
+    "txInfo": {
+      "id": 32,
+      "hash": "0xc55555128efa1c1a368dd9922af11cbcfdf860f6bf4b56a42d69bbdf19da202f",
+      "chainId": 9745,
+      "hashLoading": false
+    }
+  },
+  "505_9_7_196": {
+    "type": 9,
+    "title": "",
+    "timestamp": 1784309958,
+    "addresses": null,
+    "txInfo": {
+      "id": 7,
+      "hash": "0x5f56f18880683fe2ee5f03aee38de2e8e61bf6dda11b4d8eac517c92d54f5eb2",
+      "chainId": 196,
+      "hashLoading": false
+    }
+  },
+  "505_9_6_57073": {
+    "type": 9,
+    "title": "",
+    "timestamp": 1784309954,
+    "addresses": null,
+    "txInfo": {
+      "id": 6,
+      "hash": "0x05a8afec14aa0cd07666d10322b4e47ede2e9d4f3e38ca534dce9fa35d7632ac",
+      "chainId": 57073,
+      "hashLoading": false
+    }
+  },
+  "505_9_3_143": {
+    "type": 9,
+    "title": "",
+    "timestamp": 1784310793,
+    "addresses": null,
+    "txInfo": {
+      "id": 3,
+      "hash": "0x095e7d4e710b63ec7d4d7330ad70265fa5348c69faa7a7209d7c3ae3261055b0",
+      "chainId": 143,
+      "hashLoading": false
+    }
   }
 }

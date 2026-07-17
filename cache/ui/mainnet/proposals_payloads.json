@@ -7471,6 +7471,28 @@
         "chainId": 143,
         "payloadsController": "0x442CA936e5E6Db875357d0A16481145c96dd9a82"
       }
+    ],
+    "506": [
+      {
+        "id": 457,
+        "chainId": 1,
+        "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5"
+      },
+      {
+        "id": 120,
+        "chainId": 43114,
+        "payloadsController": "0x1140CB7CAfAcC745771C2Ea31e7B5C653c5d0B80"
+      },
+      {
+        "id": 80,
+        "chainId": 100,
+        "payloadsController": "0x9A1F491B86D09fC1484b5fab10041B189B60756b"
+      },
+      {
+        "id": 10,
+        "chainId": 5000,
+        "payloadsController": "0xF089f77173A3009A98c45f49D547BF714A7B1e01"
+      }
     ]
   }
 }

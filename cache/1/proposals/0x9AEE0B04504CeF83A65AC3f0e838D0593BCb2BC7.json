@@ -17275,19 +17275,19 @@
     "isFinished": true
   },
   "505": {
-    "state": 2,
+    "state": 4,
     "accessLevel": 1,
     "creationTime": 1783962923,
     "votingDuration": 259200,
     "votingActivationTime": 1784049443,
-    "queuingTime": 0,
+    "queuingTime": 1784309855,
     "cancelTimestamp": 0,
     "creator": "0x2cc1ADE245020FC5AAE66Ad443e1F66e01c54Df1",
     "votingPortal": "0x9Ded9406f088C10621BE628EEFf40c1DF396c172",
     "snapshotBlockHash": "0xef3feadf8e90564f0ce414aa6abb4ccecc47ecb5a6664256d1ecaa41f9d52477",
     "ipfsHash": "0xeaacf387e3ff269cbad703f33592df21f2dab8c0832db93ec70d668ac0a38bc3",
-    "forVotes": "0",
-    "againstVotes": "0",
+    "forVotes": "383099832294079954244599",
+    "againstVotes": "7184952518361396706",
     "cancellationFee": "50000000000000000",
     "payloads": [
       {
@@ -17361,6 +17361,49 @@
         "accessLevel": 1,
         "payloadsController": "0x442CA936e5E6Db875357d0A16481145c96dd9a82",
         "payloadId": 3
+      }
+    ],
+    "isFinished": false
+  },
+  "506": {
+    "state": 1,
+    "accessLevel": 1,
+    "creationTime": 1784304443,
+    "votingDuration": 0,
+    "votingActivationTime": 0,
+    "queuingTime": 0,
+    "cancelTimestamp": 0,
+    "creator": "0x66a28531E6f390A8CD44aB0C57a0F1aeb7E673FF",
+    "votingPortal": "0x9Ded9406f088C10621BE628EEFf40c1DF396c172",
+    "snapshotBlockHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "ipfsHash": "0x8d87c61555303520cc704b3d054e77a8dea8d37178b992cc11fc4acb570ef6b6",
+    "forVotes": "0",
+    "againstVotes": "0",
+    "cancellationFee": "50000000000000000",
+    "payloads": [
+      {
+        "chain": "1",
+        "accessLevel": 1,
+        "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5",
+        "payloadId": 457
+      },
+      {
+        "chain": "43114",
+        "accessLevel": 1,
+        "payloadsController": "0x1140CB7CAfAcC745771C2Ea31e7B5C653c5d0B80",
+        "payloadId": 120
+      },
+      {
+        "chain": "100",
+        "accessLevel": 1,
+        "payloadsController": "0x9A1F491B86D09fC1484b5fab10041B189B60756b",
+        "payloadId": 80
+      },
+      {
+        "chain": "5000",
+        "accessLevel": 1,
+        "payloadsController": "0xF089f77173A3009A98c45f49D547BF714A7B1e01",
+        "payloadId": 10
       }
     ],
     "isFinished": false
