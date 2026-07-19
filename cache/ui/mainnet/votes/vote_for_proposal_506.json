@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 506,
+      "address": "0x9F620cCbcb854f15575bCEFFfC41DAc3173f2b48",
+      "support": true,
+      "votingPower": 1.7409874904728497,
+      "transactionHash": "0x8515a725f73a8cdc182797ba3792f16065681242de8241cbe2536f82c91002a5",
+      "blockNumber": 90702303,
+      "chainId": 43114,
+      "ensName": "donjohnofaustria.eth"
+    },
+    {
+      "proposalId": 506,
       "address": "0x089ACc703D9Fd8b14d6E03D4D38561C1d4672dFd",
       "support": true,
       "votingPower": 5,
