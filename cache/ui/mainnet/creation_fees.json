@@ -3555,9 +3555,9 @@
       },
       "506": {
         "proposalId": 506,
-        "proposalStatus": 1,
+        "proposalStatus": 2,
         "ipfsHash": "0x8d87c61555303520cc704b3d054e77a8dea8d37178b992cc11fc4acb570ef6b6",
-        "status": 0,
+        "status": 1,
         "title": "Aave V3 LTV and E-Mode Update"
       }
     }
