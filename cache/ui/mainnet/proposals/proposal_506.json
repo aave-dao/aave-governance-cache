@@ -3,10 +3,10 @@
     {
       "creator": "0xC0E08164023406b322c6f9DfF7312F5693aE386F",
       "maximumAccessLevelRequired": 1,
-      "state": 2,
+      "state": 3,
       "createdAt": 1784100767,
       "queuedAt": 1784650499,
-      "executedAt": 0,
+      "executedAt": 1784736935,
       "cancelledAt": 0,
       "expirationTime": 1787124767,
       "delay": 86400,
@@ -36,10 +36,10 @@
     {
       "creator": "0xC0E08164023406b322c6f9DfF7312F5693aE386F",
       "maximumAccessLevelRequired": 1,
-      "state": 2,
+      "state": 3,
       "createdAt": 1784103217,
       "queuedAt": 1784650708,
-      "executedAt": 0,
+      "executedAt": 1784737147,
       "cancelledAt": 0,
       "expirationTime": 1787127217,
       "delay": 86400,
@@ -61,10 +61,10 @@
     {
       "creator": "0xC0E08164023406b322c6f9DfF7312F5693aE386F",
       "maximumAccessLevelRequired": 1,
-      "state": 2,
+      "state": 3,
       "createdAt": 1784103345,
       "queuedAt": 1784650735,
-      "executedAt": 0,
+      "executedAt": 1784737185,
       "cancelledAt": 0,
       "expirationTime": 1787127345,
       "delay": 86400,
@@ -86,10 +86,10 @@
     {
       "creator": "0xC0E08164023406b322c6f9DfF7312F5693aE386F",
       "maximumAccessLevelRequired": 1,
-      "state": 2,
+      "state": 3,
       "createdAt": 1784103448,
       "queuedAt": 1784650544,
-      "executedAt": 0,
+      "executedAt": 1784737000,
       "cancelledAt": 0,
       "expirationTime": 1787127448,
       "delay": 86400,
@@ -175,8 +175,8 @@
       ],
       "hasRequiredRoots": true
     },
-    "isFinished": false,
-    "lastUpdatedTimestamp": 1784734523,
+    "isFinished": true,
+    "lastUpdatedTimestamp": 1784745086,
     "cancellationFee": 50000000000000000
   }
 }
