@@ -148441,5 +148441,29 @@
     "logIndex": 0,
     "removed": false,
     "blockTimestamp": null
+  },
+  {
+    "eventName": "VoteEmitted",
+    "args": {
+      "proposalId": "507",
+      "voter": "0x4D26f0e78C154f8FDA7AcF6646246Fa135507017",
+      "support": true,
+      "votingPower": "630021119392396812877"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x0c611e7b6ae0de26f4772260e1bbdb5f58cbb7c275fe2de14671968d29add8d6",
+      "0x00000000000000000000000000000000000000000000000000000000000001fb",
+      "0x0000000000000000000000004d26f0e78c154f8fda7acf6646246fa135507017",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x000000000000000000000000000000000000000000000022274ca617a9c7224d",
+    "blockNumber": "91138250",
+    "transactionHash": "0x752787f33936b66629bb3eced9ff40e9ed3c97b8c67ec28ee2ae54efdaf7ead3",
+    "transactionIndex": 22,
+    "blockHash": "0xf19bc70a8d3d66240f3bc1e64a4fb4f87fea8d5c36a3108c461d80ccf3b5845f",
+    "logIndex": 36,
+    "removed": false,
+    "blockTimestamp": null
   }
 ]
