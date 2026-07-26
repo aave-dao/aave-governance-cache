@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 507,
+      "address": "0xD8deA87ddcC0c3C1464Ded6102e4D3E829d0aE41",
+      "support": true,
+      "votingPower": 0.01164031712984093,
+      "transactionHash": "0x38a6fbc4050b7782c932ac3c41d5a1248ad0c4867fd9e1aef625fb208a3e4ac6",
+      "blockNumber": 91282905,
+      "chainId": 43114,
+      "ensName": "taiyaki.eth"
+    },
+    {
+      "proposalId": 507,
       "address": "0x8b37a5Af68D315cf5A64097D96621F64b5502a22",
       "support": true,
       "votingPower": 75925.73242588,
