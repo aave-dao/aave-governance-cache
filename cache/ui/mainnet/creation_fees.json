@@ -3557,15 +3557,22 @@
         "proposalId": 504,
         "proposalStatus": 4,
         "ipfsHash": "0xe0fba622cdbc89248799e581a9305743e595053b35ae35c3ec4e2f4338271311",
-        "status": 1,
+        "status": 2,
         "title": "Aave V4 Avalanche Activation"
       },
       "506": {
         "proposalId": 506,
         "proposalStatus": 4,
         "ipfsHash": "0x8d87c61555303520cc704b3d054e77a8dea8d37178b992cc11fc4acb570ef6b6",
-        "status": 1,
+        "status": 2,
         "title": "Aave V3 LTV and E-Mode Update"
+      },
+      "508": {
+        "proposalId": 508,
+        "proposalStatus": 0,
+        "ipfsHash": "0x9481f78c3d1809cff590bc861e58a10b6ec2199bcd6c273ee16a822d63f6e3b5",
+        "status": 0,
+        "title": "[Direct to AIP] Onboard syrupUSDG on Aave V4 Global Dollar Hub"
       }
     }
   }
