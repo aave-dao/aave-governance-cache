@@ -1,3 +1,34 @@
 {
-  "votes": []
+  "votes": [
+    {
+      "proposalId": 508,
+      "address": "0x3DDC7d25c7a1dc381443e491Bbf1Caa8928A05B0",
+      "support": true,
+      "votingPower": 102.38438248009592,
+      "transactionHash": "0x5e63ab7c8024c4ef5bb4e9bde608bd3bf986de0d159769035c40d4fefbfd51f5",
+      "blockNumber": 91507756,
+      "chainId": 43114,
+      "ensName": "ignasdefi.eth"
+    },
+    {
+      "proposalId": 508,
+      "address": "0x3320756d61303284B8012A660Ee185C58EDd3BB7",
+      "support": true,
+      "votingPower": 107243.98459054,
+      "transactionHash": "0x37dbcc1c9edec1757e6c0e7e2a9eb2ca1defdd853fb4b612a4ea843bd3d0ce94",
+      "blockNumber": 91505676,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 508,
+      "address": "0xBcF0fD9C42cC8Cb2060C4930D2c1d277f18146a5",
+      "support": false,
+      "votingPower": 7.1849525183613965,
+      "transactionHash": "0x14f85fa713bef30318a743d749eb58178945c4a7be298df7c3dfa546d6a7e365",
+      "blockNumber": 91504229,
+      "chainId": 43114,
+      "ensName": "驴蠢是哒念来过倒.eth"
+    }
+  ]
 }
