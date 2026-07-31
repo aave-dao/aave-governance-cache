@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 508,
+      "address": "0x53Da33F96ecFFE1CDf3842883c9ba3ba3b49c14B",
+      "support": true,
+      "votingPower": 0.04338736836242806,
+      "transactionHash": "0xfc8e36ae5fe85d8a473555986499319ffc733199f7463561a0da9b9c8d492de5",
+      "blockNumber": 91687971,
+      "chainId": 43114,
+      "ensName": "rlytrue.eth"
+    },
+    {
+      "proposalId": 508,
       "address": "0x8b37a5Af68D315cf5A64097D96621F64b5502a22",
       "support": true,
       "votingPower": 75925.73242588,
