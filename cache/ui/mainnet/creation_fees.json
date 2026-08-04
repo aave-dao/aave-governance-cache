@@ -3252,9 +3252,9 @@
       },
       "509": {
         "proposalId": 509,
-        "proposalStatus": 1,
+        "proposalStatus": 2,
         "ipfsHash": "0x9920cefbc4ba45192811c987c45e000b1817505e44e8f767737a42ac633192db",
-        "status": 0,
+        "status": 1,
         "title": "Remote GSM Launch: Monad"
       }
     },
