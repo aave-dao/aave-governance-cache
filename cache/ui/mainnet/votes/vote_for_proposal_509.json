@@ -2,6 +2,56 @@
   "votes": [
     {
       "proposalId": 509,
+      "address": "0xC0d6C3AB0794D3e4C9025aDD68c777Eb8cc8b802",
+      "support": true,
+      "votingPower": 20185.0000024284,
+      "transactionHash": "0x957b206e883de0f199acfcb622e5971d5e8f29a4d71d4a5b7d632ed707c55a2e",
+      "blockNumber": 91995292,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 509,
+      "address": "0xBcF0fD9C42cC8Cb2060C4930D2c1d277f18146a5",
+      "support": false,
+      "votingPower": 7.1849525183613965,
+      "transactionHash": "0x45e789d311674d775e4705fb65d9167436a5071f29b2d415cdb56255ae2d62a3",
+      "blockNumber": 91988894,
+      "chainId": 43114,
+      "ensName": "驴蠢是哒念来过倒.eth"
+    },
+    {
+      "proposalId": 509,
+      "address": "0x8b37a5Af68D315cf5A64097D96621F64b5502a22",
+      "support": true,
+      "votingPower": 75925.73242588,
+      "transactionHash": "0x31bcfa94b1a988f02caeeb0498ef83eba92cb1de2390d7507692b9d7c2b12629",
+      "blockNumber": 91988712,
+      "chainId": 43114,
+      "ensName": "aretagov.eth"
+    },
+    {
+      "proposalId": 509,
+      "address": "0x7c4b8BfBf1a92D745593a75d0b8Cf6D324d48101",
+      "support": true,
+      "votingPower": 0.10605440750186457,
+      "transactionHash": "0x987378fc1a218673ce2fe2f93eadbba15591183f58b10ea8ad3bcfd9d2c2dc0c",
+      "blockNumber": 91985765,
+      "chainId": 43114,
+      "ensName": "enzhongrushan.eth"
+    },
+    {
+      "proposalId": 509,
+      "address": "0x412E4f88c007a23B44a2f9CDa46A923f90b9aD54",
+      "support": true,
+      "votingPower": 0.10846934858596749,
+      "transactionHash": "0xdcc443c8da03ded7656e7367c2245f38cca7370182e83aba157a6a417300b08b",
+      "blockNumber": 91985709,
+      "chainId": 43114,
+      "ensName": "youaremyeverything.eth"
+    },
+    {
+      "proposalId": 509,
       "address": "0xd10F1A1C8e7a59733Ed7b1B55753E34E139D608C",
       "support": true,
       "votingPower": 0.10363944555,
