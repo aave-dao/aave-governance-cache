@@ -113,12 +113,14 @@ async function updatePayloadsEvents(
 }
 
 async function updatePayloadsData(
-  controllers: Map<Address, number>,
+  // keyed by `${chainId}_${controller}` because payloads controllers are
+  // deployed to the same address on multiple chains
+  controllers: Map<string, { controller: Address; chainId: number }>,
   bookKeepingCache: BookKeepingCache,
   secondTime?: boolean,
 ) {
   return await Promise.all(
-    Array.from(controllers).map(async ([controller, chainId]) => {
+    Array.from(controllers.values()).map(async ({ controller, chainId }) => {
       const payloadsPath = `${chainId}/payloads`;
       const payloadsCache =
         readJSONCache<PayloadsCache>(payloadsPath, controller) || {};
@@ -355,9 +357,18 @@ export async function updateCache({
         Number(proposalsCache[id].cancellationFee) > 0
       ) {
         const proposalData = await govCore.read.getProposal([BigInt(id)]);
-        const controllers = new Map<Address, number>();
+        const controllers = new Map<
+          string,
+          { controller: Address; chainId: number }
+        >();
         proposalData.payloads.map((payload) =>
-          controllers.set(payload.payloadsController, Number(payload.chain)),
+          controllers.set(
+            `${Number(payload.chain)}_${payload.payloadsController}`,
+            {
+              controller: payload.payloadsController,
+              chainId: Number(payload.chain),
+            },
+          ),
         );
         // update payloads cache
         const payloadsData = await updatePayloadsData(
@@ -416,10 +427,16 @@ export async function updateCache({
   });
   await updateVMEvents(govCoreChainId, votingPortals, bookKeepingCache);
   // update payloads data for payloads that not in proposals and all payloads events
-  const controllers = new Map<Address, number>();
+  const controllers = new Map<
+    string,
+    { controller: Address; chainId: number }
+  >();
   Object.values(proposalsCache).forEach((proposal) => {
     proposal.payloads.map((payload) =>
-      controllers.set(payload.payloadsController, Number(payload.chain)),
+      controllers.set(`${Number(payload.chain)}_${payload.payloadsController}`, {
+        controller: payload.payloadsController,
+        chainId: Number(payload.chain),
+      }),
     );
   });
   await updatePayloadsData(controllers, bookKeepingCache, true);
