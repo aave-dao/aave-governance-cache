@@ -3313,6 +3313,13 @@
       "ipfsHash": "0xa8e20e98a656582b6fe588cb99bc3e72fe76bc8810407b7d7ad14fbd2003cffd"
     },
     {
+      "id": 473,
+      "title": "Upgrade Aave instances to v3.7 Part 1",
+      "combineState": 4,
+      "finishedTimestamp": 1776685070,
+      "ipfsHash": "0x812add4b4fcad057bac049fec938d5b5187be0ace246a7e336e5640e7a9c73d6"
+    },
+    {
       "id": 474,
       "title": "GHO Inclusion into E-Modes on Aave V3 Plasma",
       "combineState": 4,
@@ -3416,6 +3423,13 @@
       "combineState": 4,
       "finishedTimestamp": 1779877895,
       "ipfsHash": "0x6d81dd9fc20a79167fa58571ee5738f5b745d21e4855cc42215e792fa537bef9"
+    },
+    {
+      "id": 489,
+      "title": "Upgrade Aave instances to v3.7 Part 2",
+      "combineState": 4,
+      "finishedTimestamp": 1780046775,
+      "ipfsHash": "0x1771282791a2769a488791be8160020ac408bc74fa67ca7f107cab87a730b240"
     },
     {
       "id": 490,
