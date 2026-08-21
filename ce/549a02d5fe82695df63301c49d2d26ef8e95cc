@@ -1,0 +1,22 @@
+src/governance-ui-helpers/formatProposal.ts
+  s_ae93e103ce4f8a::t_1c1a5938c6468b 127-131,134-136
+src/scripts/parse-cache.ts
+  s_ae93e103ce4f8a::t_66006c58d3d66e 332-334
+  s_ae93e103ce4f8a::t_b239d4069ebfb6 591
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "ce549a02d5fe82695df63301c49d2d26ef8e95cc",
+  "prompts": {},
+  "sessions": {
+    "s_ae93e103ce4f8a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aae31cea-76ff-429b-aefb-c727194f2871",
+        "model": "claude-fable-5"
+      },
+      "human_author": "DhairyaSethi <55102840+DhairyaSethi@users.noreply.github.com>"
+    }
+  }
+}
