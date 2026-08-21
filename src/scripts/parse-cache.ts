@@ -329,6 +329,9 @@ async function parseProposalEvents(
 
     // PAYLOADS_CREATED
     formattedProposalData.payloads.forEach((payload) => {
+      if (!payload) {
+        return;
+      }
       const historyId = `${formattedProposalData.id}_${HistoryItemType.PAYLOADS_CREATED}_${payload.id}_${payload.chainId}`;
 
       const eventsPath = `${payload.chainId}/events`;
@@ -585,7 +588,7 @@ async function parseProposalEvents(
       )
     ) {
       formattedProposalData.payloads.forEach((payload) => {
-        if (payload.state === PayloadState.Expired) {
+        if (payload?.state === PayloadState.Expired) {
           const historyId = `${formattedProposalData.id}_${HistoryItemType.PAYLOADS_EXPIRED}_${payload.id}_${payload.chainId}`;
           setEvent({
             historyId,
