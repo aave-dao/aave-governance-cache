@@ -3578,8 +3578,22 @@
         "proposalId": 508,
         "proposalStatus": 4,
         "ipfsHash": "0x9481f78c3d1809cff590bc861e58a10b6ec2199bcd6c273ee16a822d63f6e3b5",
-        "status": 1,
+        "status": 2,
         "title": "[Direct to AIP] Onboard syrupUSDG on Aave V4 Global Dollar Hub"
+      },
+      "510": {
+        "proposalId": 510,
+        "proposalStatus": 0,
+        "ipfsHash": "0x930389ba890be55ab5df4f1cacb495f736761518aec465769ebd2cd99fb9a7a0",
+        "status": 0,
+        "title": "Maintenance: Grant AL RETRY_ROLE on a.DI (Part 1)"
+      },
+      "511": {
+        "proposalId": 511,
+        "proposalStatus": 0,
+        "ipfsHash": "0x489606b509d5440dcd3684903b8edeadb90a1e9669113b8c8a470c57ae2f836d",
+        "status": 0,
+        "title": "Risk Stewards Cooldown Reduction & Umbrella Pauser Role Reassignment"
       }
     }
   }
