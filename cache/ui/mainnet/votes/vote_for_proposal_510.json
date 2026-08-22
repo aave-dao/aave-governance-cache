@@ -2,6 +2,36 @@
   "votes": [
     {
       "proposalId": 510,
+      "address": "0xA97CA732232Cd2ACaB9038a1943fe2A79FA1cCc8",
+      "support": true,
+      "votingPower": 0.034704525404803205,
+      "transactionHash": "0x9e5bbefa1802906662d806337e16d7d733eccf9b7a168adbac3797e12337c452",
+      "blockNumber": 93429906,
+      "chainId": 43114,
+      "ensName": "wecreateproject.eth"
+    },
+    {
+      "proposalId": 510,
+      "address": "0x8bB9D5908cdCe82915A847Fbb34fd93e1E50CCc2",
+      "support": true,
+      "votingPower": 1.1099234570799132,
+      "transactionHash": "0x5011e60f78260bb8e01841906c6f27388b60f500de29971790faf5f02ffd9bdf",
+      "blockNumber": 93428487,
+      "chainId": 43114,
+      "ensName": "tatarka.eth"
+    },
+    {
+      "proposalId": 510,
+      "address": "0x13d6A6693d0ea39D0C8d216388977c144C7c581C",
+      "support": true,
+      "votingPower": 30.84897134,
+      "transactionHash": "0x9b407c599394bc28b582af2c1fd2352bd67a5f3b8d63237805c6f5123e97fb52",
+      "blockNumber": 93426845,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 510,
       "address": "0x616Ed83D247FC2a90B247852a0895F9Ed4a3Db0f",
       "support": true,
       "votingPower": 0.10270366354994634,

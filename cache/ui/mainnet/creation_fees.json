@@ -3604,7 +3604,7 @@
       },
       "511": {
         "proposalId": 511,
-        "proposalStatus": 0,
+        "proposalStatus": 1,
         "ipfsHash": "0x489606b509d5440dcd3684903b8edeadb90a1e9669113b8c8a470c57ae2f836d",
         "status": 0,
         "title": "Risk Stewards Cooldown Reduction & Umbrella Pauser Role Reassignment"

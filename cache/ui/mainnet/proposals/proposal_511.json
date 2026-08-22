@@ -553,16 +553,16 @@
     "votingChainId": 43114,
     "votingMachineData": {
       "id": 511,
-      "forVotes": "0",
+      "forVotes": "1144627982484716485",
       "againstVotes": "0",
-      "startTime": 0,
-      "endTime": 0,
+      "startTime": 1787411212,
+      "endTime": 1787670412,
       "votingClosedAndSentBlockNumber": 0,
       "votingClosedAndSentTimestamp": 0,
-      "l1BlockHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "l1BlockHash": "0xe00ca69f714bf81da27c2425e107006688fc77fed9d57a4d8ae94c150e85a8b7",
       "strategy": "0x6771B74568181f6042C9e5CFF98f62e7Ce40482e",
       "sentToGovernance": false,
-      "createdBlock": 0,
+      "createdBlock": 93426022,
       "votedInfo": {
         "support": false,
         "votingPower": "0"
@@ -575,7 +575,7 @@
       "hasRequiredRoots": true
     },
     "isFinished": false,
-    "lastUpdatedTimestamp": 1787411186,
+    "lastUpdatedTimestamp": 1787422045,
     "cancellationFee": 50000000000000000
   }
 }
