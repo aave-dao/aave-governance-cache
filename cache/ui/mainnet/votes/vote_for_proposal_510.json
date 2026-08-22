@@ -1,3 +1,14 @@
 {
-  "votes": []
+  "votes": [
+    {
+      "proposalId": 510,
+      "address": "0x616Ed83D247FC2a90B247852a0895F9Ed4a3Db0f",
+      "support": true,
+      "votingPower": 0.10270366354994634,
+      "transactionHash": "0xd982aab141cb8dd329333f2ed1ca4341d4e8faf10313c569a9f60672f8eed624",
+      "blockNumber": 93420485,
+      "chainId": 43114,
+      "ensName": "yishengsuoai.eth"
+    }
+  ]
 }

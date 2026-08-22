@@ -456,7 +456,7 @@
     "votingDuration": 259200,
     "creationTime": 1787323739,
     "accessLevel": 1,
-    "state": 1,
+    "state": 2,
     "queuingTime": 0,
     "ipfsHash": "0x489606b509d5440dcd3684903b8edeadb90a1e9669113b8c8a470c57ae2f836d",
     "initialPayloads": [
@@ -546,10 +546,10 @@
         "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
       }
     ],
-    "snapshotBlockHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "snapshotBlockHash": "0xe00ca69f714bf81da27c2425e107006688fc77fed9d57a4d8ae94c150e85a8b7",
     "creator": "0x66a28531E6f390A8CD44aB0C57a0F1aeb7E673FF",
     "canceledAt": 0,
-    "votingActivationTime": 0,
+    "votingActivationTime": 1787410211,
     "votingChainId": 43114,
     "votingMachineData": {
       "id": 511,
@@ -572,10 +572,10 @@
         "0x4da27a545c0c5B758a6BA100e3a049001de870f5",
         "0xA700b4eB416Be35b2911fd5Dee80678ff64fF6C9"
       ],
-      "hasRequiredRoots": false
+      "hasRequiredRoots": true
     },
     "isFinished": false,
-    "lastUpdatedTimestamp": 1787400537,
+    "lastUpdatedTimestamp": 1787411186,
     "cancellationFee": 50000000000000000
   }
 }

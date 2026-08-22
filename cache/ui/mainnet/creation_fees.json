@@ -3597,7 +3597,7 @@
       },
       "510": {
         "proposalId": 510,
-        "proposalStatus": 0,
+        "proposalStatus": 1,
         "ipfsHash": "0x930389ba890be55ab5df4f1cacb495f736761518aec465769ebd2cd99fb9a7a0",
         "status": 0,
         "title": "Maintenance: Grant AL RETRY_ROLE on a.DI (Part 1)"
