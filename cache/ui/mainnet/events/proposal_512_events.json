@@ -94,5 +94,29 @@
       "chainId": 1,
       "hashLoading": false
     }
+  },
+  "512_2": {
+    "type": 2,
+    "title": "",
+    "timestamp": 1787440631,
+    "addresses": null,
+    "txInfo": {
+      "id": 512,
+      "hash": "0x8948116780c287328397049cf01187fc9a23c817784fda558f231e16d2ce21e0",
+      "chainId": 1,
+      "hashLoading": false
+    }
+  },
+  "512_3": {
+    "type": 3,
+    "title": "",
+    "timestamp": 1787440834,
+    "addresses": null,
+    "txInfo": {
+      "id": 512,
+      "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "chainId": 43114,
+      "hashLoading": false
+    }
   }
 }

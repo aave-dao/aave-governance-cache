@@ -3259,14 +3259,14 @@
       },
       "512": {
         "proposalId": 512,
-        "proposalStatus": 0,
+        "proposalStatus": 1,
         "ipfsHash": "0xd5576176d6058da221ef47e5e4900af23212c2d5d5f032c8393a722bb0ddba3d",
         "status": 0,
         "title": "July 2026 Funding Update"
       },
       "513": {
         "proposalId": 513,
-        "proposalStatus": 0,
+        "proposalStatus": 1,
         "ipfsHash": "0x8490d22bb1d57bcd96f3721d66065a96a83897787899434739920f2430af26be",
         "status": 0,
         "title": "Asset Listing - Pendle PT-AUSD Monad"
