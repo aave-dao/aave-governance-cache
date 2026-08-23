@@ -150274,5 +150274,53 @@
     "logIndex": 2,
     "removed": false,
     "blockTimestamp": null
+  },
+  {
+    "eventName": "VoteEmitted",
+    "args": {
+      "proposalId": "510",
+      "voter": "0xffBD909995b4eCb9E4804e8f3335DE642bfEEB75",
+      "support": true,
+      "votingPower": "1453345317444107881058"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x0c611e7b6ae0de26f4772260e1bbdb5f58cbb7c275fe2de14671968d29add8d6",
+      "0x00000000000000000000000000000000000000000000000000000000000001fe",
+      "0x000000000000000000000000ffbd909995b4ecb9e4804e8f3335de642bfeeb75",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x00000000000000000000000000000000000000000000004ec937ca0fd95fca62",
+    "blockNumber": "93460942",
+    "transactionHash": "0xc0c63da4908e711dc9bb90a101d7a402fd8560e9471f63c91262c2c59c82be46",
+    "transactionIndex": 5,
+    "blockHash": "0x4769bc29d3fd3ec78e36f57517511d22f16d8e6d5eb2758766aad7e8bc2c7dfa",
+    "logIndex": 4,
+    "removed": false,
+    "blockTimestamp": null
+  },
+  {
+    "eventName": "VoteEmitted",
+    "args": {
+      "proposalId": "511",
+      "voter": "0x616Ed83D247FC2a90B247852a0895F9Ed4a3Db0f",
+      "support": true,
+      "votingPower": "102703663549946346"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x0c611e7b6ae0de26f4772260e1bbdb5f58cbb7c275fe2de14671968d29add8d6",
+      "0x00000000000000000000000000000000000000000000000000000000000001ff",
+      "0x000000000000000000000000616ed83d247fc2a90b247852a0895f9ed4a3db0f",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x000000000000000000000000000000000000000000000000016ce070170699ea",
+    "blockNumber": "93466000",
+    "transactionHash": "0x78f96358dd0c15d8e031665cc50f3da0aaa72f4264ac4398ff0e613e04206292",
+    "transactionIndex": 45,
+    "blockHash": "0xd34014f233287f4667789d8ba9194ff1850a76908f6badc7fdddbc0fb767ab3c",
+    "logIndex": 46,
+    "removed": false,
+    "blockTimestamp": null
   }
 ]
