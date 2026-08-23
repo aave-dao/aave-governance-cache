@@ -1,3 +1,14 @@
 {
-  "votes": []
+  "votes": [
+    {
+      "proposalId": 513,
+      "address": "0x6c2E47aCA7F7E23F3cE8f1606CFaa157b5583C04",
+      "support": true,
+      "votingPower": 0.3588667215376069,
+      "transactionHash": "0x97a7e7688556908eefef645ad02e5d6b9a1670d3f3560f07b40b8f9fee95b538",
+      "blockNumber": 93466413,
+      "chainId": 43114,
+      "ensName": "manmanwuxian.eth"
+    }
+  ]
 }

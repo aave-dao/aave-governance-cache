@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 510,
+      "address": "0xF41C7a208156B46C89e028412Dca41d1F05feDE8",
+      "support": true,
+      "votingPower": 0.11118108230061667,
+      "transactionHash": "0xc8c6572cfe79af36ee2257f09a7f0d84733a4be0d1ae3881cd98f191bdc80fcb",
+      "blockNumber": 93466263,
+      "chainId": 43114,
+      "ensName": "mariaarredondo.eth"
+    },
+    {
+      "proposalId": 510,
       "address": "0xffBD909995b4eCb9E4804e8f3335DE642bfEEB75",
       "support": true,
       "votingPower": 1453.3453174441079,
