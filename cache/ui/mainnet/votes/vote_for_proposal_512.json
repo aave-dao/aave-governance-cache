@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 512,
+      "address": "0xA97CA732232Cd2ACaB9038a1943fe2A79FA1cCc8",
+      "support": true,
+      "votingPower": 0.034704525404803205,
+      "transactionHash": "0x4ac74e11f927ba89572c026c6eb478873399d51007acef10377f278aee09dc3d",
+      "blockNumber": 93528366,
+      "chainId": 43114,
+      "ensName": "wecreateproject.eth"
+    },
+    {
+      "proposalId": 512,
       "address": "0x5FfAb78c866ff9f36281Bf3B615A66AA25541908",
       "support": true,
       "votingPower": 19.400467532609643,
