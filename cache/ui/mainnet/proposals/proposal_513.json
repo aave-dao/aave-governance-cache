@@ -58,7 +58,7 @@
     "votingMachineData": {
       "id": 513,
       "forVotes": "63742828415488710601574",
-      "againstVotes": "0",
+      "againstVotes": "7206030870003091598",
       "startTime": 1787441959,
       "endTime": 1787701159,
       "votingClosedAndSentBlockNumber": 0,
@@ -79,7 +79,7 @@
       "hasRequiredRoots": true
     },
     "isFinished": false,
-    "lastUpdatedTimestamp": 1787552357,
+    "lastUpdatedTimestamp": 1787563247,
     "cancellationFee": 50000000000000000
   }
 }
