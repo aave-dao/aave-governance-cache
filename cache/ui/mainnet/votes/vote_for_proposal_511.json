@@ -2,6 +2,26 @@
   "votes": [
     {
       "proposalId": 511,
+      "address": "0x3676E9b6A38c5526eddA4a89763Dd97b5813574d",
+      "support": true,
+      "votingPower": 25000.4864,
+      "transactionHash": "0x1d0d7507a6acf31abbf5c87e60ef5e910e308a13411b946079966618d40fbbc0",
+      "blockNumber": 93583370,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 511,
+      "address": "0x3DDC7d25c7a1dc381443e491Bbf1Caa8928A05B0",
+      "support": true,
+      "votingPower": 101.35892127009592,
+      "transactionHash": "0xc2105c19ddecc224a12f13a04c04d242d6eacf7e3420ee690539c49649d54b7e",
+      "blockNumber": 93577211,
+      "chainId": 43114,
+      "ensName": "ignasdefi.eth"
+    },
+    {
+      "proposalId": 511,
       "address": "0x3320756d61303284B8012A660Ee185C58EDd3BB7",
       "support": true,
       "votingPower": 107243.98459054,
