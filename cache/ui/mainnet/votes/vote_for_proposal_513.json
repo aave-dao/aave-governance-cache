@@ -2,6 +2,46 @@
   "votes": [
     {
       "proposalId": 513,
+      "address": "0xfc9cCEd2f18F7C554Bbf82d48511Fa9f59483Db8",
+      "support": true,
+      "votingPower": 0.10614681622000001,
+      "transactionHash": "0xad551ce3d2716a8d032166e69db4a9abcbdbf1a4b5d09679e7bc93b178493813",
+      "blockNumber": 93543149,
+      "chainId": 43114,
+      "ensName": "thegirlfromyesterday.eth"
+    },
+    {
+      "proposalId": 513,
+      "address": "0x288AA428A8520E495f445E6931C582789c35BD4C",
+      "support": true,
+      "votingPower": 0.10827383141329697,
+      "transactionHash": "0x29e445e3c5cb572cfecce869fc5b1e56b7e204ab41b2f8922d07c29fa4824684",
+      "blockNumber": 93543045,
+      "chainId": 43114,
+      "ensName": "rightherewaiting.eth"
+    },
+    {
+      "proposalId": 513,
+      "address": "0x6B8F6c0C86e5eBDe5f1A257aEbF0E51716c825E9",
+      "support": true,
+      "votingPower": 0.1742605102953149,
+      "transactionHash": "0xdee6bace9e2205b684ddcb88fa89c7f489439502b18e03ef1681eb51e9a3689e",
+      "blockNumber": 93542955,
+      "chainId": 43114,
+      "ensName": "hh258.eth"
+    },
+    {
+      "proposalId": 513,
+      "address": "0x2F2F665974261C4129b1DC6c359BD259CD66f78A",
+      "support": true,
+      "votingPower": 0.1783128954771515,
+      "transactionHash": "0xe0217b5d6a95dbabeebea2c9c6f5183f9f9d7975a6d29e16f68092ec77bb41ff",
+      "blockNumber": 93540181,
+      "chainId": 43114,
+      "ensName": "0htjit.eth"
+    },
+    {
+      "proposalId": 513,
       "address": "0xA97CA732232Cd2ACaB9038a1943fe2A79FA1cCc8",
       "support": true,
       "votingPower": 0.034704525404803205,
