@@ -57,7 +57,7 @@
     "votingChainId": 43114,
     "votingMachineData": {
       "id": 513,
-      "forVotes": "63742785028120348173511",
+      "forVotes": "63742828415488710601574",
       "againstVotes": "0",
       "startTime": 1787441959,
       "endTime": 1787701159,
@@ -79,7 +79,7 @@
       "hasRequiredRoots": true
     },
     "isFinished": false,
-    "lastUpdatedTimestamp": 1787541897,
+    "lastUpdatedTimestamp": 1787552357,
     "cancellationFee": 50000000000000000
   }
 }
