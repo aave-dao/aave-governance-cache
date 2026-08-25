@@ -2,6 +2,36 @@
   "votes": [
     {
       "proposalId": 512,
+      "address": "0xcB15649D7B7a1eb01fb1ACD14809de6cF82Aa1A0",
+      "support": true,
+      "votingPower": 0.0011,
+      "transactionHash": "0xff71e108a03e9ec26bc2c653fe0022ca2ff603ff58ea6118c74d998b8e58daac",
+      "blockNumber": 93659568,
+      "chainId": 43114,
+      "ensName": "hememix.eth"
+    },
+    {
+      "proposalId": 512,
+      "address": "0x2cc1ADE245020FC5AAE66Ad443e1F66e01c54Df1",
+      "support": true,
+      "votingPower": 89295.11834097,
+      "transactionHash": "0xd1d4af0afb9786976efb92a3a4563db28b7153ae6a9542e82e76ec3cb653fbed",
+      "blockNumber": 93652083,
+      "chainId": 43114,
+      "ensName": "tokenlogic.eth"
+    },
+    {
+      "proposalId": 512,
+      "address": "0x284590a00c886Fbab3Fc92b9D8B458a3E282bcBa",
+      "support": true,
+      "votingPower": 227986.28260023,
+      "transactionHash": "0x69e82f1631469301090ef69af3f25b9f2f782ed60e3f12b6a79f07fce453b15a",
+      "blockNumber": 93651286,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 512,
       "address": "0xC0d6C3AB0794D3e4C9025aDD68c777Eb8cc8b802",
       "support": true,
       "votingPower": 20185.0000024284,
