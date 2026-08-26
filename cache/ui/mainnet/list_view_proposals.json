@@ -3570,6 +3570,20 @@
       "combineState": 4,
       "finishedTimestamp": 1785960902,
       "ipfsHash": "0x9920cefbc4ba45192811c987c45e000b1817505e44e8f767737a42ac633192db"
+    },
+    {
+      "id": 510,
+      "title": "Maintenance: Grant AL RETRY_ROLE on a.DI (Part 1)",
+      "combineState": 4,
+      "finishedTimestamp": 1787750088,
+      "ipfsHash": "0x930389ba890be55ab5df4f1cacb495f736761518aec465769ebd2cd99fb9a7a0"
+    },
+    {
+      "id": 511,
+      "title": "Risk Stewards Cooldown Reduction & Umbrella Pauser Role Reassignment",
+      "combineState": 4,
+      "finishedTimestamp": 1787758213,
+      "ipfsHash": "0x489606b509d5440dcd3684903b8edeadb90a1e9669113b8c8a470c57ae2f836d"
     }
   ]
 }
