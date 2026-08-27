@@ -2,6 +2,66 @@
   "votes": [
     {
       "proposalId": 514,
+      "address": "0x2cc1ADE245020FC5AAE66Ad443e1F66e01c54Df1",
+      "support": true,
+      "votingPower": 89268.06001977,
+      "transactionHash": "0x11c786a674061b949a5449f8db5239828776d0512a81fa5260d7274393598a03",
+      "blockNumber": 93796236,
+      "chainId": 43114,
+      "ensName": "tokenlogic.eth"
+    },
+    {
+      "proposalId": 514,
+      "address": "0x3320756d61303284B8012A660Ee185C58EDd3BB7",
+      "support": true,
+      "votingPower": 107243.98459054,
+      "transactionHash": "0x1bbdcd239590d620ce2de2a743fb4f8bda0e80a5a124acb945ef2a1506ac7e76",
+      "blockNumber": 93795387,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 514,
+      "address": "0xBcF0fD9C42cC8Cb2060C4930D2c1d277f18146a5",
+      "support": false,
+      "votingPower": 7.206030870003092,
+      "transactionHash": "0x7be7ec4bac703b6b5b7a37176a3e0018597fa7c3b89a4d2f0d2aef413e58d00c",
+      "blockNumber": 93791477,
+      "chainId": 43114,
+      "ensName": "驴蠢是哒念来过倒.eth"
+    },
+    {
+      "proposalId": 514,
+      "address": "0x3E51A14e55f55E6dbDAFe8C1EddE9cf3Bb020586",
+      "support": true,
+      "votingPower": 0.12698916680621358,
+      "transactionHash": "0xbcd882b0039750a2168233fee7e1fb8bf61483b155238e3bddb771540fb877d4",
+      "blockNumber": 93790341,
+      "chainId": 43114,
+      "ensName": "itmightbeyou.eth"
+    },
+    {
+      "proposalId": 514,
+      "address": "0x266ecCe1033a3B6189f215b619FcA00558599Cc0",
+      "support": true,
+      "votingPower": 0.10673530445520084,
+      "transactionHash": "0x96390782c22c30f99d880aeca570002fd01a811b0e929ce48197891a2f0c4702",
+      "blockNumber": 93789651,
+      "chainId": 43114,
+      "ensName": "thecolorofthenight.eth"
+    },
+    {
+      "proposalId": 514,
+      "address": "0x8b37a5Af68D315cf5A64097D96621F64b5502a22",
+      "support": true,
+      "votingPower": 75925.73242588,
+      "transactionHash": "0x7eac401dfe995026a299b315847470e8cd824eb9cbe38bd357058096c737129e",
+      "blockNumber": 93783186,
+      "chainId": 43114,
+      "ensName": "aretagov.eth"
+    },
+    {
+      "proposalId": 514,
       "address": "0x7AE109A63ff4DC852e063a673b40BED85D22E585",
       "support": true,
       "votingPower": 9999.9999,
