@@ -3,10 +3,10 @@
     {
       "creator": "0x3765A685a401622C060E5D700D9ad89413363a91",
       "maximumAccessLevelRequired": 1,
-      "state": 2,
+      "state": 3,
       "createdAt": 1787351747,
       "queuedAt": 1787700299,
-      "executedAt": 0,
+      "executedAt": 1787786723,
       "cancelledAt": 0,
       "expirationTime": 1790375747,
       "delay": 86400,
@@ -28,10 +28,10 @@
     {
       "creator": "0x3765A685a401622C060E5D700D9ad89413363a91",
       "maximumAccessLevelRequired": 1,
-      "state": 2,
+      "state": 3,
       "createdAt": 1787352038,
       "queuedAt": 1787700719,
-      "executedAt": 0,
+      "executedAt": 1787787154,
       "cancelledAt": 0,
       "expirationTime": 1790376038,
       "delay": 86400,
@@ -53,10 +53,10 @@
     {
       "creator": "0x3765A685a401622C060E5D700D9ad89413363a91",
       "maximumAccessLevelRequired": 1,
-      "state": 2,
+      "state": 3,
       "createdAt": 1787352153,
       "queuedAt": 1787700367,
-      "executedAt": 0,
+      "executedAt": 1787786775,
       "cancelledAt": 0,
       "expirationTime": 1790376153,
       "delay": 86400,
@@ -78,10 +78,10 @@
     {
       "creator": "0x3765A685a401622C060E5D700D9ad89413363a91",
       "maximumAccessLevelRequired": 1,
-      "state": 2,
+      "state": 3,
       "createdAt": 1787352295,
       "queuedAt": 1787700665,
-      "executedAt": 0,
+      "executedAt": 1787787095,
       "cancelledAt": 0,
       "expirationTime": 1790376295,
       "delay": 86400,
@@ -103,10 +103,10 @@
     {
       "creator": "0x3765A685a401622C060E5D700D9ad89413363a91",
       "maximumAccessLevelRequired": 1,
-      "state": 2,
+      "state": 3,
       "createdAt": 1787352549,
       "queuedAt": 1787700698,
-      "executedAt": 0,
+      "executedAt": 1787787146,
       "cancelledAt": 0,
       "expirationTime": 1790376549,
       "delay": 86400,
@@ -128,10 +128,10 @@
     {
       "creator": "0x3765A685a401622C060E5D700D9ad89413363a91",
       "maximumAccessLevelRequired": 1,
-      "state": 2,
+      "state": 3,
       "createdAt": 1787352769,
       "queuedAt": 1787700641,
-      "executedAt": 0,
+      "executedAt": 1787787075,
       "cancelledAt": 0,
       "expirationTime": 1790376769,
       "delay": 86400,
@@ -227,8 +227,8 @@
       ],
       "hasRequiredRoots": true
     },
-    "isFinished": false,
-    "lastUpdatedTimestamp": 1787781727,
+    "isFinished": true,
+    "lastUpdatedTimestamp": 1787795195,
     "cancellationFee": 50000000000000000
   }
 }

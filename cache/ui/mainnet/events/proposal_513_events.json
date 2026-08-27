@@ -120,5 +120,17 @@
       "chainId": 143,
       "hashLoading": false
     }
+  },
+  "513_10_7_143": {
+    "type": 10,
+    "title": "",
+    "timestamp": 1787788803,
+    "addresses": null,
+    "txInfo": {
+      "id": 7,
+      "hash": "0x922ed64093aeb06acb49f2f94758f098c02b9595459b61ac66b6da16ab7f4a7a",
+      "chainId": 143,
+      "hashLoading": false
+    }
   }
 }

@@ -1,3 +1,34 @@
 {
-  "votes": []
+  "votes": [
+    {
+      "proposalId": 514,
+      "address": "0x4CA6B5aD4489d95adCD7032Ec57CA3C103FB7f10",
+      "support": true,
+      "votingPower": 0.10967920569004463,
+      "transactionHash": "0x22644f85a11e87a3f80beea1c0cdca68570fa2a585548cae456e9d3565a821ce",
+      "blockNumber": 93767848,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 514,
+      "address": "0x00b99E045E63Ef702Ce5ABAF8b145f2B4a509787",
+      "support": true,
+      "votingPower": 0.10919630851587792,
+      "transactionHash": "0x885d17e00a6830d3b217ee342e30b3d2777cad60b733250d5321703120dcc677",
+      "blockNumber": 93767768,
+      "chainId": 43114,
+      "ensName": "womaninlove.eth"
+    },
+    {
+      "proposalId": 514,
+      "address": "0x10C4EaedEE32D5b51bc166a4792c789781E66069",
+      "support": true,
+      "votingPower": 0.11095283606370891,
+      "transactionHash": "0x484e61f095adf09dd5be74af7ba6bd071df1a2d8f2cb4029a89fb9e53d7087f4",
+      "blockNumber": 93767679,
+      "chainId": 43114,
+      "ensName": "overyou.eth"
+    }
+  ]
 }
