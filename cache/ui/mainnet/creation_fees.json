@@ -3606,15 +3606,22 @@
         "proposalId": 510,
         "proposalStatus": 4,
         "ipfsHash": "0x930389ba890be55ab5df4f1cacb495f736761518aec465769ebd2cd99fb9a7a0",
-        "status": 1,
+        "status": 2,
         "title": "Maintenance: Grant AL RETRY_ROLE on a.DI (Part 1)"
       },
       "511": {
         "proposalId": 511,
         "proposalStatus": 4,
         "ipfsHash": "0x489606b509d5440dcd3684903b8edeadb90a1e9669113b8c8a470c57ae2f836d",
-        "status": 1,
+        "status": 2,
         "title": "Risk Stewards Cooldown Reduction & Umbrella Pauser Role Reassignment"
+      },
+      "515": {
+        "proposalId": 515,
+        "proposalStatus": 0,
+        "ipfsHash": "0x8fb0c3df2032d96a4be3b6630ae308ab0575588d4d29376930ac83efbea6c1ac",
+        "status": 0,
+        "title": "Onboard PT-srUSDe-22OCT2026 to the LlamaRisk PT Risk Oracle"
       }
     }
   }
