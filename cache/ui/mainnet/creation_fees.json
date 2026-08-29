@@ -3273,9 +3273,9 @@
       },
       "514": {
         "proposalId": 514,
-        "proposalStatus": 1,
+        "proposalStatus": 2,
         "ipfsHash": "0x6fd439e9ce06467c6bb6bdfcd5a86a0415e26abf73249584c8c8f24d262ea87f",
-        "status": 0,
+        "status": 1,
         "title": "Asset Listing - Pendle PT-USDG X Layer"
       }
     },
@@ -3618,7 +3618,7 @@
       },
       "515": {
         "proposalId": 515,
-        "proposalStatus": 0,
+        "proposalStatus": 1,
         "ipfsHash": "0x8fb0c3df2032d96a4be3b6630ae308ab0575588d4d29376930ac83efbea6c1ac",
         "status": 0,
         "title": "Onboard PT-srUSDe-22OCT2026 to the LlamaRisk PT Risk Oracle"
