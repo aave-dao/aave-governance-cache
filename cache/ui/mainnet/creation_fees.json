@@ -3622,6 +3622,13 @@
         "ipfsHash": "0x8fb0c3df2032d96a4be3b6630ae308ab0575588d4d29376930ac83efbea6c1ac",
         "status": 1,
         "title": "Onboard PT-srUSDe-22OCT2026 to the LlamaRisk PT Risk Oracle"
+      },
+      "516": {
+        "proposalId": 516,
+        "proposalStatus": 0,
+        "ipfsHash": "0x7d2d76956ce7409cdd82fe3fa730c6fdaec12d2e76bc17709ae9d595e68b27de",
+        "status": 0,
+        "title": "[AIP] Onboard PAXG to Aave V4 Global Dollar Hub"
       }
     }
   }
