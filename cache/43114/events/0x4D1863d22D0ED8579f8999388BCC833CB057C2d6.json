@@ -152821,5 +152821,53 @@
     "logIndex": 44,
     "removed": false,
     "blockTimestamp": null
+  },
+  {
+    "eventName": "VoteEmitted",
+    "args": {
+      "proposalId": "516",
+      "voter": "0xEe318D6348D453E12355ae3d0bd836dDa9bFA3Ed",
+      "support": true,
+      "votingPower": "208538711521647498481"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x0c611e7b6ae0de26f4772260e1bbdb5f58cbb7c275fe2de14671968d29add8d6",
+      "0x0000000000000000000000000000000000000000000000000000000000000204",
+      "0x000000000000000000000000ee318d6348d453e12355ae3d0bd836dda9bfa3ed",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x00000000000000000000000000000000000000000000000b4e0e553e557594f1",
+    "blockNumber": "94793707",
+    "transactionHash": "0x7560c4d2253916a8d6d380aabcd74e53e9beac0f4fd5c5602042e8eeec490ec4",
+    "transactionIndex": 8,
+    "blockHash": "0xbe2dcef7a8e8643c4df54520ec026ba9c00fa4124da1d631a3515ef5c2b13d2d",
+    "logIndex": 10,
+    "removed": false,
+    "blockTimestamp": null
+  },
+  {
+    "eventName": "VoteEmitted",
+    "args": {
+      "proposalId": "516",
+      "voter": "0xB933AEe47C438f22DE0747D57fc239FE37878Dd1",
+      "support": true,
+      "votingPower": "53741824562820000000000"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x0c611e7b6ae0de26f4772260e1bbdb5f58cbb7c275fe2de14671968d29add8d6",
+      "0x0000000000000000000000000000000000000000000000000000000000000204",
+      "0x000000000000000000000000b933aee47c438f22de0747d57fc239fe37878dd1",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x000000000000000000000000000000000000000000000b6159a33f7eb8ac2800",
+    "blockNumber": "94793924",
+    "transactionHash": "0x044ae67f8f4c0d3579f5d9d6857db7ca2b446c626828c2ddf35e80760d400634",
+    "transactionIndex": 13,
+    "blockHash": "0x5b8fc62e7828c606601b2c45b1852a3391899df7ece33720753105ed170fcee7",
+    "logIndex": 21,
+    "removed": false,
+    "blockTimestamp": null
   }
 ]
