@@ -3625,9 +3625,9 @@
       },
       "516": {
         "proposalId": 516,
-        "proposalStatus": 1,
+        "proposalStatus": 2,
         "ipfsHash": "0x7d2d76956ce7409cdd82fe3fa730c6fdaec12d2e76bc17709ae9d595e68b27de",
-        "status": 0,
+        "status": 1,
         "title": "[AIP] Onboard PAXG to Aave V4 Global Dollar Hub"
       }
     }
