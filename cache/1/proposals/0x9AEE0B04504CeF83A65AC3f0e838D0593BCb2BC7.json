@@ -17953,5 +17953,30 @@
       }
     ],
     "isFinished": false
+  },
+  "519": {
+    "state": 1,
+    "accessLevel": 1,
+    "creationTime": 1789074191,
+    "votingDuration": 0,
+    "votingActivationTime": 0,
+    "queuingTime": 0,
+    "cancelTimestamp": 0,
+    "creator": "0x2cc1ADE245020FC5AAE66Ad443e1F66e01c54Df1",
+    "votingPortal": "0x9Ded9406f088C10621BE628EEFf40c1DF396c172",
+    "snapshotBlockHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "ipfsHash": "0xb16d302bbe306f1c09979d2eeb161e71cdd551ebddcc97ee98c0b7795db178bb",
+    "forVotes": "0",
+    "againstVotes": "0",
+    "cancellationFee": "50000000000000000",
+    "payloads": [
+      {
+        "chain": "196",
+        "accessLevel": 1,
+        "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5",
+        "payloadId": 12
+      }
+    ],
+    "isFinished": false
   }
 }

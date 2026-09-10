@@ -1,19 +1,19 @@
 {
   "payloads": [
     {
-      "creator": "0x3765A685a401622C060E5D700D9ad89413363a91",
+      "creator": "0x06cfB90B318e8e5702C05d9F74eF2A1538BB8070",
       "maximumAccessLevelRequired": 1,
       "state": 1,
-      "createdAt": 1789047747,
+      "createdAt": 1789070246,
       "queuedAt": 0,
       "executedAt": 0,
       "cancelledAt": 0,
-      "expirationTime": 1792071747,
+      "expirationTime": 1792094246,
       "delay": 86400,
       "gracePeriod": 604800,
       "actions": [
         {
-          "target": "0x0345c19C80F125D217e31a3BE2Ef536A836120e6",
+          "target": "0x64e415B215180195346BF48C81787F038317598d",
           "withDelegateCall": true,
           "accessLevel": 1,
           "value": "0",
@@ -21,23 +21,23 @@
           "callData": "0x"
         }
       ],
-      "id": 11,
+      "id": 12,
       "chainId": 196,
       "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
     }
   ],
   "ipfs": null,
   "proposal": {
-    "id": 517,
+    "id": 519,
     "votingDuration": 259200,
-    "creationTime": 1789051535,
+    "creationTime": 1789074191,
     "accessLevel": 1,
     "state": 1,
     "queuingTime": 0,
-    "ipfsHash": "0x226bf72d14f1acb1251b95c3c5b15d94e5f6b4c1336bff0d871836e70ae88685",
+    "ipfsHash": "0xb16d302bbe306f1c09979d2eeb161e71cdd551ebddcc97ee98c0b7795db178bb",
     "initialPayloads": [
       {
-        "id": 11,
+        "id": 12,
         "chainId": 196,
         "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
       }
@@ -48,7 +48,7 @@
     "votingActivationTime": 0,
     "votingChainId": 43114,
     "votingMachineData": {
-      "id": 517,
+      "id": 519,
       "forVotes": "0",
       "againstVotes": "0",
       "startTime": 0,
