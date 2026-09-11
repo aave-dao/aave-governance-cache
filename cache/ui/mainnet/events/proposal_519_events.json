@@ -24,5 +24,17 @@
       "chainId": 1,
       "hashLoading": false
     }
+  },
+  "519_2": {
+    "type": 2,
+    "title": "",
+    "timestamp": 1789160711,
+    "addresses": null,
+    "txInfo": {
+      "id": 519,
+      "hash": "0x5a5199ee1275a75e28ee5bb6f91ce945eda106d5270fe40c01855118db352b45",
+      "chainId": 1,
+      "hashLoading": false
+    }
   }
 }
