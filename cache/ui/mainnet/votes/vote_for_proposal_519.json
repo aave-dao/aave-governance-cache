@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 519,
+      "address": "0x7AE109A63ff4DC852e063a673b40BED85D22E585",
+      "support": true,
+      "votingPower": 9999.9999,
+      "transactionHash": "0x92cf0aa82009a07d3bcb3cb97189c081dc02c47cf973e57aae7c3ed94af646c4",
+      "blockNumber": 95112796,
+      "chainId": 43114,
+      "ensName": "calblockchain.eth"
+    },
+    {
+      "proposalId": 519,
       "address": "0x3320756d61303284B8012A660Ee185C58EDd3BB7",
       "support": true,
       "votingPower": 107243.98459054,
