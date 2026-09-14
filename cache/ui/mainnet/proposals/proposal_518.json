@@ -3,9 +3,9 @@
     {
       "creator": "0x3765A685a401622C060E5D700D9ad89413363a91",
       "maximumAccessLevelRequired": 1,
-      "state": 1,
+      "state": 2,
       "createdAt": 1789051996,
-      "queuedAt": 0,
+      "queuedAt": 1789399533,
       "executedAt": 0,
       "cancelledAt": 0,
       "expirationTime": 1792075996,
@@ -32,8 +32,8 @@
     "votingDuration": 259200,
     "creationTime": 1789052267,
     "accessLevel": 1,
-    "state": 2,
-    "queuingTime": 0,
+    "state": 4,
+    "queuingTime": 1789399019,
     "ipfsHash": "0x60b6cfc9ec530c500b8d7fe7fa17eabece4d55c0f9a0d1a7f237e5c4b2b1b820",
     "initialPayloads": [
       {
@@ -71,7 +71,7 @@
       "hasRequiredRoots": true
     },
     "isFinished": false,
-    "lastUpdatedTimestamp": 1789398993,
+    "lastUpdatedTimestamp": 1789409882,
     "cancellationFee": 50000000000000000
   }
 }
