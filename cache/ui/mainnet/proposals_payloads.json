@@ -7789,6 +7789,53 @@
         "chainId": 196,
         "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
       }
+    ],
+    "520": [
+      {
+        "id": 31,
+        "chainId": 59144,
+        "payloadsController": "0x3BcE23a1363728091bc57A58a226CF2940C2e074"
+      },
+      {
+        "id": 14,
+        "chainId": 42220,
+        "payloadsController": "0xE48E10834C04E394A04BF22a565D063D40b9FA42"
+      },
+      {
+        "id": 17,
+        "chainId": 146,
+        "payloadsController": "0x0846C28Dd54DEA4Fd7Fb31bcc5EB81673D68c695"
+      },
+      {
+        "id": 6,
+        "chainId": 1868,
+        "payloadsController": "0x44D73D7C4b2f98F426Bf8B5e87628d9eE38ef0Cf"
+      },
+      {
+        "id": 36,
+        "chainId": 9745,
+        "payloadsController": "0xe76EB348E65eF163d85ce282125FF5a7F5712A1d"
+      },
+      {
+        "id": 13,
+        "chainId": 5000,
+        "payloadsController": "0xF089f77173A3009A98c45f49D547BF714A7B1e01"
+      },
+      {
+        "id": 10,
+        "chainId": 4326,
+        "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
+      },
+      {
+        "id": 13,
+        "chainId": 196,
+        "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
+      },
+      {
+        "id": 8,
+        "chainId": 57073,
+        "payloadsController": "0x44D73D7C4b2f98F426Bf8B5e87628d9eE38ef0Cf"
+      }
     ]
   }
 }
