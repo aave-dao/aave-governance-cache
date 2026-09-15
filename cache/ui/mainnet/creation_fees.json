@@ -3280,7 +3280,7 @@
       },
       "517": {
         "proposalId": 517,
-        "proposalStatus": 2,
+        "proposalStatus": 4,
         "ipfsHash": "0x226bf72d14f1acb1251b95c3c5b15d94e5f6b4c1336bff0d871836e70ae88685",
         "status": 1,
         "title": "Add X Layer Loop Tool & Margin Trading to FlashBorrowers"
@@ -3657,6 +3657,13 @@
         "ipfsHash": "0xd734ae8bedaaabf797ccf554350b2d5d9105aca60863063640940c4369a8ac61",
         "status": 0,
         "title": "Proposal #520"
+      },
+      "521": {
+        "proposalId": 521,
+        "proposalStatus": 0,
+        "ipfsHash": "0x8f9b58156f3acb6191d5243fd2c1138434a87fec7c6a5b12bd55af9f531b3b8a",
+        "status": 0,
+        "title": "Proposal #521"
       }
     }
   }

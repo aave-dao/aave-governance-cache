@@ -120,5 +120,17 @@
       "chainId": 196,
       "hashLoading": false
     }
+  },
+  "517_10_11_196": {
+    "type": 10,
+    "title": "",
+    "timestamp": 1789484830,
+    "addresses": null,
+    "txInfo": {
+      "id": 11,
+      "hash": "0x2bd32dc5d901316955511ad3ea7fe7c35cea188c9814d05240b2bcee968b48e3",
+      "chainId": 196,
+      "hashLoading": false
+    }
   }
 }
