@@ -3294,9 +3294,9 @@
       },
       "519": {
         "proposalId": 519,
-        "proposalStatus": 1,
+        "proposalStatus": 2,
         "ipfsHash": "0xb16d302bbe306f1c09979d2eeb161e71cdd551ebddcc97ee98c0b7795db178bb",
-        "status": 0,
+        "status": 1,
         "title": "Onboard USDC to Aave V3 X Layer"
       }
     },
