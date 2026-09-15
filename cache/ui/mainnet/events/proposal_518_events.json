@@ -120,5 +120,17 @@
       "chainId": 42161,
       "hashLoading": false
     }
+  },
+  "518_10_137_42161": {
+    "type": 10,
+    "title": "",
+    "timestamp": 1789485986,
+    "addresses": null,
+    "txInfo": {
+      "id": 137,
+      "hash": "0xc06574fe9c54acb682b9d0ded30c22b6ae442f1c8118983fd78ee82e3953657a",
+      "chainId": 42161,
+      "hashLoading": false
+    }
   }
 }
