@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 521,
+      "address": "0x354d4D759c49094f60D537bfD7177c05b70c20cC",
+      "support": true,
+      "votingPower": 6.098094813368153,
+      "transactionHash": "0x4192f3b0c6bb7d921afaecc015e798b2a6389532d82d1da78ca7858ae7324479",
+      "blockNumber": 95529054,
+      "chainId": 43114,
+      "ensName": "agrislis.eth"
+    },
+    {
+      "proposalId": 521,
       "address": "0x53Da33F96ecFFE1CDf3842883c9ba3ba3b49c14B",
       "support": true,
       "votingPower": 0.04338736836242806,
