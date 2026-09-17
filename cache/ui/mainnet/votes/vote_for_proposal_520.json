@@ -2,6 +2,36 @@
   "votes": [
     {
       "proposalId": 520,
+      "address": "0xd10F1A1C8e7a59733Ed7b1B55753E34E139D608C",
+      "support": true,
+      "votingPower": 0.10363944555,
+      "transactionHash": "0x7b389e9ae1071c3e32da5673dbf79a641cce0e22fe58c0c26de76357a7549a71",
+      "blockNumber": 95462552,
+      "chainId": 43114,
+      "ensName": "lovewillkeepusalive.eth"
+    },
+    {
+      "proposalId": 520,
+      "address": "0x616Ed83D247FC2a90B247852a0895F9Ed4a3Db0f",
+      "support": true,
+      "votingPower": 0.10270366354994634,
+      "transactionHash": "0x452cf7b1399eba71875174af44e5c406374780ad67dbdb0f033b2b24ed2b76b9",
+      "blockNumber": 95462102,
+      "chainId": 43114,
+      "ensName": "yishengsuoai.eth"
+    },
+    {
+      "proposalId": 520,
+      "address": "0x2F2F665974261C4129b1DC6c359BD259CD66f78A",
+      "support": true,
+      "votingPower": 0.1783128954771515,
+      "transactionHash": "0xe35823413f1e726ed71fde007bc4d7dce2528b4cbcb8dc88f3329ead9bfd1f5f",
+      "blockNumber": 95458926,
+      "chainId": 43114,
+      "ensName": "0htjit.eth"
+    },
+    {
+      "proposalId": 520,
       "address": "0xA97CA732232Cd2ACaB9038a1943fe2A79FA1cCc8",
       "support": true,
       "votingPower": 0.034704525404803205,
