@@ -2,6 +2,56 @@
   "votes": [
     {
       "proposalId": 521,
+      "address": "0x95A26811F45b2b7F442d23C4A6560473598af9c4",
+      "support": true,
+      "votingPower": 0.8618766067091873,
+      "transactionHash": "0x416ad06c54e3decf7913012cfe917fcd821f354db61deb2804d6da87799ef908",
+      "blockNumber": 95576724,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 521,
+      "address": "0x88C4BC0A8f7aaf55cF10A1DeDC4BD6136df72FDd",
+      "support": true,
+      "votingPower": 25.59496710815942,
+      "transactionHash": "0xe058d1dcbcbb73ee20d781b35b19b5e98ba6f9d09d174790b59ff3db65f9747f",
+      "blockNumber": 95576482,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 521,
+      "address": "0x8b37a5Af68D315cf5A64097D96621F64b5502a22",
+      "support": true,
+      "votingPower": 75925.73242588,
+      "transactionHash": "0x664323d0bde81376a0e6e07e2e32fddb8075fa27d8d9ff32b66e9c38f7ae8612",
+      "blockNumber": 95576156,
+      "chainId": 43114,
+      "ensName": "aretagov.eth"
+    },
+    {
+      "proposalId": 521,
+      "address": "0x4CA6B5aD4489d95adCD7032Ec57CA3C103FB7f10",
+      "support": true,
+      "votingPower": 0.10967920569004463,
+      "transactionHash": "0x2110e4fcb2ae01bbc0f46d840181396e501479b6162277a27aea93da68bef984",
+      "blockNumber": 95576080,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 521,
+      "address": "0xF41C7a208156B46C89e028412Dca41d1F05feDE8",
+      "support": true,
+      "votingPower": 0.11118108230061667,
+      "transactionHash": "0x034b5d710cdae5820e070fbb5da71219d5666747d72ae3591a077387aa256714",
+      "blockNumber": 95575979,
+      "chainId": 43114,
+      "ensName": "mariaarredondo.eth"
+    },
+    {
+      "proposalId": 521,
       "address": "0x354d4D759c49094f60D537bfD7177c05b70c20cC",
       "support": true,
       "votingPower": 6.098094813368153,

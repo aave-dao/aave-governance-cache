@@ -2,6 +2,66 @@
   "votes": [
     {
       "proposalId": 520,
+      "address": "0x2cc1ADE245020FC5AAE66Ad443e1F66e01c54Df1",
+      "support": true,
+      "votingPower": 89042.59174801,
+      "transactionHash": "0x8e9b4dabf8e0ed8a2979dc1bc7eb1a171d391d69c62bc88e671cbfdd0861e217",
+      "blockNumber": 95578442,
+      "chainId": 43114,
+      "ensName": "tokenlogic.eth"
+    },
+    {
+      "proposalId": 520,
+      "address": "0x88C4BC0A8f7aaf55cF10A1DeDC4BD6136df72FDd",
+      "support": true,
+      "votingPower": 25.59496710815942,
+      "transactionHash": "0xcb93b6275f49feae787e6609950128598500f1eb31e5a707d6d5062af4fd062a",
+      "blockNumber": 95576508,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 520,
+      "address": "0x8b37a5Af68D315cf5A64097D96621F64b5502a22",
+      "support": true,
+      "votingPower": 75925.73242588,
+      "transactionHash": "0x664323d0bde81376a0e6e07e2e32fddb8075fa27d8d9ff32b66e9c38f7ae8612",
+      "blockNumber": 95576156,
+      "chainId": 43114,
+      "ensName": "aretagov.eth"
+    },
+    {
+      "proposalId": 520,
+      "address": "0x3E51A14e55f55E6dbDAFe8C1EddE9cf3Bb020586",
+      "support": true,
+      "votingPower": 0.12698916680621358,
+      "transactionHash": "0xa5b4c8e418e3a6cc9f41c78d1e86871631539d006e9633acc5c30d1c6acff73f",
+      "blockNumber": 95576155,
+      "chainId": 43114,
+      "ensName": "itmightbeyou.eth"
+    },
+    {
+      "proposalId": 520,
+      "address": "0x00b99E045E63Ef702Ce5ABAF8b145f2B4a509787",
+      "support": true,
+      "votingPower": 0.10919630851587792,
+      "transactionHash": "0xbaff8155cffd6fee5552ac4b38da238715bd5d63ac56715cfe149b1cf18a61d4",
+      "blockNumber": 95576036,
+      "chainId": 43114,
+      "ensName": "womaninlove.eth"
+    },
+    {
+      "proposalId": 520,
+      "address": "0x2c59AefC45405b75e88C2167a810D42847EbBb5E",
+      "support": true,
+      "votingPower": 0.12197403280231259,
+      "transactionHash": "0x571f985a928038f09fd4aeea1681731dfd00eacc19026be89c0dc16011eeaeb7",
+      "blockNumber": 95575924,
+      "chainId": 43114,
+      "ensName": "becauseiloveyou.eth"
+    },
+    {
+      "proposalId": 520,
       "address": "0x53Da33F96ecFFE1CDf3842883c9ba3ba3b49c14B",
       "support": true,
       "votingPower": 0.04338736836242806,
