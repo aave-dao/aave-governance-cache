@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 521,
+      "address": "0xfc9cCEd2f18F7C554Bbf82d48511Fa9f59483Db8",
+      "support": true,
+      "votingPower": 0.10614681622000001,
+      "transactionHash": "0x2b759e634e2a779d6c885985859080367c534b723ae9f216fc00035dc4f0090f",
+      "blockNumber": 95649151,
+      "chainId": 43114,
+      "ensName": "thegirlfromyesterday.eth"
+    },
+    {
+      "proposalId": 521,
       "address": "0xcD9B13ADE92c8eD035E9B40CA054205212f645b1",
       "support": true,
       "votingPower": 1.985654051370698,
