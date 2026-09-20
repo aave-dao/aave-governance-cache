@@ -1,5 +1,5 @@
 {
-  "totalProposalCount": 522,
+  "totalProposalCount": 523,
   "proposals": [
     {
       "id": 0,
@@ -3640,6 +3640,13 @@
       "combineState": 4,
       "finishedTimestamp": 1789507750,
       "ipfsHash": "0xb16d302bbe306f1c09979d2eeb161e71cdd551ebddcc97ee98c0b7795db178bb"
+    },
+    {
+      "id": 520,
+      "title": "Proposal #520",
+      "combineState": 4,
+      "finishedTimestamp": 1789901712,
+      "ipfsHash": "0xd734ae8bedaaabf797ccf554350b2d5d9105aca60863063640940c4369a8ac61"
     }
   ]
 }

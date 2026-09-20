@@ -18050,7 +18050,7 @@
         "payloadId": 8
       }
     ],
-    "isFinished": false
+    "isFinished": true
   },
   "521": {
     "state": 4,
@@ -18169,6 +18169,31 @@
         "accessLevel": 1,
         "payloadsController": "0x44D73D7C4b2f98F426Bf8B5e87628d9eE38ef0Cf",
         "payloadId": 7
+      }
+    ],
+    "isFinished": false
+  },
+  "522": {
+    "state": 1,
+    "accessLevel": 1,
+    "creationTime": 1789905155,
+    "votingDuration": 0,
+    "votingActivationTime": 0,
+    "queuingTime": 0,
+    "cancelTimestamp": 0,
+    "creator": "0x2cc1ADE245020FC5AAE66Ad443e1F66e01c54Df1",
+    "votingPortal": "0x9Ded9406f088C10621BE628EEFf40c1DF396c172",
+    "snapshotBlockHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "ipfsHash": "0x397bc6c7a23760503531f9b6370c8c7d66f06e2e814c5a3378c8c8738c6bb3a0",
+    "forVotes": "0",
+    "againstVotes": "0",
+    "cancellationFee": "50000000000000000",
+    "payloads": [
+      {
+        "chain": "1",
+        "accessLevel": 1,
+        "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5",
+        "payloadId": 470
       }
     ],
     "isFinished": false
