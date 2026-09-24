@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 522,
+      "address": "0x2cc1ADE245020FC5AAE66Ad443e1F66e01c54Df1",
+      "support": true,
+      "votingPower": 88890.8949034,
+      "transactionHash": "0x1c3b9f9c66e8a53de2aeb0f1b2231af048e534550d583a5fcdd60b2a5716f154",
+      "blockNumber": 96010083,
+      "chainId": 43114,
+      "ensName": "tokenlogic.eth"
+    },
+    {
+      "proposalId": 522,
       "address": "0x08651EeE3b78254653062BA89035b8F8AdF924CE",
       "support": true,
       "votingPower": 151.24104839,
