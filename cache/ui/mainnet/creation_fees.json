@@ -3301,7 +3301,7 @@
       },
       "522": {
         "proposalId": 522,
-        "proposalStatus": 2,
+        "proposalStatus": 4,
         "ipfsHash": "0x397bc6c7a23760503531f9b6370c8c7d66f06e2e814c5a3378c8c8738c6bb3a0",
         "status": 1,
         "title": "Proposal #522"
@@ -3648,29 +3648,36 @@
         "proposalId": 515,
         "proposalStatus": 4,
         "ipfsHash": "0x8fb0c3df2032d96a4be3b6630ae308ab0575588d4d29376930ac83efbea6c1ac",
-        "status": 1,
+        "status": 2,
         "title": "Onboard PT-srUSDe-22OCT2026 to the LlamaRisk PT Risk Oracle"
       },
       "516": {
         "proposalId": 516,
         "proposalStatus": 4,
         "ipfsHash": "0x7d2d76956ce7409cdd82fe3fa730c6fdaec12d2e76bc17709ae9d595e68b27de",
-        "status": 1,
+        "status": 2,
         "title": "[AIP] Onboard PAXG to Aave V4 Global Dollar Hub"
       },
       "520": {
         "proposalId": 520,
         "proposalStatus": 4,
         "ipfsHash": "0xd734ae8bedaaabf797ccf554350b2d5d9105aca60863063640940c4369a8ac61",
-        "status": 1,
+        "status": 2,
         "title": "Proposal #520"
       },
       "521": {
         "proposalId": 521,
         "proposalStatus": 4,
         "ipfsHash": "0x8f9b58156f3acb6191d5243fd2c1138434a87fec7c6a5b12bd55af9f531b3b8a",
-        "status": 1,
+        "status": 2,
         "title": "Proposal #521"
+      },
+      "523": {
+        "proposalId": 523,
+        "proposalStatus": 0,
+        "ipfsHash": "0x73786bbdbef87459ae40c07e2c165b70288955e1c4252801b61a07adff533795",
+        "status": 0,
+        "title": "Proposal #523"
       }
     }
   }
