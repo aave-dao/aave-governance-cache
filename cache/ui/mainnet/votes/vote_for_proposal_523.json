@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 523,
+      "address": "0x800Ed249c34Ffc7A104fdC01b13F9913e3344CC9",
+      "support": true,
+      "votingPower": 40.02703730960887,
+      "transactionHash": "0xfbb476db0a8160655f44e8c330b7e43942634190b4723bfbc7a181ecc773f777",
+      "blockNumber": 96270497,
+      "chainId": 43114,
+      "ensName": "cryptowigo.eth"
+    },
+    {
+      "proposalId": 523,
       "address": "0x53Da33F96ecFFE1CDf3842883c9ba3ba3b49c14B",
       "support": true,
       "votingPower": 0.04338736836242806,
