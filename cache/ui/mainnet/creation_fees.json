@@ -3676,8 +3676,15 @@
         "proposalId": 523,
         "proposalStatus": 2,
         "ipfsHash": "0x73786bbdbef87459ae40c07e2c165b70288955e1c4252801b61a07adff533795",
-        "status": 1,
+        "status": 2,
         "title": "Proposal #523"
+      },
+      "524": {
+        "proposalId": 524,
+        "proposalStatus": 0,
+        "ipfsHash": "0x0d1d4dd725feec8adb4e8baf287b169917b7b811c5a7f23d14b3579a2f2ea1b9",
+        "status": 0,
+        "title": "Proposal #524"
       }
     }
   }
