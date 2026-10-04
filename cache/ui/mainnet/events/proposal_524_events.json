@@ -120,5 +120,17 @@
       "chainId": 9745,
       "hashLoading": false
     }
+  },
+  "524_10_38_9745": {
+    "type": 10,
+    "title": "",
+    "timestamp": 1791129494,
+    "addresses": null,
+    "txInfo": {
+      "id": 38,
+      "hash": "0xdb86704ed4b091f5b5aa44e7db91d5cf507bbb479bf50cddaf57bc0644f64dec",
+      "chainId": 9745,
+      "hashLoading": false
+    }
   }
 }
