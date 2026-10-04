@@ -1,3 +1,34 @@
 {
-  "votes": []
+  "votes": [
+    {
+      "proposalId": 525,
+      "address": "0x616Ed83D247FC2a90B247852a0895F9Ed4a3Db0f",
+      "support": true,
+      "votingPower": 0.10270366354994634,
+      "transactionHash": "0xed07a5fd51148f433cf9120e4f36714ce5853d22e58d4db956bb6fae68f10388",
+      "blockNumber": 96740106,
+      "chainId": 43114,
+      "ensName": "yishengsuoai.eth"
+    },
+    {
+      "proposalId": 525,
+      "address": "0x6c2E47aCA7F7E23F3cE8f1606CFaa157b5583C04",
+      "support": true,
+      "votingPower": 0.3588667215376069,
+      "transactionHash": "0xb09a052d0dfbf411e9988fb926c2071bcf17b4731990f280284e3a4977cfdc6e",
+      "blockNumber": 96739929,
+      "chainId": 43114,
+      "ensName": "manmanwuxian.eth"
+    },
+    {
+      "proposalId": 525,
+      "address": "0x7FD51271715635436e61067bd2F0508484E0cAAF",
+      "support": true,
+      "votingPower": 169.39399703343253,
+      "transactionHash": "0x4715a7f38dec07f60b8a990660aa0fe387611d3adf84244e7d8943c07a87d1fb",
+      "blockNumber": 96738110,
+      "chainId": 43114,
+      "ensName": null
+    }
+  ]
 }
