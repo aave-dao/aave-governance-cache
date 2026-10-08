@@ -1,3 +1,14 @@
 {
-  "votes": []
+  "votes": [
+    {
+      "proposalId": 526,
+      "address": "0x3EE585E4bE8E9e6D351207a58f6bD1f7d42232F1",
+      "support": true,
+      "votingPower": 15.90779269,
+      "transactionHash": "0xbc450c882cae99f42b020bf65baa3a7aa1d8f7f193616c56e02797592e03b5dc",
+      "blockNumber": 97031835,
+      "chainId": 43114,
+      "ensName": "fabas.eth"
+    }
+  ]
 }

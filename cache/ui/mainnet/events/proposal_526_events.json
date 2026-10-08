@@ -111,5 +111,29 @@
       "chainId": 1,
       "hashLoading": false
     }
+  },
+  "526_2": {
+    "type": 2,
+    "title": "",
+    "timestamp": 1791456911,
+    "addresses": null,
+    "txInfo": {
+      "id": 526,
+      "hash": "0xc08e86385047182821ab94cbfdfe906eb77d9e089a3374803a66e10ac7dda98b",
+      "chainId": 1,
+      "hashLoading": false
+    }
+  },
+  "526_3": {
+    "type": 3,
+    "title": "",
+    "timestamp": 1791457756,
+    "addresses": null,
+    "txInfo": {
+      "id": 526,
+      "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "chainId": 43114,
+      "hashLoading": false
+    }
   }
 }
