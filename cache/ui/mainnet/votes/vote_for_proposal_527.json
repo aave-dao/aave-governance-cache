@@ -1,3 +1,24 @@
 {
-  "votes": []
+  "votes": [
+    {
+      "proposalId": 527,
+      "address": "0x00b99E045E63Ef702Ce5ABAF8b145f2B4a509787",
+      "support": true,
+      "votingPower": 0.10919630851587792,
+      "transactionHash": "0x10351b8d3b03784e292b07cc5d3b0b1524a750924a210456f7166027308d926f",
+      "blockNumber": 97243229,
+      "chainId": 43114,
+      "ensName": "womaninlove.eth"
+    },
+    {
+      "proposalId": 527,
+      "address": "0x2B7E7b180e75004cde2CD605a751acde85Cdc5eC",
+      "support": true,
+      "votingPower": 145.7037951138176,
+      "transactionHash": "0xd98fe204c27863d338fa971d0b666d5564c4198e977b9408d41f439f12466243",
+      "blockNumber": 97242096,
+      "chainId": 43114,
+      "ensName": null
+    }
+  ]
 }
