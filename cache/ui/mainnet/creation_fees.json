@@ -3310,7 +3310,7 @@
         "proposalId": 525,
         "proposalStatus": 4,
         "ipfsHash": "0x6b0a939103881ef50c32d0fa1ae135aa2408be38dbce7c94bf890a9619fedbea",
-        "status": 1,
+        "status": 2,
         "title": "Proposal #525"
       },
       "528": {
@@ -3704,14 +3704,14 @@
         "proposalId": 524,
         "proposalStatus": 4,
         "ipfsHash": "0x0d1d4dd725feec8adb4e8baf287b169917b7b811c5a7f23d14b3579a2f2ea1b9",
-        "status": 1,
+        "status": 2,
         "title": "Proposal #524"
       },
       "526": {
         "proposalId": 526,
         "proposalStatus": 4,
         "ipfsHash": "0x69ef0fa27a01724f6bc44ae0f671e1a6eaf79ea5ab2a79e100497a99339c703f",
-        "status": 1,
+        "status": 2,
         "title": "Proposal #526"
       },
       "527": {
@@ -3720,6 +3720,13 @@
         "ipfsHash": "0x9cda9cd75912bebd39701e73e63708c84eb69cbfbb163fc2692337e9ad68f8b9",
         "status": 0,
         "title": "Proposal #527"
+      },
+      "530": {
+        "proposalId": 530,
+        "proposalStatus": 0,
+        "ipfsHash": "0x09af0efee7bc23d8da314ff2266fc703fb46544af514e1fad1ef8383fe05c89a",
+        "status": 0,
+        "title": "Proposal #530"
       }
     }
   }
