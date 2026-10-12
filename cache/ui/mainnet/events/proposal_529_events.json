@@ -66,5 +66,29 @@
       "chainId": 1,
       "hashLoading": false
     }
+  },
+  "529_2": {
+    "type": 2,
+    "title": "",
+    "timestamp": 1791820631,
+    "addresses": null,
+    "txInfo": {
+      "id": 529,
+      "hash": "0xb66b55a4af4cb385bff5753d7ef6f0aea314bb05dc725dceccab785b65e90a2e",
+      "chainId": 1,
+      "hashLoading": false
+    }
+  },
+  "529_3": {
+    "type": 3,
+    "title": "",
+    "timestamp": 1791821404,
+    "addresses": null,
+    "txInfo": {
+      "id": 529,
+      "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "chainId": 43114,
+      "hashLoading": false
+    }
   }
 }
