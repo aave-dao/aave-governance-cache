@@ -77068,5 +77068,24 @@
     ],
     "data": "0x2c10ba94472094d4d3b346d6a3d07d36e3b8493e5fd66b6270a7615f2b0abdf9",
     "removed": false
+  },
+  {
+    "eventName": "ProposalCanceled",
+    "args": {
+      "proposalId": "532"
+    },
+    "address": "0x9aee0b04504cef83a65ac3f0e838d0593bcb2bc7",
+    "topics": [
+      "0x789cf55be980739dad1d0699b93b58e806b51c9d96619bfa8fe0a28abaa7b30c",
+      "0x0000000000000000000000000000000000000000000000000000000000000214"
+    ],
+    "data": "0x",
+    "blockHash": "0xb450a753b61d216b68f1ae5ac531a5ceb210b10cf282f1dd9aea564c3727e345",
+    "blockNumber": "26207669",
+    "blockTimestamp": "1792184639",
+    "transactionHash": "0xb725848951cc6f4ae31be76bba35ea126f19c1a394fb8b1dfd44355f52f1e4ee",
+    "transactionIndex": 151,
+    "logIndex": 611,
+    "removed": false
   }
 ]

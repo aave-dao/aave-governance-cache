@@ -24,5 +24,17 @@
       "chainId": 1,
       "hashLoading": false
     }
+  },
+  "532_11": {
+    "type": 11,
+    "title": "",
+    "timestamp": 1792184639,
+    "addresses": null,
+    "txInfo": {
+      "id": 532,
+      "hash": "0xb725848951cc6f4ae31be76bba35ea126f19c1a394fb8b1dfd44355f52f1e4ee",
+      "chainId": 1,
+      "hashLoading": false
+    }
   }
 }
