@@ -18360,7 +18360,7 @@
     "ipfsHash": "0x9cda9cd75912bebd39701e73e63708c84eb69cbfbb163fc2692337e9ad68f8b9",
     "forVotes": "370877124798057105341740",
     "againstVotes": "0",
-    "cancellationFee": "50000000000000000",
+    "cancellationFee": "0",
     "payloads": [
       {
         "chain": "143",
@@ -18385,7 +18385,7 @@
     "ipfsHash": "0x52adb9249696beb6a5ad870fc216dd9ee0cf13ccc40bd1465b8a6a59a2ccceee",
     "forVotes": "380930398085625672100794",
     "againstVotes": "0",
-    "cancellationFee": "50000000000000000",
+    "cancellationFee": "0",
     "payloads": [
       {
         "chain": "1",
@@ -18394,7 +18394,7 @@
         "payloadId": 473
       }
     ],
-    "isFinished": false
+    "isFinished": true
   },
   "529": {
     "state": 4,
@@ -18410,7 +18410,7 @@
     "ipfsHash": "0xbeb01771987e5538656debd2c9df90de5ca87651e20ec363118003e98c853274",
     "forVotes": "380934883978503059672731",
     "againstVotes": "0",
-    "cancellationFee": "50000000000000000",
+    "cancellationFee": "0",
     "payloads": [
       {
         "chain": "1",
@@ -18437,7 +18437,7 @@
         "payloadId": 39
       }
     ],
-    "isFinished": false
+    "isFinished": true
   },
   "530": {
     "state": 4,
@@ -18453,7 +18453,7 @@
     "ipfsHash": "0x09af0efee7bc23d8da314ff2266fc703fb46544af514e1fad1ef8383fe05c89a",
     "forVotes": "390975377074602549147922",
     "againstVotes": "0",
-    "cancellationFee": "50000000000000000",
+    "cancellationFee": "0",
     "payloads": [
       {
         "chain": "1",
@@ -18485,6 +18485,31 @@
         "accessLevel": 1,
         "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5",
         "payloadId": 14
+      }
+    ],
+    "isFinished": false
+  },
+  "532": {
+    "state": 1,
+    "accessLevel": 1,
+    "creationTime": 1792169051,
+    "votingDuration": 0,
+    "votingActivationTime": 0,
+    "queuingTime": 0,
+    "cancelTimestamp": 0,
+    "creator": "0x66a28531E6f390A8CD44aB0C57a0F1aeb7E673FF",
+    "votingPortal": "0x9Ded9406f088C10621BE628EEFf40c1DF396c172",
+    "snapshotBlockHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "ipfsHash": "0x2c10ba94472094d4d3b346d6a3d07d36e3b8493e5fd66b6270a7615f2b0abdf9",
+    "forVotes": "0",
+    "againstVotes": "0",
+    "cancellationFee": "50000000000000000",
+    "payloads": [
+      {
+        "chain": "43114",
+        "accessLevel": 1,
+        "payloadsController": "0x1140CB7CAfAcC745771C2Ea31e7B5C653c5d0B80",
+        "payloadId": 127
       }
     ],
     "isFinished": false
