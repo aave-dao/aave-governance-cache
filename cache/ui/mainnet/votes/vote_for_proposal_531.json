@@ -2,6 +2,26 @@
   "votes": [
     {
       "proposalId": 531,
+      "address": "0x96D01872546A872B73a036277F12FEB8dDDe709f",
+      "support": true,
+      "votingPower": 48.651940374658,
+      "transactionHash": "0x6c9213997b5fac132656b27d0266934cc08b08313723e765a72ff12a1df6b127",
+      "blockNumber": 97800845,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 531,
+      "address": "0x092730D250C4889D5C54267c9A0615ec47561922",
+      "support": true,
+      "votingPower": 0.266,
+      "transactionHash": "0xeba4259c8138d53f6ec10ad62d7eeeafbc5c97bd771323a3cc9aecd1edb78189",
+      "blockNumber": 97797976,
+      "chainId": 43114,
+      "ensName": "41burlington.eth"
+    },
+    {
+      "proposalId": 531,
       "address": "0x53Da33F96ecFFE1CDf3842883c9ba3ba3b49c14B",
       "support": true,
       "votingPower": 0.04338736836242806,

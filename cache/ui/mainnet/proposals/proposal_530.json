@@ -3,10 +3,10 @@
     {
       "creator": "0x0315d353045f8FBCDd8CAcEbA40b019d094B670E",
       "maximumAccessLevelRequired": 1,
-      "state": 2,
+      "state": 3,
       "createdAt": 1791811259,
       "queuedAt": 1792160591,
-      "executedAt": 0,
+      "executedAt": 1792247003,
       "cancelledAt": 0,
       "expirationTime": 1794835259,
       "delay": 86400,
@@ -70,8 +70,8 @@
       ],
       "hasRequiredRoots": true
     },
-    "isFinished": false,
-    "lastUpdatedTimestamp": 1792239613,
+    "isFinished": true,
+    "lastUpdatedTimestamp": 1792249983,
     "cancellationFee": 0
   }
 }
