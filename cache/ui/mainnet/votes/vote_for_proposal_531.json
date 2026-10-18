@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 531,
+      "address": "0x8b37a5Af68D315cf5A64097D96621F64b5502a22",
+      "support": true,
+      "votingPower": 75925.73242588,
+      "transactionHash": "0x64c83b81c5c5b41b983a8578ae962a2a8af2097fc2d67d7afd858c0565db98e7",
+      "blockNumber": 97864402,
+      "chainId": 43114,
+      "ensName": "aretagov.eth"
+    },
+    {
+      "proposalId": 531,
       "address": "0xB6647caE065c321e75775B50a25fd54e9ac5C436",
       "support": true,
       "votingPower": 10766.209323729447,
