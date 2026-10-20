@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 534,
+      "address": "0xc80a5430D22e8f96B9fBf0d4d0925Bc9E60daa1c",
+      "support": true,
+      "votingPower": 18.78528256638034,
+      "transactionHash": "0xf795d54a7e6a56cf426b13a564470c1cf3a5fb11dec042542a1ad1b993413853",
+      "blockNumber": 98088498,
+      "chainId": 43114,
+      "ensName": "uraniumape.eth"
+    },
+    {
+      "proposalId": 534,
       "address": "0x53Da33F96ecFFE1CDf3842883c9ba3ba3b49c14B",
       "support": true,
       "votingPower": 0.04338736836242806,
