@@ -1,3 +1,14 @@
 {
-  "votes": []
+  "votes": [
+    {
+      "proposalId": 533,
+      "address": "0xa6E2eBF7A2F3DC0B15A98E24d6C924B6D22E7038",
+      "support": true,
+      "votingPower": 3.771612,
+      "transactionHash": "0x929fdab5c2d2070538f9e63ffde43e761bdabe9c8cf772c352a36f70643f6e43",
+      "blockNumber": 98005940,
+      "chainId": 43114,
+      "ensName": null
+    }
+  ]
 }
