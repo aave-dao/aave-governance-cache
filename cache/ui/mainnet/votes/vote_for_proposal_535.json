@@ -2,6 +2,26 @@
   "votes": [
     {
       "proposalId": 535,
+      "address": "0xC0d6C3AB0794D3e4C9025aDD68c777Eb8cc8b802",
+      "support": true,
+      "votingPower": 20185.0000024284,
+      "transactionHash": "0x6caba19229662b65941ae9ae35e19d639b0b0ae59ca2bea9edd5884ebc3ba2bd",
+      "blockNumber": 98250487,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 535,
+      "address": "0x53Da33F96ecFFE1CDf3842883c9ba3ba3b49c14B",
+      "support": true,
+      "votingPower": 0.04338736836242806,
+      "transactionHash": "0x67907b4cecf05f7719f70b622c782c9676e7f478788eb9e6a27ab1ed6b3f4051",
+      "blockNumber": 98247089,
+      "chainId": 43114,
+      "ensName": "rlytrue.eth"
+    },
+    {
+      "proposalId": 535,
       "address": "0xB933AEe47C438f22DE0747D57fc239FE37878Dd1",
       "support": true,
       "votingPower": 53708.6222865,
