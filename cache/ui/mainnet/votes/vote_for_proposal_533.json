@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 533,
+      "address": "0x7F21B3E952ae82d10F66E03a9B39D198728A31E0",
+      "support": true,
+      "votingPower": 0.028951137521459207,
+      "transactionHash": "0x5fefab06a9da9c59a5c89a881fa9aaab88721586ff55ba83401318c88ab629de",
+      "blockNumber": 98201374,
+      "chainId": 43114,
+      "ensName": "sunyi.eth"
+    },
+    {
+      "proposalId": 533,
       "address": "0x070341aA5Ed571f0FB2c4a5641409B1A46b4961b",
       "support": true,
       "votingPower": 9999.9999,
