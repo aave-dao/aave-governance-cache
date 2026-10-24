@@ -53,5 +53,29 @@
       "chainId": 1,
       "hashLoading": false
     }
+  },
+  "536_2": {
+    "type": 2,
+    "title": "",
+    "timestamp": 1792833527,
+    "addresses": null,
+    "txInfo": {
+      "id": 536,
+      "hash": "0xad3888758357bdf0760f4749a241ce0e9c077dba28453c6356c1740d96a06779",
+      "chainId": 1,
+      "hashLoading": false
+    }
+  },
+  "536_3": {
+    "type": 3,
+    "title": "",
+    "timestamp": 1792834396,
+    "addresses": null,
+    "txInfo": {
+      "id": 536,
+      "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "chainId": 43114,
+      "hashLoading": false
+    }
   }
 }
