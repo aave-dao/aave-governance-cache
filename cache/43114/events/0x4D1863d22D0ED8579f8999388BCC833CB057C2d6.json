@@ -160398,5 +160398,52 @@
     "logIndex": 11,
     "removed": false,
     "blockTimestamp": null
+  },
+  {
+    "eventName": "ProposalVoteStarted",
+    "args": {
+      "proposalId": "537",
+      "l1BlockHash": "0x6ba1bae0eed3d3eb3db74e7dc5b47cd6458aa45602b98333adf1c3759e2107f1",
+      "startTime": "1793113955",
+      "endTime": "1793373155"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x4a35ebd1b3d3106a86d022fa35dfeaefd17695e3c7cd99d39841db619106ade2",
+      "0x0000000000000000000000000000000000000000000000000000000000000219",
+      "0x6ba1bae0eed3d3eb3db74e7dc5b47cd6458aa45602b98333adf1c3759e2107f1"
+    ],
+    "data": "0x000000000000000000000000000000000000000000000000000000006ae0bf63000000000000000000000000000000000000000000000000000000006ae4b3e3",
+    "blockNumber": "98701207",
+    "transactionHash": "0xcc7c0dafd7f8ae2c02bd499cb660cf65a57f3cd9d1cace5206c17e8b1bf4eb79",
+    "transactionIndex": 12,
+    "blockHash": "0xf751b023a7453d4f677cc4973ecfaf86fcb97719ea7b65c12ab23db2a793635a",
+    "logIndex": 27,
+    "removed": false,
+    "blockTimestamp": null
+  },
+  {
+    "eventName": "ProposalVoteConfigurationBridged",
+    "args": {
+      "proposalId": "537",
+      "blockHash": "0x6ba1bae0eed3d3eb3db74e7dc5b47cd6458aa45602b98333adf1c3759e2107f1",
+      "voteCreated": true,
+      "votingDuration": 259200
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0xb97f85602e54244368524a04b5db9a67dbbbfa909eace9334c79b7c0c1d255e5",
+      "0x0000000000000000000000000000000000000000000000000000000000000219",
+      "0x6ba1bae0eed3d3eb3db74e7dc5b47cd6458aa45602b98333adf1c3759e2107f1",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x000000000000000000000000000000000000000000000000000000000003f480",
+    "blockNumber": "98701207",
+    "transactionHash": "0xcc7c0dafd7f8ae2c02bd499cb660cf65a57f3cd9d1cace5206c17e8b1bf4eb79",
+    "transactionIndex": 12,
+    "blockHash": "0xf751b023a7453d4f677cc4973ecfaf86fcb97719ea7b65c12ab23db2a793635a",
+    "logIndex": 28,
+    "removed": false,
+    "blockTimestamp": null
   }
 ]
