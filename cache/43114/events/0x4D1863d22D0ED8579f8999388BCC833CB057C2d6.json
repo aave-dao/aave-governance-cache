@@ -160660,5 +160660,53 @@
     "logIndex": 62,
     "removed": false,
     "blockTimestamp": null
+  },
+  {
+    "eventName": "VoteEmitted",
+    "args": {
+      "proposalId": "538",
+      "voter": "0x2F2F665974261C4129b1DC6c359BD259CD66f78A",
+      "support": true,
+      "votingPower": "178312895477151513"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x0c611e7b6ae0de26f4772260e1bbdb5f58cbb7c275fe2de14671968d29add8d6",
+      "0x000000000000000000000000000000000000000000000000000000000000021a",
+      "0x0000000000000000000000002f2f665974261c4129b1dc6c359bd259cd66f78a",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x00000000000000000000000000000000000000000000000002797ea239c97719",
+    "blockNumber": "98822725",
+    "transactionHash": "0xdc7a2b11d0ba51b3c422ccd1be391ae13b5993268bc9d40469e8d49a5e51b9e3",
+    "transactionIndex": 0,
+    "blockHash": "0x51a4f63ca2c470d9308f4f022e268bec154e5ad1f5ed8ed1fd5cd476c1ee8d39",
+    "logIndex": 0,
+    "removed": false,
+    "blockTimestamp": null
+  },
+  {
+    "eventName": "VoteEmitted",
+    "args": {
+      "proposalId": "537",
+      "voter": "0x2F2F665974261C4129b1DC6c359BD259CD66f78A",
+      "support": true,
+      "votingPower": "178312895477151513"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x0c611e7b6ae0de26f4772260e1bbdb5f58cbb7c275fe2de14671968d29add8d6",
+      "0x0000000000000000000000000000000000000000000000000000000000000219",
+      "0x0000000000000000000000002f2f665974261c4129b1dc6c359bd259cd66f78a",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x00000000000000000000000000000000000000000000000002797ea239c97719",
+    "blockNumber": "98822737",
+    "transactionHash": "0xc3b58b96bea86d452a05ec060f0e132bd10b00316cf5756f1b30a7b5c160120a",
+    "transactionIndex": 0,
+    "blockHash": "0x96c3f2f71424ac7d79c8b93b16d03f9c2aab8e3ff4c45acb10d0bc517ce06834",
+    "logIndex": 0,
+    "removed": false,
+    "blockTimestamp": null
   }
 ]
