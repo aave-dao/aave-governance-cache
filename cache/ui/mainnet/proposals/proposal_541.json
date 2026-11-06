@@ -1,0 +1,505 @@
+{
+  "payloads": [
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1793965487,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1796989487,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xeEE482166c4C892e4B68bCAaEb3145506B235b80",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        },
+        {
+          "target": "0x08001e24d6906fFdbe16012059cD04A7770D83B8",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 481,
+      "chainId": 1,
+      "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1793965539,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1796989539,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x2fA3EA7A577516cEaE1AcC5e56dD622E7CF979be",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 40,
+      "chainId": 9745,
+      "payloadsController": "0xe76EB348E65eF163d85ce282125FF5a7F5712A1d"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1793965561,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1796989561,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xb2e1a7b83fcd99B434019ffdEfC60cc46457818c",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 129,
+      "chainId": 43114,
+      "payloadsController": "0x1140CB7CAfAcC745771C2Ea31e7B5C653c5d0B80"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1793965610,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1796989610,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x133f79bb07a8D4f224bBac25Ab49c117bDF96529",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 63,
+      "chainId": 56,
+      "payloadsController": "0xE5EF2Dd06755A97e975f7E282f828224F2C3e627"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1793965664,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1796989664,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xCee8CBb57a23Fff935a125F62574e527DbC2Ec82",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 11,
+      "chainId": 143,
+      "payloadsController": "0x442CA936e5E6Db875357d0A16481145c96dd9a82"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1793965714,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1796989714,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x961CBE7f38FE4156652cC20e80721f344e7f3F47",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 122,
+      "chainId": 8453,
+      "payloadsController": "0x2DC219E716793fb4b21548C0f009Ba3Af753ab01"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1793965750,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1796989750,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x095C874DBa53694d79E2B3518d109e2a5a8216ba",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 141,
+      "chainId": 42161,
+      "payloadsController": "0x89644CA1bB8064760312AE4F03ea41b05dA3637C"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1793965866,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1796989866,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xf962B22A879B22289604deDBB8Ca6e474De49445",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 14,
+      "chainId": 5000,
+      "payloadsController": "0xF089f77173A3009A98c45f49D547BF714A7B1e01"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1793965957,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1796989957,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xb2e77d98978A15a04BfB15C97d2af6139fc81Fd5",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 17,
+      "chainId": 196,
+      "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1793965989,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1796989989,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x5Aa58852a481C914211EadE519D9636b5aA7f226",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 150,
+      "chainId": 137,
+      "payloadsController": "0x401B5D0294E23637c18fcc38b1Bca814CDa2637C"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1793966023,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1796990023,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xF294041ED1703E9020BB95c41eE2000dE1C690cB",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 32,
+      "chainId": 59144,
+      "payloadsController": "0x3BcE23a1363728091bc57A58a226CF2940C2e074"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1793966131,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1796990131,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x6BABe888f39007ec2FCA2aA38509aDe8497E13cc",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 100,
+      "chainId": 10,
+      "payloadsController": "0x0E1a3Af1f9cC76A62eD31eDedca291E63632e7c4"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1793966150,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1796990150,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x4406621cD834aE6895C38EcE8E013d59A47AC3B4",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 86,
+      "chainId": 100,
+      "payloadsController": "0x9A1F491B86D09fC1484b5fab10041B189B60756b"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1793966172,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1796990172,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xC6153b7f4793d6E75C78245B0C8c04aA33A26599",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 12,
+      "chainId": 4326,
+      "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
+    },
+    {
+      "creator": "0x430C5b2dAAD87227F15412ab15F04c7371808f71",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1793966243,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1796990243,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xACaB7DB3bAd6FBfF778821a595cdE38d82d76Ac8",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 16,
+      "chainId": 42220,
+      "payloadsController": "0xE48E10834C04E394A04BF22a565D063D40b9FA42"
+    }
+  ],
+  "ipfs": null,
+  "proposal": {
+    "id": 541,
+    "votingDuration": 259200,
+    "creationTime": 1793972867,
+    "accessLevel": 1,
+    "state": 1,
+    "queuingTime": 0,
+    "ipfsHash": "0x9aecadd68e5527f01bb885aa8763d610977f8aaa4b03bd426f591f31b930c475",
+    "initialPayloads": [
+      {
+        "id": 481,
+        "chainId": 1,
+        "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5"
+      },
+      {
+        "id": 40,
+        "chainId": 9745,
+        "payloadsController": "0xe76EB348E65eF163d85ce282125FF5a7F5712A1d"
+      },
+      {
+        "id": 129,
+        "chainId": 43114,
+        "payloadsController": "0x1140CB7CAfAcC745771C2Ea31e7B5C653c5d0B80"
+      },
+      {
+        "id": 63,
+        "chainId": 56,
+        "payloadsController": "0xE5EF2Dd06755A97e975f7E282f828224F2C3e627"
+      },
+      {
+        "id": 11,
+        "chainId": 143,
+        "payloadsController": "0x442CA936e5E6Db875357d0A16481145c96dd9a82"
+      },
+      {
+        "id": 122,
+        "chainId": 8453,
+        "payloadsController": "0x2DC219E716793fb4b21548C0f009Ba3Af753ab01"
+      },
+      {
+        "id": 141,
+        "chainId": 42161,
+        "payloadsController": "0x89644CA1bB8064760312AE4F03ea41b05dA3637C"
+      },
+      {
+        "id": 14,
+        "chainId": 5000,
+        "payloadsController": "0xF089f77173A3009A98c45f49D547BF714A7B1e01"
+      },
+      {
+        "id": 17,
+        "chainId": 196,
+        "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
+      },
+      {
+        "id": 150,
+        "chainId": 137,
+        "payloadsController": "0x401B5D0294E23637c18fcc38b1Bca814CDa2637C"
+      },
+      {
+        "id": 32,
+        "chainId": 59144,
+        "payloadsController": "0x3BcE23a1363728091bc57A58a226CF2940C2e074"
+      },
+      {
+        "id": 100,
+        "chainId": 10,
+        "payloadsController": "0x0E1a3Af1f9cC76A62eD31eDedca291E63632e7c4"
+      },
+      {
+        "id": 86,
+        "chainId": 100,
+        "payloadsController": "0x9A1F491B86D09fC1484b5fab10041B189B60756b"
+      },
+      {
+        "id": 12,
+        "chainId": 4326,
+        "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
+      },
+      {
+        "id": 16,
+        "chainId": 42220,
+        "payloadsController": "0xE48E10834C04E394A04BF22a565D063D40b9FA42"
+      }
+    ],
+    "snapshotBlockHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "creator": "0x66a28531E6f390A8CD44aB0C57a0F1aeb7E673FF",
+    "canceledAt": 0,
+    "votingActivationTime": 0,
+    "votingChainId": 43114,
+    "votingMachineData": {
+      "id": 541,
+      "forVotes": "0",
+      "againstVotes": "0",
+      "startTime": 0,
+      "endTime": 0,
+      "votingClosedAndSentBlockNumber": 0,
+      "votingClosedAndSentTimestamp": 0,
+      "l1BlockHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "strategy": "0x6771B74568181f6042C9e5CFF98f62e7Ce40482e",
+      "sentToGovernance": false,
+      "createdBlock": 0,
+      "votedInfo": {
+        "support": false,
+        "votingPower": "0"
+      },
+      "votingAssets": [
+        "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "0x4da27a545c0c5B758a6BA100e3a049001de870f5",
+        "0xA700b4eB416Be35b2911fd5Dee80678ff64fF6C9"
+      ],
+      "hasRequiredRoots": false
+    },
+    "isFinished": false,
+    "lastUpdatedTimestamp": 1793977833,
+    "cancellationFee": 50000000000000000
+  }
+}
