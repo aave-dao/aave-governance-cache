@@ -2,6 +2,26 @@
   "votes": [
     {
       "proposalId": 540,
+      "address": "0xB933AEe47C438f22DE0747D57fc239FE37878Dd1",
+      "support": true,
+      "votingPower": 53708.6222865,
+      "transactionHash": "0x2790bbe8682c7382ccf49baa689af5106f6d93de91f368f2bb519a8147d014b3",
+      "blockNumber": 99583069,
+      "chainId": 43114,
+      "ensName": "wintermutegovernance.eth"
+    },
+    {
+      "proposalId": 540,
+      "address": "0x8b37a5Af68D315cf5A64097D96621F64b5502a22",
+      "support": true,
+      "votingPower": 76509.36687521,
+      "transactionHash": "0xbff864d98ee0ec39c4c1826fc82e789f4b456dc2de73458b89d972ebfc76a087",
+      "blockNumber": 99576217,
+      "chainId": 43114,
+      "ensName": "aretagov.eth"
+    },
+    {
+      "proposalId": 540,
       "address": "0x72FA20F7859A680C6ee0d81214C97e40E87ebb33",
       "support": true,
       "votingPower": 0.06862368055063911,
