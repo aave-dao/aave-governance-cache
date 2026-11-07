@@ -1,3 +1,14 @@
 {
-  "votes": []
+  "votes": [
+    {
+      "proposalId": 541,
+      "address": "0xE0E216283eef00895b6ABAa73848448596B85724",
+      "support": true,
+      "votingPower": 13.21621018694214,
+      "transactionHash": "0x9d6452abaabac53416a36eea47184f1134682464a7f6ed4265cf8082b9ed3bc4",
+      "blockNumber": 99686963,
+      "chainId": 43114,
+      "ensName": "amankrisz.eth"
+    }
+  ]
 }
