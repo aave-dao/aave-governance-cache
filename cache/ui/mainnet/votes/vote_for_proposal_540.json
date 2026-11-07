@@ -2,6 +2,36 @@
   "votes": [
     {
       "proposalId": 540,
+      "address": "0x4CA6B5aD4489d95adCD7032Ec57CA3C103FB7f10",
+      "support": true,
+      "votingPower": 0.10967920569004463,
+      "transactionHash": "0xaa570c18a9202d4b79bce42c4059ecff7efb9b6b1e6e5e0406b41fce79577526",
+      "blockNumber": 99665806,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 540,
+      "address": "0x9a718FeEd6a77c59eD5B386B3d580F5C044C195A",
+      "support": true,
+      "votingPower": 0.2113986874888755,
+      "transactionHash": "0x480551451319f6b1e2507178979983ae663f480d0d08cf8582196f7edb0ce361",
+      "blockNumber": 99665713,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 540,
+      "address": "0x0485012B20Fd84102F75379755d4d6cf7642a6c6",
+      "support": true,
+      "votingPower": 10.017558590214163,
+      "transactionHash": "0x62625bea13f38b31de1772054d4b40fa0c841a210efdf907ea66329ae0907db0",
+      "blockNumber": 99661117,
+      "chainId": 43114,
+      "ensName": "kewell.eth"
+    },
+    {
+      "proposalId": 540,
       "address": "0x7c4b8BfBf1a92D745593a75d0b8Cf6D324d48101",
       "support": true,
       "votingPower": 0.10605440750186457,

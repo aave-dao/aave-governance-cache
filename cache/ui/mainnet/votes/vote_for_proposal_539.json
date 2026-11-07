@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 539,
+      "address": "0x0485012B20Fd84102F75379755d4d6cf7642a6c6",
+      "support": true,
+      "votingPower": 10.017558590214163,
+      "transactionHash": "0x9618e3849af6ac26aaf8d9ae0d3734f4a644aa65946176e00cea363e5b6d84fc",
+      "blockNumber": 99661097,
+      "chainId": 43114,
+      "ensName": "kewell.eth"
+    },
+    {
+      "proposalId": 539,
       "address": "0xE0E216283eef00895b6ABAa73848448596B85724",
       "support": true,
       "votingPower": 10.108504754380832,
