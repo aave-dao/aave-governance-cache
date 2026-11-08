@@ -161875,5 +161875,101 @@
     "logIndex": 0,
     "removed": false,
     "blockTimestamp": null
+  },
+  {
+    "eventName": "VoteEmitted",
+    "args": {
+      "proposalId": "541",
+      "voter": "0x616Ed83D247FC2a90B247852a0895F9Ed4a3Db0f",
+      "support": true,
+      "votingPower": "102703663549946346"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x0c611e7b6ae0de26f4772260e1bbdb5f58cbb7c275fe2de14671968d29add8d6",
+      "0x000000000000000000000000000000000000000000000000000000000000021d",
+      "0x000000000000000000000000616ed83d247fc2a90b247852a0895f9ed4a3db0f",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x000000000000000000000000000000000000000000000000016ce070170699ea",
+    "blockNumber": "99743874",
+    "transactionHash": "0xb7a7fde4801792e6c8d547c22602b9d22297d055b6d401335cc8e0dc3966e678",
+    "transactionIndex": 4,
+    "blockHash": "0xc2c3efbca4702d4883d90bc1e82304edb964e550426f7d46382f918bdd0ac8ad",
+    "logIndex": 9,
+    "removed": false,
+    "blockTimestamp": null
+  },
+  {
+    "eventName": "VoteEmitted",
+    "args": {
+      "proposalId": "541",
+      "voter": "0x3E51A14e55f55E6dbDAFe8C1EddE9cf3Bb020586",
+      "support": true,
+      "votingPower": "126989166806213573"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x0c611e7b6ae0de26f4772260e1bbdb5f58cbb7c275fe2de14671968d29add8d6",
+      "0x000000000000000000000000000000000000000000000000000000000000021d",
+      "0x0000000000000000000000003e51a14e55f55e6dbdafe8c1edde9cf3bb020586",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x00000000000000000000000000000000000000000000000001c327f971cea3c5",
+    "blockNumber": "99743933",
+    "transactionHash": "0xe8ef787c5bb1370e373f135313d63a98377d542205e708ed80717b322a4ce211",
+    "transactionIndex": 0,
+    "blockHash": "0x9a2cefbcd45e7363a2da66abee96986bc2a8293182654884b51fdd01f67ff919",
+    "logIndex": 0,
+    "removed": false,
+    "blockTimestamp": null
+  },
+  {
+    "eventName": "VoteEmitted",
+    "args": {
+      "proposalId": "540",
+      "voter": "0x412E4f88c007a23B44a2f9CDa46A923f90b9aD54",
+      "support": true,
+      "votingPower": "108469348585967488"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x0c611e7b6ae0de26f4772260e1bbdb5f58cbb7c275fe2de14671968d29add8d6",
+      "0x000000000000000000000000000000000000000000000000000000000000021c",
+      "0x000000000000000000000000412e4f88c007a23b44a2f9cda46a923f90b9ad54",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x00000000000000000000000000000000000000000000000001815c4c3f7c0f80",
+    "blockNumber": "99744134",
+    "transactionHash": "0xbf2df6c755cd6a5e9e0b2d70b66223dd4c0dc54ee29f6e9409f8ff97e16e19b0",
+    "transactionIndex": 0,
+    "blockHash": "0xf4b124e02ff2bac0304f9743e60cca56c156b53cfbabc977a6405bc99ea868d6",
+    "logIndex": 0,
+    "removed": false,
+    "blockTimestamp": null
+  },
+  {
+    "eventName": "VoteEmitted",
+    "args": {
+      "proposalId": "541",
+      "voter": "0xF41C7a208156B46C89e028412Dca41d1F05feDE8",
+      "support": true,
+      "votingPower": "111181082300616675"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x0c611e7b6ae0de26f4772260e1bbdb5f58cbb7c275fe2de14671968d29add8d6",
+      "0x000000000000000000000000000000000000000000000000000000000000021d",
+      "0x000000000000000000000000f41c7a208156b46c89e028412dca41d1f05fede8",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x000000000000000000000000000000000000000000000000018afe9af4458fe3",
+    "blockNumber": "99744313",
+    "transactionHash": "0xdad8fe1c10748fbe742ff4da051294ea3bfdd2253de75a8c2f751ec2a0b11519",
+    "transactionIndex": 9,
+    "blockHash": "0xf72c155357a0ee406c93368927ade349415ddb855c18a81f468a883d7d3800f6",
+    "logIndex": 18,
+    "removed": false,
+    "blockTimestamp": null
   }
 ]
