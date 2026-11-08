@@ -137,5 +137,17 @@
       "chainId": 1,
       "hashLoading": false
     }
+  },
+  "542_2": {
+    "type": 2,
+    "title": "",
+    "timestamp": 1794171371,
+    "addresses": null,
+    "txInfo": {
+      "id": 542,
+      "hash": "0x7488991bc96387b7e40e23dc078517d925a531482359a9791a29edbbe6949eda",
+      "chainId": 1,
+      "hashLoading": false
+    }
   }
 }

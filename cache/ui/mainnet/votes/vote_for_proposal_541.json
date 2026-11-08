@@ -2,6 +2,26 @@
   "votes": [
     {
       "proposalId": 541,
+      "address": "0xEe318D6348D453E12355ae3d0bd836dDa9bFA3Ed",
+      "support": true,
+      "votingPower": 210.31674715335427,
+      "transactionHash": "0xafb2e726003f4f9a270ecc804ca7d14f8f059eed039520e45d8c5507577c8768",
+      "blockNumber": 99791024,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 541,
+      "address": "0x8b37a5Af68D315cf5A64097D96621F64b5502a22",
+      "support": true,
+      "votingPower": 76509.36687521,
+      "transactionHash": "0x7a8c8ea366c4a92f90f468fd1356b1a49f3c1eecf7b7675bcb9b64ebbc28b244",
+      "blockNumber": 99790176,
+      "chainId": 43114,
+      "ensName": "aretagov.eth"
+    },
+    {
+      "proposalId": 541,
       "address": "0x3320756d61303284B8012A660Ee185C58EDd3BB7",
       "support": true,
       "votingPower": 107243.98459054,
