@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 541,
+      "address": "0xB933AEe47C438f22DE0747D57fc239FE37878Dd1",
+      "support": true,
+      "votingPower": 53708.6222865,
+      "transactionHash": "0xde6042854205f21979f8fa2e12f1c89a05b89ec20f1b3c92a1083cc00b5df0d2",
+      "blockNumber": 99848606,
+      "chainId": 43114,
+      "ensName": "wintermutegovernance.eth"
+    },
+    {
+      "proposalId": 541,
       "address": "0x3676E9b6A38c5526eddA4a89763Dd97b5813574d",
       "support": true,
       "votingPower": 25000.4864,
