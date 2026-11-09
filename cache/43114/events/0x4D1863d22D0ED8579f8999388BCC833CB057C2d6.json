@@ -162276,5 +162276,101 @@
     "logIndex": 2,
     "removed": false,
     "blockTimestamp": null
+  },
+  {
+    "eventName": "VoteEmitted",
+    "args": {
+      "proposalId": "541",
+      "voter": "0xeDBD6E1F8E221BF5755EBD3f9A5E6B8368850666",
+      "support": true,
+      "votingPower": "10020942332749734538"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x0c611e7b6ae0de26f4772260e1bbdb5f58cbb7c275fe2de14671968d29add8d6",
+      "0x000000000000000000000000000000000000000000000000000000000000021d",
+      "0x000000000000000000000000edbd6e1f8e221bf5755ebd3f9a5e6b8368850666",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x0000000000000000000000000000000000000000000000008b1189f55a38e28a",
+    "blockNumber": "99827557",
+    "transactionHash": "0x0779faa8ea11d8f6c6cb76f3e11d9af44a0e1d7e55b9be856d0f44f643ea6353",
+    "transactionIndex": 14,
+    "blockHash": "0xf8a6c37290f3bde9f9698583ec584181b50a3bc257d93c8661b42376e8157c3d",
+    "logIndex": 21,
+    "removed": false,
+    "blockTimestamp": null
+  },
+  {
+    "eventName": "VoteEmitted",
+    "args": {
+      "proposalId": "542",
+      "voter": "0xeDBD6E1F8E221BF5755EBD3f9A5E6B8368850666",
+      "support": true,
+      "votingPower": "10020942332749734538"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x0c611e7b6ae0de26f4772260e1bbdb5f58cbb7c275fe2de14671968d29add8d6",
+      "0x000000000000000000000000000000000000000000000000000000000000021e",
+      "0x000000000000000000000000edbd6e1f8e221bf5755ebd3f9a5e6b8368850666",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x0000000000000000000000000000000000000000000000008b1189f55a38e28a",
+    "blockNumber": "99827581",
+    "transactionHash": "0xf7031d7ecb5d172fe2b8e5ff22cb55a4a8542f2470334e9cb3b55ee20a4148ad",
+    "transactionIndex": 1,
+    "blockHash": "0x86ceb063c1803f13ff920448dfe5086195170c89088a83089c82d583907512ea",
+    "logIndex": 1,
+    "removed": false,
+    "blockTimestamp": null
+  },
+  {
+    "eventName": "VoteEmitted",
+    "args": {
+      "proposalId": "541",
+      "voter": "0x3676E9b6A38c5526eddA4a89763Dd97b5813574d",
+      "support": true,
+      "votingPower": "25000486400000000000000"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x0c611e7b6ae0de26f4772260e1bbdb5f58cbb7c275fe2de14671968d29add8d6",
+      "0x000000000000000000000000000000000000000000000000000000000000021d",
+      "0x0000000000000000000000003676e9b6a38c5526edda4a89763dd97b5813574d",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x00000000000000000000000000000000000000000000054b4772028bd0600000",
+    "blockNumber": "99837305",
+    "transactionHash": "0x0f680c969a15208a503e5e44d6e46045a8f6ba363db68ea71b31c894104fa8c4",
+    "transactionIndex": 0,
+    "blockHash": "0xd88161a1c44ba33cef9bb7447eed99ff377d6222d91e47f9be580e84a8d94da9",
+    "logIndex": 0,
+    "removed": false,
+    "blockTimestamp": null
+  },
+  {
+    "eventName": "VoteEmitted",
+    "args": {
+      "proposalId": "542",
+      "voter": "0x3676E9b6A38c5526eddA4a89763Dd97b5813574d",
+      "support": true,
+      "votingPower": "25000486400000000000000"
+    },
+    "address": "0x4d1863d22d0ed8579f8999388bcc833cb057c2d6",
+    "topics": [
+      "0x0c611e7b6ae0de26f4772260e1bbdb5f58cbb7c275fe2de14671968d29add8d6",
+      "0x000000000000000000000000000000000000000000000000000000000000021e",
+      "0x0000000000000000000000003676e9b6a38c5526edda4a89763dd97b5813574d",
+      "0x0000000000000000000000000000000000000000000000000000000000000001"
+    ],
+    "data": "0x00000000000000000000000000000000000000000000054b4772028bd0600000",
+    "blockNumber": "99837325",
+    "transactionHash": "0x2951c9a0f13fd26c4e875990f474fc1565700a09316e8e377c502641365f0a92",
+    "transactionIndex": 10,
+    "blockHash": "0x9e5065bdaf758aefde25698c615a79c10e05e200e5c6abc12e942a8f5bf007e0",
+    "logIndex": 11,
+    "removed": false,
+    "blockTimestamp": null
   }
 ]

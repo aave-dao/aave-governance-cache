@@ -1,3 +1,24 @@
 {
-  "votes": []
+  "votes": [
+    {
+      "proposalId": 542,
+      "address": "0x3676E9b6A38c5526eddA4a89763Dd97b5813574d",
+      "support": true,
+      "votingPower": 25000.4864,
+      "transactionHash": "0x2951c9a0f13fd26c4e875990f474fc1565700a09316e8e377c502641365f0a92",
+      "blockNumber": 99837325,
+      "chainId": 43114,
+      "ensName": null
+    },
+    {
+      "proposalId": 542,
+      "address": "0xeDBD6E1F8E221BF5755EBD3f9A5E6B8368850666",
+      "support": true,
+      "votingPower": 10.020942332749735,
+      "transactionHash": "0xf7031d7ecb5d172fe2b8e5ff22cb55a4a8542f2470334e9cb3b55ee20a4148ad",
+      "blockNumber": 99827581,
+      "chainId": 43114,
+      "ensName": "amankris.eth"
+    }
+  ]
 }
