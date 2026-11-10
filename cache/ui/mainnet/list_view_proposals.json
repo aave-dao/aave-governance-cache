@@ -3629,7 +3629,7 @@
     },
     {
       "id": 518,
-      "title": "Proposal #518",
+      "title": "USDC GSM Arbitrum",
       "combineState": 4,
       "finishedTimestamp": 1789485986,
       "ipfsHash": "0x60b6cfc9ec530c500b8d7fe7fa17eabece4d55c0f9a0d1a7f237e5c4b2b1b820"
@@ -3643,147 +3643,147 @@
     },
     {
       "id": 520,
-      "title": "Proposal #520",
+      "title": "Maintenance: Grant AL RETRY_ROLE on a.DI (Part 2)",
       "combineState": 4,
       "finishedTimestamp": 1789901712,
       "ipfsHash": "0xd734ae8bedaaabf797ccf554350b2d5d9105aca60863063640940c4369a8ac61"
     },
     {
       "id": 521,
-      "title": "Proposal #521",
+      "title": "Low Adoption Asset Deprecation on Aave V3",
       "combineState": 4,
       "finishedTimestamp": 1789918212,
       "ipfsHash": "0x8f9b58156f3acb6191d5243fd2c1138434a87fec7c6a5b12bd55af9f531b3b8a"
     },
     {
       "id": 522,
-      "title": "Proposal #522",
+      "title": "Safety Module August 2026 - Allowance Update",
       "combineState": 4,
       "finishedTimestamp": 1790338187,
       "ipfsHash": "0x397bc6c7a23760503531f9b6370c8c7d66f06e2e814c5a3378c8c8738c6bb3a0"
     },
     {
       "id": 523,
-      "title": "Proposal #523",
+      "title": "Aave V4 Risk Stewards Activation",
       "combineState": 4,
       "finishedTimestamp": 1790763517,
       "ipfsHash": "0x73786bbdbef87459ae40c07e2c165b70288955e1c4252801b61a07adff533795"
     },
     {
       "id": 524,
-      "title": "Proposal #524",
+      "title": "Onboard PT-sUSDe-22OCT2026 to the LlamaRisk PT Risk Oracle",
       "combineState": 4,
       "finishedTimestamp": 1791129494,
       "ipfsHash": "0x0d1d4dd725feec8adb4e8baf287b169917b7b811c5a7f23d14b3579a2f2ea1b9"
     },
     {
       "id": 525,
-      "title": "Proposal #525",
+      "title": "Onboard PT-AUSD-17DEC2026 to Aave V3 Monad",
       "combineState": 4,
       "finishedTimestamp": 1791462014,
       "ipfsHash": "0x6b0a939103881ef50c32d0fa1ae135aa2408be38dbce7c94bf890a9619fedbea"
     },
     {
       "id": 526,
-      "title": "Proposal #526",
+      "title": "Oracle Deprecation for Long-tail Assets",
       "combineState": 4,
       "finishedTimestamp": 1791805119,
       "ipfsHash": "0x69ef0fa27a01724f6bc44ae0f671e1a6eaf79ea5ab2a79e100497a99339c703f"
     },
     {
       "id": 527,
-      "title": "Proposal #527",
+      "title": "Onboard PT-AUSD-17DEC2026 to the LlamaRisk PT Risk Oracle",
       "combineState": 4,
       "finishedTimestamp": 1792000394,
       "ipfsHash": "0x9cda9cd75912bebd39701e73e63708c84eb69cbfbb163fc2692337e9ad68f8b9"
     },
     {
       "id": 528,
-      "title": "Proposal #528",
+      "title": "Umbrella - Renew Allowances",
       "combineState": 4,
       "finishedTimestamp": 1792165595,
       "ipfsHash": "0x52adb9249696beb6a5ad870fc216dd9ee0cf13ccc40bd1465b8a6a59a2ccceee"
     },
     {
       "id": 529,
-      "title": "Proposal #529",
+      "title": "August/September 2026 Funding Update",
       "combineState": 4,
       "finishedTimestamp": 1792167374,
       "ipfsHash": "0xbeb01771987e5538656debd2c9df90de5ca87651e20ec363118003e98c853274"
     },
     {
       "id": 530,
-      "title": "Proposal #530",
+      "title": "Move stkGHO Claim Helper Role to Updated StkGhoMigrator",
       "combineState": 4,
       "finishedTimestamp": 1792247003,
       "ipfsHash": "0x09af0efee7bc23d8da314ff2266fc703fb46544af514e1fad1ef8383fe05c89a"
     },
     {
       "id": 531,
-      "title": "Proposal #531",
+      "title": "Asset Listing - Pendle PT-USDG-25FEB2027 X Layer",
       "combineState": 4,
       "finishedTimestamp": 1792441776,
       "ipfsHash": "0x5c1edfc535f9b8f079a4233be60f104eae9f82dbe6f1b9094669422847498fa4"
     },
     {
       "id": 532,
-      "title": "Proposal #532",
+      "title": "[Direct to AIP] Onboard USDe to Aave V4 Core Instance on Avalanche",
       "combineState": 6,
       "finishedTimestamp": 1792184639,
       "ipfsHash": "0x2c10ba94472094d4d3b346d6a3d07d36e3b8493e5fd66b6270a7615f2b0abdf9"
     },
     {
       "id": 533,
-      "title": "Proposal #533",
+      "title": "Onboard USDe to Aave V3 X Layer",
       "combineState": 4,
       "finishedTimestamp": 1792771596,
       "ipfsHash": "0x7a1f2af0839058009245d2d8c1346427202dc40d0497b05d8e1d077fd2446ec3"
     },
     {
       "id": 534,
-      "title": "Proposal #534",
+      "title": "Liquidation Protocol Fee Increase for WBTC, WETH, and wstETH on Aave V3 Ethereum Core",
       "combineState": 4,
       "finishedTimestamp": 1792851419,
       "ipfsHash": "0x1d165e4baf1b234fb8975b1355fa4454d37b01005288340c7b82823988511880"
     },
     {
       "id": 535,
-      "title": "Proposal #535",
+      "title": "Onboard USDe to Aave V4 Core Instance on Avalanche",
       "combineState": 4,
       "finishedTimestamp": 1793011447,
       "ipfsHash": "0x8f8a706d2733073528f71b581e76841fdef7c2d3b00c8f8c40c3fbf0faa4aa14"
     },
     {
       "id": 536,
-      "title": "Proposal #536",
+      "title": "Revision of ETH & BTC Collateral Efficiency on Aave",
       "combineState": 4,
       "finishedTimestamp": 1793180798,
       "ipfsHash": "0x829768abe566675c88eb39d5e15d451caf2bdca5afc05ed469c01726c25378c3"
     },
     {
       "id": 537,
-      "title": "Proposal #537",
+      "title": "Onboard SPCXc to the Aave V4 Equities Hub on Base",
       "combineState": 4,
       "finishedTimestamp": 1793459857,
       "ipfsHash": "0x13b3dddae6a2d13c771e4be230c573603fb98d876cc6892da43fe1e91375380c"
     },
     {
       "id": 538,
-      "title": "Proposal #538",
+      "title": "Onboard PT-USDG-25FEB2027 to the LlamaRisk PT Risk Oracle",
       "combineState": 4,
       "finishedTimestamp": 1793529576,
       "ipfsHash": "0x7541bbdf36d09e6e86f57ba4764b196b29de4c0a2f2cc30c6841a80e327b60f6"
     },
     {
       "id": 539,
-      "title": "Proposal #539",
+      "title": "Onboard cirBTC on Aave V3 Core and Aave V4 Core",
       "combineState": 4,
       "finishedTimestamp": 1794252299,
       "ipfsHash": "0x77f754ecd53c6137299e5df9ecd817604b16a41bae3c86233f4d736b3c2b25f7"
     },
     {
       "id": 540,
-      "title": "Proposal #540",
+      "title": "Onboard PAXGy to Aave V4 Global Dollar Hub",
       "combineState": 4,
       "finishedTimestamp": 1794252287,
       "ipfsHash": "0x18d49d6370897ea87a49b1d845439c10c15e72c1bf3134ac6fbd4ddc4db229eb"
