@@ -3800,9 +3800,9 @@
       },
       "541": {
         "proposalId": 541,
-        "proposalStatus": 1,
+        "proposalStatus": 2,
         "ipfsHash": "0x9aecadd68e5527f01bb885aa8763d610977f8aaa4b03bd426f591f31b930c475",
-        "status": 0,
+        "status": 1,
         "title": "Upgrade Aave instances to v3.8"
       },
       "542": {
