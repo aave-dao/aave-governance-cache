@@ -384,7 +384,15 @@
       "payloadsController": "0xE48E10834C04E394A04BF22a565D063D40b9FA42"
     }
   ],
-  "ipfs": null,
+  "ipfs": {
+    "ipfsHash": "QmYmQpER3QQsDVVSsEFfMhuLELBAtcAip2sX7LCvS3fbYx",
+    "description": "\n## Simple Summary\n\nThis proposal upgrades Aave V3 to V3.8, a non-invasive and very measured release focused on security. The changes it introduces are quite minor, but we consider them worth applying to make the system more robust and resilient going forward.\n\nIt includes the following changes:\n\n- A reentrancy guard on Pool operations during external callbacks.\n\nSecuring Aave V3 remains a top priority, and additional security reviews are being planned. Further defense-in-depth improvements may be proposed in future upgrades.\n\n## Motivation\n\nAave V3.8 aims to make the system more robust and predictable. Gas costs are no longer the concern they once were, and recent developments such as transient storage allow the protocol to be strengthened with little downside in efficiency or gas costs.\n\n## Aave V3.8 Changes\n\n### Reentrancy hardening\n\nAave V3.8 introduces a guard based on transient storage (EIP-1153) that protects Pool accounting consistency, including when a single transaction's execution flow interacts with the Pool more than once. The change is intended to strengthen the robustness and security of the protocol over the long term, aligning the pools with industry best practice and protecting them against theoretical reentrancy exploits. Gas costs were historically a concern for this type of guard. With transient storage, that concern is no longer valid, as the guard can be applied with little overhead.\n\n## Specification\n\nThe upgrade applies to the Aave V3 instances on Ethereum (Core and Lido), Plasma, Avalanche, BNB, Monad, Base, Arbitrum, Mantle, X Layer, Polygon, Linea, Optimism, Gnosis, MegaETH and Celo.\n\n## Licensing\n\nAave V3.8 will be published as its own version of the Licensed Work under a Business Source License. The licence text is available [here](https://github.com/aave-dao/aave-v3-origin/blob/9b992e5887f5955f8f710e317c7c782546e79456/LICENSE) and will be included in the V3.8 repository. The Change Date for V3.8 is set by Aave Governance and recorded in the change-date text record at v38.aavelicense.eth. Until Governance sets a date, V3.8 stays under the Business Source License. As with the other codebase IP, the V3.8 IP will be transferred to the Aave Foundation through a separate governance proposal.\n\n## Security\n\nAave V3.8 has been audited by:\n\n- [Certora](https://github.com/aave-dao/aave-v3-origin/blob/9b992e5887f5955f8f710e317c7c782546e79456/audits/2026-10-20_Certora_Aave-v3.8.pdf)\n- [ChainSecurity](https://github.com/aave-dao/aave-v3-origin/blob/9b992e5887f5955f8f710e317c7c782546e79456/audits/2026-10-27_ChainSecurity_Aave-v3.8.pdf)\n- [TomerSecurityFirst](https://github.com/aave-dao/aave-v3-origin/blob/9b992e5887f5955f8f710e317c7c782546e79456/audits/2026-10-27_TomerSecurityFirst_Aave-v3.8.pdf)\n\n## References\n\n- [Implementation](https://github.com/aave/protocol-v3.8-upgrade/blob/main/src/UpgradePayload.sol)\n- [Deployments](https://github.com/aave/protocol-v3.8-upgrade/blob/main/src/Deployments.sol)\n- [Tests](https://github.com/aave/protocol-v3.8-upgrade/tree/main/test)\n- [Code diffs](https://github.com/aave/protocol-v3.8-upgrade/tree/main/diffs/code)\n- [Execution diffs](https://github.com/aave/protocol-v3.8-upgrade/tree/main/diffs)\n- [Snapshot](https://snapshot.org/#/s:aavedao.eth/proposal/0xe425ad8fc8cf631c358427d1cd37beb0de963230b547c77ac02c754e63bbebae)\n- [Discussion](https://governance.aave.com/t/arfc-aave-v3-8/25891)\n\n## Copyright\n\nCopyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).\n",
+    "title": "Upgrade Aave instances to v3.8",
+    "author": "Aave Labs",
+    "discussions": "https://governance.aave.com/t/arfc-aave-v3-8/25891",
+    "snapshot": "https://snapshot.org/#/s:aavedao.eth/proposal/0xe425ad8fc8cf631c358427d1cd37beb0de963230b547c77ac02c754e63bbebae",
+    "originalIpfsHash": "0x9aecadd68e5527f01bb885aa8763d610977f8aaa4b03bd426f591f31b930c475"
+  },
   "proposal": {
     "id": 541,
     "votingDuration": 259200,
@@ -499,7 +507,7 @@
       "hasRequiredRoots": true
     },
     "isFinished": false,
-    "lastUpdatedTimestamp": 1794280374,
+    "lastUpdatedTimestamp": 1794291410,
     "cancellationFee": 50000000000000000
   }
 }

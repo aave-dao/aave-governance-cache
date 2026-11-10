@@ -3290,7 +3290,7 @@
         "proposalStatus": 4,
         "ipfsHash": "0x60b6cfc9ec530c500b8d7fe7fa17eabece4d55c0f9a0d1a7f237e5c4b2b1b820",
         "status": 1,
-        "title": "Proposal #518"
+        "title": "USDC GSM Arbitrum"
       },
       "519": {
         "proposalId": 519,
@@ -3304,7 +3304,7 @@
         "proposalStatus": 4,
         "ipfsHash": "0x397bc6c7a23760503531f9b6370c8c7d66f06e2e814c5a3378c8c8738c6bb3a0",
         "status": 1,
-        "title": "Proposal #522"
+        "title": "Safety Module August 2026 - Allowance Update"
       },
       "525": {
         "proposalId": 525,
@@ -3332,14 +3332,14 @@
         "proposalStatus": 4,
         "ipfsHash": "0x5c1edfc535f9b8f079a4233be60f104eae9f82dbe6f1b9094669422847498fa4",
         "status": 1,
-        "title": "Proposal #531"
+        "title": "Asset Listing - Pendle PT-USDG-25FEB2027 X Layer"
       },
       "533": {
         "proposalId": 533,
         "proposalStatus": 4,
         "ipfsHash": "0x7a1f2af0839058009245d2d8c1346427202dc40d0497b05d8e1d077fd2446ec3",
         "status": 1,
-        "title": "Proposal #533"
+        "title": "Onboard USDe to Aave V3 X Layer"
       }
     },
     "0x66a28531E6f390A8CD44aB0C57a0F1aeb7E673FF": {
@@ -3789,28 +3789,28 @@
         "proposalStatus": 4,
         "ipfsHash": "0x77f754ecd53c6137299e5df9ecd817604b16a41bae3c86233f4d736b3c2b25f7",
         "status": 1,
-        "title": "Proposal #539"
+        "title": "Onboard cirBTC on Aave V3 Core and Aave V4 Core"
       },
       "540": {
         "proposalId": 540,
         "proposalStatus": 4,
         "ipfsHash": "0x18d49d6370897ea87a49b1d845439c10c15e72c1bf3134ac6fbd4ddc4db229eb",
         "status": 1,
-        "title": "Proposal #540"
+        "title": "Onboard PAXGy to Aave V4 Global Dollar Hub"
       },
       "541": {
         "proposalId": 541,
         "proposalStatus": 1,
         "ipfsHash": "0x9aecadd68e5527f01bb885aa8763d610977f8aaa4b03bd426f591f31b930c475",
         "status": 0,
-        "title": "Proposal #541"
+        "title": "Upgrade Aave instances to v3.8"
       },
       "542": {
         "proposalId": 542,
         "proposalStatus": 1,
         "ipfsHash": "0xe8aef68e83766e4e1b92f4f88b924e85434470e75f041a7442de1ba5dbd238bc",
         "status": 0,
-        "title": "Proposal #542"
+        "title": "Update CoW Swap Adapters flashBorrowers"
       }
     }
   }
