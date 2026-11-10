@@ -30,7 +30,13 @@ import { createViemClient } from './createClient';
 require('dotenv').config();
 
 export const ipfsPrivateGateway: string =
-  process.env.IPFS_GATEWAY || 'https://dweb.link/ipfs';
+  process.env.IPFS_GATEWAY || 'https://app-ipfs.aave.com/ipfs';
+// dweb.link and ipfs.io rate-limit (429) the CI runner, so they come last
+const ipfsFallbackGateways = [
+  'https://ipfs.filebase.io/ipfs',
+  'https://dweb.link/ipfs',
+  'https://ipfs.io/ipfs',
+];
 
 async function updateIpfsCache(proposalsCache: ProposalsCache) {
   const ipfsCache: Record<string, ProposalMetadata> =
@@ -42,6 +48,7 @@ async function updateIpfsCache(proposalsCache: ProposalsCache) {
         const metadata = await getProposalMetadata({
           hash: proposalsCache[id].ipfsHash,
           gateway: ipfsPrivateGateway,
+          fallbackGateways: ipfsFallbackGateways,
         });
         if (metadata) {
           ipfsCache[proposalsCache[id].ipfsHash] = metadata;
