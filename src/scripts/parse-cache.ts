@@ -806,7 +806,8 @@ async function parseCache() {
         if (
           !proposalCache ||
           !proposalCache?.proposal.isFinished ||
-          Number(proposalCache.proposal.cancellationFee) > 0
+          Number(proposalCache.proposal.cancellationFee) > 0 ||
+          (!proposalCache.ipfs && !!proposalIpfsData)
         ) {
           writeJSONCache(
             `${initDirName}/proposals`,
@@ -958,9 +959,13 @@ async function parseCache() {
           ipfsHash: proposal.ipfsHash,
         };
       } else {
-        return proposalsListCache.proposals.filter(
+        const cached = proposalsListCache.proposals.filter(
           (prop) => prop.id === proposal.id,
         )[0];
+        return {
+          ...cached,
+          title: ipfsCache[proposal.ipfsHash]?.title || cached.title,
+        };
       }
     });
 
@@ -1054,9 +1059,12 @@ async function parseCache() {
             ipfsCache[proposal.ipfsHash]?.title || `Proposal #${proposal.id}`,
         };
       } else {
+        const cached =
+          creationFeesCache.data[proposal.creator as Address][proposal.id];
         return {
           creator: proposal.creator,
-          ...creationFeesCache.data[proposal.creator as Address][proposal.id],
+          ...cached,
+          title: ipfsCache[proposal.ipfsHash]?.title || cached.title,
         };
       }
     },
