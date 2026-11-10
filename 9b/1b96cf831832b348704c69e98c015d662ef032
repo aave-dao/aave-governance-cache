@@ -1,0 +1,20 @@
+src/scripts/update-cache-package.ts
+  s_59a1ef92c296e1::t_7d4f4d8faaa6c0 33-39
+  s_59a1ef92c296e1::t_8df46f752b9a20 51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9b1b96cf831832b348704c69e98c015d662ef032",
+  "prompts": {},
+  "sessions": {
+    "s_59a1ef92c296e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "12ad345c-bf2f-4a86-8ddb-e5bc35567dfd",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "DhairyaSethi <55102840+DhairyaSethi@users.noreply.github.com>"
+    }
+  }
+}
