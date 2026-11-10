@@ -1,0 +1,21 @@
+src/scripts/parse-cache.ts
+  s_59a1ef92c296e1::t_69b22ed42089a9 962,965-968
+  s_59a1ef92c296e1::t_368a86978ef990 1062-1063,1066-1067
+  s_59a1ef92c296e1::t_3591f8898c6d8e 809-810
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "975a5fab92f82e9a4ac3b4c5757c19374d7af541",
+  "prompts": {},
+  "sessions": {
+    "s_59a1ef92c296e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "12ad345c-bf2f-4a86-8ddb-e5bc35567dfd",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "DhairyaSethi <55102840+DhairyaSethi@users.noreply.github.com>"
+    }
+  }
+}
