@@ -3807,9 +3807,9 @@
       },
       "542": {
         "proposalId": 542,
-        "proposalStatus": 1,
+        "proposalStatus": 2,
         "ipfsHash": "0xe8aef68e83766e4e1b92f4f88b924e85434470e75f041a7442de1ba5dbd238bc",
-        "status": 0,
+        "status": 1,
         "title": "Update CoW Swap Adapters flashBorrowers"
       }
     }
