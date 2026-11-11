@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 542,
+      "address": "0x43640F8bc95a4E0ea894dfF077753D02Cc86DCf7",
+      "support": true,
+      "votingPower": 0.10594188293157081,
+      "transactionHash": "0x41c56b3910cedb3977a3a96129b59e71da115b66fb0bbfddc25d408aa377d8df",
+      "blockNumber": 99979179,
+      "chainId": 43114,
+      "ensName": "jueshengqianli.eth"
+    },
+    {
+      "proposalId": 542,
       "address": "0x3320756d61303284B8012A660Ee185C58EDd3BB7",
       "support": true,
       "votingPower": 107243.98459054,
