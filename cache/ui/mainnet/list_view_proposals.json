@@ -3787,6 +3787,13 @@
       "combineState": 4,
       "finishedTimestamp": 1794252287,
       "ipfsHash": "0x18d49d6370897ea87a49b1d845439c10c15e72c1bf3134ac6fbd4ddc4db229eb"
+    },
+    {
+      "id": 541,
+      "title": "Upgrade Aave instances to v3.8",
+      "combineState": 4,
+      "finishedTimestamp": 1794407200,
+      "ipfsHash": "0x9aecadd68e5527f01bb885aa8763d610977f8aaa4b03bd426f591f31b930c475"
     }
   ]
 }
