@@ -3811,6 +3811,13 @@
         "ipfsHash": "0xe8aef68e83766e4e1b92f4f88b924e85434470e75f041a7442de1ba5dbd238bc",
         "status": 1,
         "title": "Update CoW Swap Adapters flashBorrowers"
+      },
+      "543": {
+        "proposalId": 543,
+        "proposalStatus": 0,
+        "ipfsHash": "0x0a28d8631b1cd17cfb1acac53e5134990b4d09c1f23284579218383930e149b2",
+        "status": 0,
+        "title": "Onboard USAT to Aave V4 Core Instance on Avalanche"
       }
     }
   }
