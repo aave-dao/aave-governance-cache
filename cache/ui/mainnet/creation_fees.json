@@ -3788,28 +3788,28 @@
         "proposalId": 539,
         "proposalStatus": 4,
         "ipfsHash": "0x77f754ecd53c6137299e5df9ecd817604b16a41bae3c86233f4d736b3c2b25f7",
-        "status": 1,
+        "status": 2,
         "title": "Onboard cirBTC on Aave V3 Core and Aave V4 Core"
       },
       "540": {
         "proposalId": 540,
         "proposalStatus": 4,
         "ipfsHash": "0x18d49d6370897ea87a49b1d845439c10c15e72c1bf3134ac6fbd4ddc4db229eb",
-        "status": 1,
+        "status": 2,
         "title": "Onboard PAXGy to Aave V4 Global Dollar Hub"
       },
       "541": {
         "proposalId": 541,
         "proposalStatus": 4,
         "ipfsHash": "0x9aecadd68e5527f01bb885aa8763d610977f8aaa4b03bd426f591f31b930c475",
-        "status": 1,
+        "status": 2,
         "title": "Upgrade Aave instances to v3.8"
       },
       "542": {
         "proposalId": 542,
         "proposalStatus": 4,
         "ipfsHash": "0xe8aef68e83766e4e1b92f4f88b924e85434470e75f041a7442de1ba5dbd238bc",
-        "status": 1,
+        "status": 2,
         "title": "Update CoW Swap Adapters flashBorrowers"
       },
       "543": {
@@ -3818,6 +3818,13 @@
         "ipfsHash": "0x0a28d8631b1cd17cfb1acac53e5134990b4d09c1f23284579218383930e149b2",
         "status": 0,
         "title": "Onboard USAT to Aave V4 Core Instance on Avalanche"
+      },
+      "544": {
+        "proposalId": 544,
+        "proposalStatus": 0,
+        "ipfsHash": "0xee7e72fbc60d875d6a76638da29cdcc9c4d35688728a961bd2f96e7a92fe8798",
+        "status": 0,
+        "title": "Aave V3. Deprecation of Liquidity Mining: Removal of Emission Admins"
       }
     }
   }

@@ -2,6 +2,16 @@
   "votes": [
     {
       "proposalId": 543,
+      "address": "0xcB15649D7B7a1eb01fb1ACD14809de6cF82Aa1A0",
+      "support": true,
+      "votingPower": 0.0014414702,
+      "transactionHash": "0xd08c3bf2d97c3781c04149ad9ad90cc3f4d0670945f21ad5583ece923fc6edfa",
+      "blockNumber": 100896432,
+      "chainId": 43114,
+      "ensName": "hememix.eth"
+    },
+    {
+      "proposalId": 543,
       "address": "0x3676E9b6A38c5526eddA4a89763Dd97b5813574d",
       "support": true,
       "votingPower": 25000.4864,

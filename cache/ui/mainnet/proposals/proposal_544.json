@@ -1,0 +1,632 @@
+{
+  "payloads": [
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180890,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204890,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x29B8d756C216f481eb1914ED686f686bc323457d",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 50,
+      "chainId": 1088,
+      "payloadsController": "0x2233F8A66A728FBa6E1dC95570B25360D07D5524"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180033,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204033,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x4Ac742669581E8BD98EAFe5F8359fF6eCF0b9019",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 58,
+      "chainId": 534352,
+      "payloadsController": "0x6b6B41c0f8C223715f712BE83ceC3c37bbfDC3fE"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795181935,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798205935,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x984ba446dC208D57096b589ff66a69148c742b65",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 39,
+      "chainId": 324,
+      "payloadsController": "0x2E79349c3F5e4751E87b966812C9E65E805996F1"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180028,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204028,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xADC9f481eEeA11e99B9311BAE1eA8C0AB91ff009",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 19,
+      "chainId": 146,
+      "payloadsController": "0x0846C28Dd54DEA4Fd7Fb31bcc5EB81673D68c695"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180049,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204049,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xcFae4f94Abf356a422FADA9Fe08A0B0043055C58",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 8,
+      "chainId": 1868,
+      "payloadsController": "0x44D73D7C4b2f98F426Bf8B5e87628d9eE38ef0Cf"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180103,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204103,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x9d3Bb71F70642e2E23B3970b2BA6E5cfE5F40034",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        },
+        {
+          "target": "0x9c6B591D7D3dDf0c169BDE39ea3Caa538bB77c88",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 483,
+      "chainId": 1,
+      "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180105,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204105,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xA4D34B04154deD86E0db6057bE7E5991f5b85637",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 152,
+      "chainId": 137,
+      "payloadsController": "0x401B5D0294E23637c18fcc38b1Bca814CDa2637C"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180108,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204108,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xFcc6786F6ccF0ed5E5025558a9E2f4E346Cbd685",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 133,
+      "chainId": 43114,
+      "payloadsController": "0x1140CB7CAfAcC745771C2Ea31e7B5C653c5d0B80"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180125,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204125,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xdC299615A654147c2FF3fe1Ec2f53b63cB312163",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 101,
+      "chainId": 10,
+      "payloadsController": "0x0E1a3Af1f9cC76A62eD31eDedca291E63632e7c4"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180148,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204148,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x8F344C043813CC661b8bee7949592DfAA205B487",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 143,
+      "chainId": 42161,
+      "payloadsController": "0x89644CA1bB8064760312AE4F03ea41b05dA3637C"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180163,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204163,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xdFbb4e42AdbF496c0492E814D972ad9bD557c430",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 124,
+      "chainId": 8453,
+      "payloadsController": "0x2DC219E716793fb4b21548C0f009Ba3Af753ab01"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180215,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204215,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x816b10eb42ECd8f69B46209C0dB636Fd7FD5aBa0",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 88,
+      "chainId": 100,
+      "payloadsController": "0x9A1F491B86D09fC1484b5fab10041B189B60756b"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180185,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204185,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x87B5370fE727B8A0C7a4e5E6Ded434a3767A7F23",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 65,
+      "chainId": 56,
+      "payloadsController": "0xE5EF2Dd06755A97e975f7E282f828224F2C3e627"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180210,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204210,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x3467b9389d33EE8D1Ff6A4d85997aB509F9cfA9a",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 34,
+      "chainId": 59144,
+      "payloadsController": "0x3BcE23a1363728091bc57A58a226CF2940C2e074"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180217,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204217,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xD442C3C65e8326b4Ee207a8cfa0B70B3f20377dD",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 17,
+      "chainId": 42220,
+      "payloadsController": "0xE48E10834C04E394A04BF22a565D063D40b9FA42"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180314,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204314,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0x9B2aaBC910E049d7C81de93c2cB8905cfCDf2231",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 42,
+      "chainId": 9745,
+      "payloadsController": "0xe76EB348E65eF163d85ce282125FF5a7F5712A1d"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180342,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204342,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xc94052B48042B2D2313C824B1FdbEfB511e084da",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 15,
+      "chainId": 5000,
+      "payloadsController": "0xF089f77173A3009A98c45f49D547BF714A7B1e01"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180315,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204315,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xE10c523D5De0b2c83Efd1Dd8EAAfe4fe7e6E4Dda",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 13,
+      "chainId": 4326,
+      "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
+    },
+    {
+      "creator": "0x26D595DdDbAd81Bf976eF6f24686a12A800b141F",
+      "maximumAccessLevelRequired": 1,
+      "state": 1,
+      "createdAt": 1795180351,
+      "queuedAt": 0,
+      "executedAt": 0,
+      "cancelledAt": 0,
+      "expirationTime": 1798204351,
+      "delay": 86400,
+      "gracePeriod": 604800,
+      "actions": [
+        {
+          "target": "0xd1B1cbd4A84Ee4765DD953dCE0b1F8e1D6E401F3",
+          "withDelegateCall": true,
+          "accessLevel": 1,
+          "value": "0",
+          "signature": "execute()",
+          "callData": "0x"
+        }
+      ],
+      "id": 18,
+      "chainId": 196,
+      "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
+    }
+  ],
+  "ipfs": {
+    "ipfsHash": "QmePdaEn9CoxRQPvju3AquV8tDQGDzNAgdaGS9ojNxmzaj",
+    "description": "\n## Simple Summary\n\nAs the first step toward deprecating the liquidity mining feature, this proposal removes every emission admin set on the Aave V3 EmissionManager contracts across 19 networks, including the Horizon instance on Ethereum. After execution, starting, extending, or reconfiguring a liquidity mining distribution on the RewardsController will require a governance vote. Claims of rewards already accrued are not affected by this proposal.\n\n## Motivation\n\nThe EmissionManager allows governance to appoint an emission admin per reward token. That admin can configure distributions of its reward on the RewardsController: add assets to a distribution, set the emission rate, move the distribution end, and replace the transfer strategy or the reward oracle. Admins were appointed over time, mostly through asset listing payloads, to run liquidity mining campaigns.\n\nAll of these campaigns have ended, and no distribution is active on any reserve token. The most recent one ended in July 2026, a distribution on Metis ended in November 2025, and every other distribution ended in January 2025 or earlier. The admins nonetheless retain the permission to start or reconfigure distributions. Of the 300 admins, 266 are held by the ACI Safe ([0xac140648435d03f784879cd789130F22Ef588Fcd](https://etherscan.io/address/0xac140648435d03f784879cd789130F22Ef588Fcd)), which is [no longer part of the DAO](https://governance.aave.com/t/aci-is-leaving-aave/24205). The remaining 34 are spread across 17 other addresses. None of these holders currently needs the role, and none is expected to need it in the future, as new incentive campaigns are run through Merkl.\n\n## Specification\n\nOn each network in scope, the payload calls `EmissionManager.setEmissionAdmin(reward, address(0))` for every reward token that currently has a non-zero emission admin. It is executed by the Executor Lvl1, owner of the EmissionManager. Ethereum has two payloads: one for the Core EmissionManager, shared with Prime and EtherFi, and one for the Horizon EmissionManager. No other configuration changes.\n\nTransfer strategies, rewards vaults, token allowances, reward oracles and distribution configurations on the RewardsController are left as they are, so claims of rewards accrued up to each distribution end are not affected by this proposal. On Metis, the METIS rewards vault (`0x97177cD80475f8b38945c1E77e12F0c9d50Ac84D`) approves only about 0.00005 METIS to its transfer strategy, so most METIS claims already revert; this is independent of this proposal.\n\nAll Aave V3 instances are within the scope of this proposal. However, markets without an emission admin configured are skipped. Aave V2 instances are out of scope, as updating the EmissionManager would require an upgrade, and the last reward campaign ended in 2023.\n\n| Network                            | Emission admins removed |\n| ---------------------------------- | ----------------------: |\n| Ethereum (Core, Prime and EtherFi) |                      81 |\n| Ethereum (Horizon)                 |                      11 |\n| Polygon                            |                       7 |\n| Avalanche                          |                      16 |\n| Optimism                           |                       5 |\n| Arbitrum                           |                      10 |\n| Metis                              |                       1 |\n| Base                               |                      19 |\n| Gnosis                             |                       3 |\n| Scroll                             |                       3 |\n| BNB                                |                       3 |\n| zkSync                             |                       7 |\n| Linea                              |                      16 |\n| Celo                               |                      12 |\n| Sonic                              |                       8 |\n| Soneium                            |                       6 |\n| Plasma                             |                      37 |\n| Mantle                             |                      20 |\n| MegaEth                            |                      17 |\n| X Layer                            |                      18 |\n| **Total**                          |                 **300** |\n\n## References\n\n- Implementation: [AaveV3Ethereum](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Ethereum_RemoveEmissionAdmins_20261029.sol), [AaveV3EthereumHorizon](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3EthereumHorizon_RemoveEmissionAdmins_20261029.sol), [AaveV3Polygon](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Polygon_RemoveEmissionAdmins_20261029.sol), [AaveV3Avalanche](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Avalanche_RemoveEmissionAdmins_20261029.sol), [AaveV3Optimism](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Optimism_RemoveEmissionAdmins_20261029.sol), [AaveV3Arbitrum](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Arbitrum_RemoveEmissionAdmins_20261029.sol), [AaveV3Metis](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Metis_RemoveEmissionAdmins_20261029.sol), [AaveV3Base](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Base_RemoveEmissionAdmins_20261029.sol), [AaveV3Gnosis](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Gnosis_RemoveEmissionAdmins_20261029.sol), [AaveV3Scroll](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Scroll_RemoveEmissionAdmins_20261029.sol), [AaveV3BNB](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3BNB_RemoveEmissionAdmins_20261029.sol), [AaveV3ZkSync](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/zksync/src/20261029_Multi_RemoveEmissionAdmins/AaveV3ZkSync_RemoveEmissionAdmins_20261029.sol), [AaveV3Linea](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Linea_RemoveEmissionAdmins_20261029.sol), [AaveV3Celo](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Celo_RemoveEmissionAdmins_20261029.sol), [AaveV3Sonic](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Sonic_RemoveEmissionAdmins_20261029.sol), [AaveV3Soneium](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Soneium_RemoveEmissionAdmins_20261029.sol), [AaveV3Plasma](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Plasma_RemoveEmissionAdmins_20261029.sol), [AaveV3Mantle](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Mantle_RemoveEmissionAdmins_20261029.sol), [AaveV3MegaEth](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3MegaEth_RemoveEmissionAdmins_20261029.sol), [AaveV3XLayer](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3XLayer_RemoveEmissionAdmins_20261029.sol)\n- Tests: [AaveV3Ethereum](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Ethereum_RemoveEmissionAdmins_20261029.t.sol), [AaveV3EthereumHorizon](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3EthereumHorizon_RemoveEmissionAdmins_20261029.t.sol), [AaveV3Polygon](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Polygon_RemoveEmissionAdmins_20261029.t.sol), [AaveV3Avalanche](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Avalanche_RemoveEmissionAdmins_20261029.t.sol), [AaveV3Optimism](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Optimism_RemoveEmissionAdmins_20261029.t.sol), [AaveV3Arbitrum](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Arbitrum_RemoveEmissionAdmins_20261029.t.sol), [AaveV3Metis](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Metis_RemoveEmissionAdmins_20261029.t.sol), [AaveV3Base](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Base_RemoveEmissionAdmins_20261029.t.sol), [AaveV3Gnosis](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Gnosis_RemoveEmissionAdmins_20261029.t.sol), [AaveV3Scroll](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Scroll_RemoveEmissionAdmins_20261029.t.sol), [AaveV3BNB](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3BNB_RemoveEmissionAdmins_20261029.t.sol), [AaveV3ZkSync](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/zksync/src/20261029_Multi_RemoveEmissionAdmins/AaveV3ZkSync_RemoveEmissionAdmins_20261029.t.sol), [AaveV3Linea](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Linea_RemoveEmissionAdmins_20261029.t.sol), [AaveV3Celo](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Celo_RemoveEmissionAdmins_20261029.t.sol), [AaveV3Sonic](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Sonic_RemoveEmissionAdmins_20261029.t.sol), [AaveV3Soneium](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Soneium_RemoveEmissionAdmins_20261029.t.sol), [AaveV3Plasma](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Plasma_RemoveEmissionAdmins_20261029.t.sol), [AaveV3Mantle](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3Mantle_RemoveEmissionAdmins_20261029.t.sol), [AaveV3MegaEth](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3MegaEth_RemoveEmissionAdmins_20261029.t.sol), [AaveV3XLayer](https://github.com/aave-dao/aave-proposals-v3/blob/6f7ac850f09fcaf4e23f73ac656bd2371fc4e19e/src/20261029_Multi_RemoveEmissionAdmins/AaveV3XLayer_RemoveEmissionAdmins_20261029.t.sol)\n- [Discussion](https://governance.aave.com/t/technical-maintenance-proposals/26300/2)\n\n## Copyright\n\nCopyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).\n",
+    "title": "Aave V3. Deprecation of Liquidity Mining: Removal of Emission Admins",
+    "author": "Aave Labs",
+    "discussions": "https://governance.aave.com/t/technical-maintenance-proposals/26300/2",
+    "originalIpfsHash": "0xee7e72fbc60d875d6a76638da29cdcc9c4d35688728a961bd2f96e7a92fe8798"
+  },
+  "proposal": {
+    "id": 544,
+    "votingDuration": 259200,
+    "creationTime": 1795188407,
+    "accessLevel": 1,
+    "state": 1,
+    "queuingTime": 0,
+    "ipfsHash": "0xee7e72fbc60d875d6a76638da29cdcc9c4d35688728a961bd2f96e7a92fe8798",
+    "initialPayloads": [
+      {
+        "id": 50,
+        "chainId": 1088,
+        "payloadsController": "0x2233F8A66A728FBa6E1dC95570B25360D07D5524"
+      },
+      {
+        "id": 58,
+        "chainId": 534352,
+        "payloadsController": "0x6b6B41c0f8C223715f712BE83ceC3c37bbfDC3fE"
+      },
+      {
+        "id": 39,
+        "chainId": 324,
+        "payloadsController": "0x2E79349c3F5e4751E87b966812C9E65E805996F1"
+      },
+      {
+        "id": 19,
+        "chainId": 146,
+        "payloadsController": "0x0846C28Dd54DEA4Fd7Fb31bcc5EB81673D68c695"
+      },
+      {
+        "id": 8,
+        "chainId": 1868,
+        "payloadsController": "0x44D73D7C4b2f98F426Bf8B5e87628d9eE38ef0Cf"
+      },
+      {
+        "id": 483,
+        "chainId": 1,
+        "payloadsController": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5"
+      },
+      {
+        "id": 152,
+        "chainId": 137,
+        "payloadsController": "0x401B5D0294E23637c18fcc38b1Bca814CDa2637C"
+      },
+      {
+        "id": 133,
+        "chainId": 43114,
+        "payloadsController": "0x1140CB7CAfAcC745771C2Ea31e7B5C653c5d0B80"
+      },
+      {
+        "id": 101,
+        "chainId": 10,
+        "payloadsController": "0x0E1a3Af1f9cC76A62eD31eDedca291E63632e7c4"
+      },
+      {
+        "id": 143,
+        "chainId": 42161,
+        "payloadsController": "0x89644CA1bB8064760312AE4F03ea41b05dA3637C"
+      },
+      {
+        "id": 124,
+        "chainId": 8453,
+        "payloadsController": "0x2DC219E716793fb4b21548C0f009Ba3Af753ab01"
+      },
+      {
+        "id": 88,
+        "chainId": 100,
+        "payloadsController": "0x9A1F491B86D09fC1484b5fab10041B189B60756b"
+      },
+      {
+        "id": 65,
+        "chainId": 56,
+        "payloadsController": "0xE5EF2Dd06755A97e975f7E282f828224F2C3e627"
+      },
+      {
+        "id": 34,
+        "chainId": 59144,
+        "payloadsController": "0x3BcE23a1363728091bc57A58a226CF2940C2e074"
+      },
+      {
+        "id": 17,
+        "chainId": 42220,
+        "payloadsController": "0xE48E10834C04E394A04BF22a565D063D40b9FA42"
+      },
+      {
+        "id": 42,
+        "chainId": 9745,
+        "payloadsController": "0xe76EB348E65eF163d85ce282125FF5a7F5712A1d"
+      },
+      {
+        "id": 15,
+        "chainId": 5000,
+        "payloadsController": "0xF089f77173A3009A98c45f49D547BF714A7B1e01"
+      },
+      {
+        "id": 13,
+        "chainId": 4326,
+        "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
+      },
+      {
+        "id": 18,
+        "chainId": 196,
+        "payloadsController": "0x80e11cB895a23C901a990239E5534054C66476B5"
+      }
+    ],
+    "snapshotBlockHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "creator": "0x66a28531E6f390A8CD44aB0C57a0F1aeb7E673FF",
+    "canceledAt": 0,
+    "votingActivationTime": 0,
+    "votingChainId": 43114,
+    "votingMachineData": {
+      "id": 544,
+      "forVotes": "0",
+      "againstVotes": "0",
+      "startTime": 0,
+      "endTime": 0,
+      "votingClosedAndSentBlockNumber": 0,
+      "votingClosedAndSentTimestamp": 0,
+      "l1BlockHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "strategy": "0x6771B74568181f6042C9e5CFF98f62e7Ce40482e",
+      "sentToGovernance": false,
+      "createdBlock": 0,
+      "votedInfo": {
+        "support": false,
+        "votingPower": "0"
+      },
+      "votingAssets": [
+        "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "0x4da27a545c0c5B758a6BA100e3a049001de870f5",
+        "0xA700b4eB416Be35b2911fd5Dee80678ff64fF6C9"
+      ],
+      "hasRequiredRoots": false
+    },
+    "isFinished": false,
+    "lastUpdatedTimestamp": 1795198332,
+    "cancellationFee": 50000000000000000
+  }
+}
