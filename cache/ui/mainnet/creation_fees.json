@@ -3340,6 +3340,13 @@
         "ipfsHash": "0x7a1f2af0839058009245d2d8c1346427202dc40d0497b05d8e1d077fd2446ec3",
         "status": 1,
         "title": "Onboard USDe to Aave V3 X Layer"
+      },
+      "546": {
+        "proposalId": 546,
+        "proposalStatus": 0,
+        "ipfsHash": "0x4278f6f02adb53ecdf1f194f5d2028d85b08fff7e15fd359e07939af21f5f645",
+        "status": 0,
+        "title": "Reserve Factor Updates Across Aave V3 and V2 Markets"
       }
     },
     "0x66a28531E6f390A8CD44aB0C57a0F1aeb7E673FF": {
