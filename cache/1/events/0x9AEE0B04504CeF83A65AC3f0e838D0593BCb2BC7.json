@@ -79773,5 +79773,24 @@
     ],
     "data": "0x000000000000000000000000000000000000000000000000000000000003f480",
     "removed": false
+  },
+  {
+    "eventName": "ProposalCanceled",
+    "args": {
+      "proposalId": "546"
+    },
+    "address": "0x9aee0b04504cef83a65ac3f0e838d0593bcb2bc7",
+    "topics": [
+      "0x789cf55be980739dad1d0699b93b58e806b51c9d96619bfa8fe0a28abaa7b30c",
+      "0x0000000000000000000000000000000000000000000000000000000000000222"
+    ],
+    "data": "0x",
+    "blockHash": "0x9a6b451018cf71427d8d5820f5b4ada4d56eef602abbab22644dd5d84985f439",
+    "blockNumber": "26508597",
+    "blockTimestamp": "1795807175",
+    "transactionHash": "0xf91695e78b6f8ec0764db69d4628d50c134fc86bbb65b201734f392459127dd3",
+    "transactionIndex": 172,
+    "logIndex": 517,
+    "removed": false
   }
 ]

@@ -19098,13 +19098,13 @@
     "isFinished": false
   },
   "546": {
-    "state": 2,
+    "state": 6,
     "accessLevel": 1,
     "creationTime": 1795705943,
     "votingDuration": 259200,
     "votingActivationTime": 1795792391,
     "queuingTime": 0,
-    "cancelTimestamp": 0,
+    "cancelTimestamp": 1795807175,
     "creator": "0x2cc1ADE245020FC5AAE66Ad443e1F66e01c54Df1",
     "votingPortal": "0x9Ded9406f088C10621BE628EEFf40c1DF396c172",
     "snapshotBlockHash": "0xcb656958e3dde7aa443c5433c87d33b09502d0d6a43b4780b5e96e89378cf669",
@@ -19180,6 +19180,6 @@
         "payloadId": 35
       }
     ],
-    "isFinished": false
+    "isFinished": true
   }
 }
