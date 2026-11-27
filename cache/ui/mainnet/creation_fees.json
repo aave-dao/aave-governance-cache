@@ -3835,9 +3835,9 @@
       },
       "545": {
         "proposalId": 545,
-        "proposalStatus": 1,
+        "proposalStatus": 2,
         "ipfsHash": "0x2cb0b5f6ce849e9ee5cf5f8f5a21cb83f7ed9a3d9bcf9e5b40505881289420aa",
-        "status": 0,
+        "status": 1,
         "title": "Repositioning Aave V3 Core Around Established & Liquid Collateral"
       }
     }
